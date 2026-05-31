@@ -59,7 +59,7 @@ beforeEach(() => {
 
 describe('Sidebar', () => {
   it('renders a nested tree with 3+ levels', () => {
-    render(<Sidebar categories={tree} />);
+    render(<Sidebar categories={tree} maxDepth={99} />);
 
     // Level 1, 2, and 3 labels are all present.
     expect(screen.getByRole('link', { name: 'Vocabulary' })).toBeInTheDocument();
@@ -69,8 +69,23 @@ describe('Sidebar', () => {
     expect(screen.getByRole('link', { name: 'Accretion' })).toBeInTheDocument();
   });
 
-  it('points each link at its category route', () => {
+  it('limits the rendered depth to maxDepth (default 1)', () => {
+    // Default maxDepth=1 shows top-level + direct sub-categories only; the
+    // 3rd level (Verbs/Nouns under Thesaurus) is surfaced in-content instead.
     render(<Sidebar categories={tree} />);
+    expect(screen.getByRole('link', { name: 'Vocabulary' })).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: 'Thesaurus' })).toBeInTheDocument();
+    expect(screen.queryByRole('link', { name: 'Verbs' })).not.toBeInTheDocument();
+    expect(screen.queryByRole('link', { name: 'Nouns' })).not.toBeInTheDocument();
+
+    // A category at the depth cap shows no expand/collapse toggle.
+    expect(
+      screen.queryByRole('button', { name: /collapse thesaurus/i }),
+    ).not.toBeInTheDocument();
+  });
+
+  it('points each link at its category route', () => {
+    render(<Sidebar categories={tree} maxDepth={99} />);
     expect(screen.getByRole('link', { name: 'Verbs' })).toHaveAttribute(
       'href',
       '/category/3',
@@ -79,7 +94,7 @@ describe('Sidebar', () => {
 
   it('marks the active category with aria-current="page"', () => {
     mockPathname = '/category/3';
-    render(<Sidebar categories={tree} />);
+    render(<Sidebar categories={tree} maxDepth={99} />);
 
     const active = screen.getByRole('link', { name: 'Verbs' });
     expect(active).toHaveAttribute('aria-current', 'page');
@@ -99,7 +114,7 @@ describe('Sidebar', () => {
 
   it('collapses and expands a branch via its accessible toggle', async () => {
     const user = userEvent.setup();
-    render(<Sidebar categories={tree} />);
+    render(<Sidebar categories={tree} maxDepth={99} />);
 
     const toggle = screen.getByRole('button', { name: /collapse thesaurus/i });
     expect(toggle).toHaveAttribute('aria-expanded', 'true');

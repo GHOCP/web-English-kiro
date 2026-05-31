@@ -24,9 +24,7 @@ import Link from 'next/link';
 import useSWR, { useSWRConfig } from 'swr';
 
 import { ThesaurusView } from '@/components/ThesaurusView';
-import { GenreGridView, type GenreEntry } from '@/components/GenreGridView';
-import { WritingView } from '@/components/WritingView';
-import { SpeakingView } from '@/components/SpeakingView';
+import { CategorySubtreeView } from '@/components/CategorySubtreeView';
 import { EntryEditor } from '@/components/EntryEditor';
 import { Markdown } from '@/components/Markdown';
 import { recordRecentCategory } from '@/lib/recentCategories';
@@ -51,55 +49,6 @@ const fetcher = (url: string): Promise<CategoryPageData> =>
     return res.json() as Promise<CategoryPageData>;
   });
 
-/** Map an `EntryWithRelations` to the lean shape `GenreGridView` consumes. */
-function toGenreEntry(entry: EntryWithRelations): GenreEntry {
-  return {
-    id: entry.id,
-    word: entry.word,
-    pronunciation: entry.pronunciation,
-    definitions: entry.definitions.map((d) => ({ id: d.id, text: d.text })),
-    images: entry.images.map((img) => ({ id: img.id, altText: img.altText })),
-  };
-}
-
-/**
- * Default "list" rendering: a readable list of entries, each linking to its
- * detail page (`/entry/:id`) with the first definition as an inline preview.
- */
-function EntryList({ entries }: { entries: EntryWithRelations[] }) {
-  if (entries.length === 0) {
-    return <p className="text-sm text-muted">No entries in this category yet.</p>;
-  }
-  return (
-    <ul className="divide-y divide-border">
-      {entries.map((entry) => {
-        const preview = entry.definitions[0]?.text;
-        return (
-          <li key={entry.id} className="py-3">
-            <Link
-              href={`/entry/${entry.id}`}
-              className="font-semibold text-writing underline-offset-2 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
-              lang="en"
-            >
-              {entry.word}
-            </Link>
-            {entry.pronunciation ? (
-              <span className="ml-2 text-sm text-muted">
-                {entry.pronunciation}
-              </span>
-            ) : null}
-            {preview ? (
-              <Markdown className="mt-1 text-sm text-foreground/90">
-                {preview}
-              </Markdown>
-            ) : null}
-          </li>
-        );
-      })}
-    </ul>
-  );
-}
-
 /** Pick and render the view component matching the category's `viewType`. */
 function renderView(data: CategoryPageData) {
   switch (data.viewType) {
@@ -110,15 +59,20 @@ function renderView(data: CategoryPageData) {
           entriesByCategory={data.entriesByCategory}
         />
       );
+    // list / genre / writing / speaking all render the FULL subtree, surfacing
+    // deeper sub-categories (no longer in the sidebar) as in-content headers.
     case 'genre':
-      return <GenreGridView entries={data.entries.map(toGenreEntry)} />;
     case 'writing':
-      return <WritingView entries={data.entries} title={data.category.name} />;
     case 'speaking':
-      return <SpeakingView entries={data.entries} title={data.category.name} />;
     case 'list':
     default:
-      return <EntryList entries={data.entries} />;
+      return (
+        <CategorySubtreeView
+          category={data.category}
+          entriesByCategory={data.entriesByCategory}
+          viewType={data.viewType}
+        />
+      );
   }
 }
 
@@ -142,9 +96,7 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
   return (
     <div>
       <div className="mb-4 flex items-center justify-between gap-4">
-        {pageData.viewType !== 'thesaurus' &&
-        pageData.viewType !== 'writing' &&
-        pageData.viewType !== 'speaking' ? (
+        {pageData.viewType !== 'thesaurus' ? (
           <h1 className="text-2xl font-bold text-foreground">
             {pageData.category.name}
           </h1>

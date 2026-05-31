@@ -32,6 +32,13 @@ export interface SidebarProps {
    * the tree is loaded client-side via SWR.
    */
   categories?: CategoryTree;
+  /**
+   * Deepest nesting level the sidebar renders (0 = top level only). Defaults to
+   * 1, so the nav shows just top-level categories and their direct
+   * sub-categories; anything deeper is surfaced as in-content headers on the
+   * category page rather than cluttering the nav.
+   */
+  maxDepth?: number;
 }
 
 const fetcher = (url: string): Promise<CategoryTree> =>
@@ -64,14 +71,22 @@ interface SidebarNodeProps {
   node: CategoryTreeNode;
   /** Nesting depth (0 = top level) — drives indentation and accent colour. */
   depth: number;
+  /**
+   * Deepest depth the sidebar renders. Nodes at `maxDepth` are shown as plain
+   * links with no expand toggle and no children, even when the underlying
+   * category has descendants — those deeper sub-categories are surfaced as
+   * in-content headers on the category page instead.
+   */
+  maxDepth: number;
   /** The active category path (e.g. `/category/5`) for highlight comparison. */
   activePath: string | null;
 }
 
-function SidebarNode({ node, depth, activePath }: SidebarNodeProps) {
+function SidebarNode({ node, depth, maxDepth, activePath }: SidebarNodeProps) {
   const href = `/category/${node.id}`;
   const isActive = activePath === href;
-  const hasChildren = node.children.length > 0;
+  // Only branch (show children + toggle) while we are above the depth cap.
+  const showChildren = node.children.length > 0 && depth < maxDepth;
   const [expanded, setExpanded] = useState(true);
 
   const accentClass = depth === 0 ? topLevelAccentClass(node.name) : '';
@@ -82,7 +97,7 @@ function SidebarNode({ node, depth, activePath }: SidebarNodeProps) {
         className="flex items-center gap-1"
         style={{ paddingLeft: `${depth * 12}px` }}
       >
-        {hasChildren ? (
+        {showChildren ? (
           <button
             type="button"
             onClick={() => setExpanded((prev) => !prev)}
@@ -114,13 +129,14 @@ function SidebarNode({ node, depth, activePath }: SidebarNodeProps) {
         </Link>
       </div>
 
-      {hasChildren && expanded && (
+      {showChildren && expanded && (
         <ul>
           {node.children.map((child) => (
             <SidebarNode
               key={child.id}
               node={child}
               depth={depth + 1}
+              maxDepth={maxDepth}
               activePath={activePath}
             />
           ))}
@@ -130,7 +146,7 @@ function SidebarNode({ node, depth, activePath }: SidebarNodeProps) {
   );
 }
 
-export function Sidebar({ categories }: SidebarProps) {
+export function Sidebar({ categories, maxDepth = 1 }: SidebarProps) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
@@ -186,6 +202,7 @@ export function Sidebar({ categories }: SidebarProps) {
                   key={node.id}
                   node={node}
                   depth={0}
+                  maxDepth={maxDepth}
                   activePath={pathname}
                 />
               ))}

@@ -110,9 +110,8 @@ describe('CategoryView view selection', () => {
         })}
       />,
     );
-    // GenreGridView labels its region "Genre entries" (section + scroll
-    // container both carry the label, so assert at least one is present).
-    expect(screen.getAllByLabelText('Genre entries').length).toBeGreaterThan(0);
+    // The genre leaf renders each entry as an <article> labelled by its word.
+    expect(screen.getByRole('article', { name: 'provoke' })).toBeInTheDocument();
   });
 
   it('renders the thesaurus table for viewType="thesaurus"', () => {
@@ -147,12 +146,13 @@ describe('CategoryView view selection', () => {
         })}
       />,
     );
-    // The writing view groups by distinction; the "Phrases" section heading
-    // (level 2) is present.
+    // The page title shows the category name, and the writing entry renders.
     expect(
-      screen.getByRole('heading', { level: 2, name: /phrases/i }),
+      screen.getByRole('heading', { level: 1, name: 'Phrases' }),
     ).toBeInTheDocument();
-    expect(screen.getByText('as a matter of fact')).toBeInTheDocument();
+    expect(
+      screen.getByRole('link', { name: 'as a matter of fact' }),
+    ).toBeInTheDocument();
   });
 
   it('renders the speaking view for viewType="speaking"', () => {
@@ -168,7 +168,11 @@ describe('CategoryView view selection', () => {
         })}
       />,
     );
-    expect(screen.getByRole('heading', { name: 'Daily' })).toBeInTheDocument();
+    // The page title shows the category name; the dialogue renders as a list.
+    expect(
+      screen.getByRole('heading', { level: 1, name: 'Daily' }),
+    ).toBeInTheDocument();
+    expect(screen.getByRole('list', { name: /dialogue/i })).toBeInTheDocument();
   });
 });
 
