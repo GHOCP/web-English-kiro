@@ -1,0 +1,61 @@
+# Keep the Docker build context lean and avoid baking dev/runtime state into the
+# image (Task 21). The Dockerfile installs deps and builds from source, so most
+# generated/local artifacts must NOT be sent to the daemon.
+
+# Dependencies & build output (reinstalled/rebuilt inside the image)
+node_modules
+.next
+out
+build
+*.tsbuildinfo
+next-env.d.ts
+
+# Version control & editor/OS cruft
+.git
+.gitignore
+.vscode
+.DS_Store
+**/.DS_Store
+
+# Runtime state — NEVER bake a dev/e2e database or uploaded files into the image.
+# The whole data/ dir (incl. the ephemeral Playwright data/e2e-test.db) and the
+# uploads/ contents live in named volumes at runtime instead.
+data
+uploads
+
+# Legacy static site — irrelevant to the container.
+htmls
+images
+lead
+index.html
+main.js
+styles.css
+
+# Tests, fixtures, reports, and coverage (not needed in the production image)
+tests
+test-results
+playwright-report
+blob-report
+playwright/.cache
+coverage
+**/*.test.ts
+**/*.test.tsx
+playwright.config.ts
+vitest.config.ts
+vitest.setup.ts
+
+# Specs, docs, and scratch markdown
+.kiro
+*.md
+prompts-template.md
+
+# Local env files — runtime config is injected via docker-compose, and secrets
+# must not be copied into image layers.
+.env
+.env.local
+.env*.local
+
+# Docker artifacts themselves
+Dockerfile
+.dockerignore
+docker-compose.yml

@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Theme tokens. Light mode is the default declared on :root; the `.dark`
+ * class (applied by next-themes) overrides them. The app defaults to dark,
+ * which preserves the legacy identity: black sidebar with colored category
+ * accents (red Vocabulary / purple Accretion / green Speaking / blue Writing).
+ */
+:root {
+  --color-surface: #ffffff;
+  --color-surface-elevated: #f5f5f5;
+  --color-sidebar: #1a1a1a;
+  --color-sidebar-foreground: #f5f5f5;
+  --color-foreground: #1a1a1a;
+  --color-muted: #6b7280;
+  --color-border: #e5e7eb;
+
+  /* Category accent colors — tuned for >= 4.5:1 contrast on light surfaces.
+     Ratios on #ffffff: red 4.83:1, purple 5.70:1, green 5.02:1, blue 5.17:1. */
+  --accent-vocabulary: #dc2626; /* red    */
+  --accent-accretion: #7c3aed; /* purple */
+  --accent-speaking: #15803d; /* green  */
+  --accent-writing: #2563eb; /* blue   */
+}
+
+.dark {
+  --color-surface: #0f0f0f;
+  --color-surface-elevated: #1a1a1a;
+  --color-sidebar: #000000;
+  --color-sidebar-foreground: #f5f5f5;
+  --color-foreground: #f5f5f5;
+  --color-muted: #9ca3af;
+  --color-border: #2a2a2a;
+
+  /* Brighter accents for >= 4.5:1 contrast on the black sidebar/dark surfaces. */
+  --accent-vocabulary: #f87171; /* red    */
+  --accent-accretion: #c084fc; /* purple */
+  --accent-speaking: #4ade80; /* green  */
+  --accent-writing: #60a5fa; /* blue   */
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--color-surface);
+  color: var(--color-foreground);
+}

@@ -1,0 +1,17 @@
+{
+  // Dedicated type-check config for the Playwright E2E specs.
+  //
+  // The root tsconfig intentionally EXCLUDES `tests/e2e` (so Next's build and
+  // the app type-check ignore Playwright/node test code). This config lets the
+  // specs be type-checked on their own — `npx tsc --noEmit -p tests/e2e` — while
+  // still resolving the `@/*` path alias used by the seed/setup imports.
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "types": ["node"],
+    "noEmit": true,
+    "module": "esnext",
+    "moduleResolution": "bundler"
+  },
+  "include": ["**/*.ts"],
+  "exclude": []
+}

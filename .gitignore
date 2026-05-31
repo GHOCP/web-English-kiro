@@ -1,0 +1,46 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+/test-results
+/playwright-report
+/blob-report
+/playwright/.cache
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# prisma / sqlite (data is volume-mounted at runtime)
+/data/*.db
+/data/*.db-journal
+/data/*.db-shm
+/data/*.db-wal
+/prisma/dev.db
+/prisma/dev.db-journal
+
+# uploaded images (volume-mounted at runtime)
+/uploads/*
+!/uploads/.gitkeep
+
+# misc
+.DS_Store
+*.pem
+.env
+.env.local
+.env*.local
+
+# debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

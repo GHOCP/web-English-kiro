@@ -1,0 +1,58 @@
+# docker-compose for the Lexical Resources System (Task 21, R12).
+#
+# Single service. Bring it up with:
+#
+#     docker compose up -d --build
+#
+# Configurable host port (default 3000): set PORT in your shell or a .env file
+# next to this compose file, e.g. `PORT=8080 docker compose up -d`.
+#
+# Persistence (R12.4): two NAMED volumes hold the only mutable state —
+#   - lexical_data    -> /app/data    (the SQLite database file)
+#   - lexical_uploads -> /app/uploads (uploaded image originals + thumbnails)
+# Both survive `docker compose restart` and `docker compose down` (they are only
+# removed by `docker compose down -v`).
+#
+# SECURITY POSTURE (design Q16 / README "Deployment"): this app has NO
+# application-level authentication. Anyone who can reach the published port has
+# full read/write/delete access. Publish it on localhost or a trusted network
+# only, or front it with a reverse proxy that adds auth. See README.
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # Map a configurable HOST port onto the fixed CONTAINER port 3000 (R12.3).
+    # Bind to 127.0.0.1 by default so the app is NOT exposed on all interfaces
+    # without a deliberate choice (matches the no-auth posture, Q16). To expose
+    # on a LAN/trusted network, change BIND_HOST to 0.0.0.0 (and add a proxy).
+    ports:
+      - "${BIND_HOST:-127.0.0.1}:${PORT:-3000}:3000"
+    environment:
+      # In-container paths — these point at the mounted named volumes below.
+      DATABASE_URL: "file:/app/data/lexical.db"
+      UPLOADS_DIR: "/app/uploads"
+      NODE_ENV: "production"
+    volumes:
+      - lexical_data:/app/data
+      - lexical_uploads:/app/uploads
+    restart: unless-stopped
+    # Container health check (R12.5): hit /api/health with Node's built-in fetch
+    # (no curl/wget needed in the slim image). 200 => healthy, anything else =>
+    # unhealthy. This mirrors the HEALTHCHECK baked into the image but is kept
+    # here too so `docker compose ps` reports health even if the image changes.
+    healthcheck:
+      test:
+        - "CMD"
+        - "node"
+        - "-e"
+        - "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+volumes:
+  lexical_data:
+  lexical_uploads:
