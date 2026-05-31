@@ -53,7 +53,13 @@ export interface ImportDocument extends Omit<ExportDocument, 'categories'> {
 }
 
 /** The kind of legacy page being parsed (drives table-structure detection). */
-export type PageType = 'thesaurus' | 'genre' | 'look-around';
+export type PageType =
+  | 'thesaurus'
+  | 'genre'
+  | 'look-around'
+  | 'word-list'
+  | 'speaking'
+  | 'phrase-grid';
 
 /** Options for parsing a single legacy page. */
 export interface ParsePageOptions {
@@ -63,6 +69,13 @@ export interface ParsePageOptions {
   categoryName: string;
   /** displayOrder for the page's top-level category (default 0). */
   displayOrder?: number;
+  /**
+   * Override the `viewType` stamped on the page + its sub-categories. Only the
+   * columnar parsers (`word-list` / `speaking`) honor this; it lets the
+   * writing phrase/structure/expression pages render in the writing view
+   * (`viewType="writing"`) even though they share the word-list table shape.
+   */
+  viewType?: string;
 }
 
 /** Result of parsing a page: the document plus non-fatal warnings. */

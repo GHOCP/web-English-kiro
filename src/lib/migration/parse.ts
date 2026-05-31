@@ -381,6 +381,166 @@ function parseGenre(
 }
 
 // ---------------------------------------------------------------------------
+// Columnar word-list parser (A~Z vocabulary, phrase lists, speaking dialogues)
+// ---------------------------------------------------------------------------
+
+/**
+ * Parse the large family of legacy pages laid out as `<h1>` (and optional
+ * `<h2>`) section headings followed by multi-column tables whose cells repeat a
+ * `word | meaning` pair (the source packs 2–3 pairs per `<tr>` to fit the page
+ * width). This covers:
+ *
+ *   - the A~Z vocabulary (`index.html`), 6-column tables, three pairs per row;
+ *   - the writing phrase lists (index07–12, 14–16, 18–20), same shape;
+ *   - the speaking dialogue pages (index05–06), 4-column tables, two
+ *     `dialogue | translation` pairs per row.
+ *
+ * Unlike the look-around parser (which reads only the first columns of a row),
+ * this walks EVERY pair so nothing is dropped. `<h1>` becomes a child category
+ * of the page, `<h2>` a grandchild; entries live in the deepest heading seen.
+ * `viewType` is applied to the page and all its sub-categories so the UI picks
+ * the right view (`list` for vocabulary/writing, `speaking` for dialogues).
+ *
+ * Requirements: 7.1, 7.2, 7.3, 7.5, 13.x, 14.x
+ */
+function parseColumnarList(
+  content: HtmlElement,
+  options: ParsePageOptions,
+  warnings: string[],
+  viewType: string,
+  wordAsMarkdown = false,
+): ImportCategory {
+  const root = newCategory(options.categoryName, viewType);
+
+  let section: CategoryBuilder | null = null;
+  let sub: CategoryBuilder | null = null;
+
+  // The word column is a single term for vocabulary/phrase pages (plain text),
+  // but a multi-line dialogue for speaking pages where <br> turn breaks must be
+  // preserved as newlines for the speaking view to split into turns.
+  const readWord = (cell: HtmlElement): string =>
+    wordAsMarkdown ? cellToMarkdown(cell) : cellToPlainText(cell);
+
+  const ensureSection = (): CategoryBuilder => {
+    if (!section) {
+      section = newCategory(options.categoryName, viewType);
+      root.children.push(section);
+    }
+    return section;
+  };
+
+  for (const el of elementChildren(content)) {
+    const tag = el.rawTagName.toLowerCase();
+    if (tag === 'h1') {
+      const heading = cleanHeading(el.text);
+      if (!heading) continue;
+      section = newCategory(heading, viewType);
+      root.children.push(section);
+      sub = null;
+    } else if (tag === 'h2') {
+      const heading = cleanHeading(el.text);
+      if (!heading) continue;
+      sub = newCategory(heading, viewType);
+      ensureSection().children.push(sub);
+    } else if (tag === 'table') {
+      const target = sub ?? ensureSection();
+      // Cells repeat (word | meaning); walk two at a time so every pair in the
+      // row is captured, not just the first.
+      for (const cells of tableDataRows(el)) {
+        for (let i = 0; i + 1 < cells.length; i += 2) {
+          const word = readWord(cells[i]);
+          if (!word) continue; // skip empty placeholder pairs
+          const meaning = cellToMarkdown(cells[i + 1]);
+          upsertEntry(target, word, meaning, warnings);
+        }
+      }
+    }
+  }
+
+  return emitCategory(root, options.displayOrder ?? 0);
+}
+
+// ---------------------------------------------------------------------------
+// Phrase-grid parser (index17 topics) — h1 group / h2 topic / ul.grid items
+// ---------------------------------------------------------------------------
+
+/**
+ * Parse the topics page (index17), whose entries live in `<ul class="grid">`
+ * lists rather than tables. Each `<li>` holds:
+ *   - `div.title > h2` — the phrase/pattern text (may use `<br>` for multiple
+ *     related patterns), which becomes the entry `word`;
+ *   - `div.title > div.num` — a decorative counter, IGNORED;
+ *   - `<p>` — the illustrative sentence, stored as the entry's example.
+ *
+ * Headings nest as `<h1>` group → `<h2>` topic sub-category. Empty placeholder
+ * items (no phrase and no sentence) are skipped. `viewType="writing"` so the
+ * page renders in the writing view alongside the other expression pages.
+ *
+ * Requirements: 7.1, 7.2, 7.3, 7.5, 13.x
+ */
+function parsePhraseGrid(
+  content: HtmlElement,
+  options: ParsePageOptions,
+  warnings: string[],
+  viewType: string,
+): ImportCategory {
+  const root = newCategory(options.categoryName, viewType);
+
+  let group: CategoryBuilder | null = null;
+  let topic: CategoryBuilder | null = null;
+
+  const ensureTopic = (): CategoryBuilder => {
+    if (topic) return topic;
+    if (!group) {
+      group = newCategory(options.categoryName, viewType);
+      root.children.push(group);
+    }
+    topic = newCategory(options.categoryName, viewType);
+    group.children.push(topic);
+    return topic;
+  };
+
+  for (const el of elementChildren(content)) {
+    const tag = el.rawTagName.toLowerCase();
+    if (tag === 'h1') {
+      const heading = cleanHeading(el.text);
+      if (!heading) continue;
+      group = newCategory(heading, viewType);
+      root.children.push(group);
+      topic = null;
+    } else if (tag === 'h2') {
+      const heading = cleanHeading(el.text);
+      if (!heading) continue;
+      if (!group) {
+        group = newCategory(options.categoryName, viewType);
+        root.children.push(group);
+      }
+      topic = newCategory(heading, viewType);
+      group.children.push(topic);
+    } else if (tag === 'ul') {
+      const target = ensureTopic();
+      for (const li of el.querySelectorAll('li')) {
+        if (li.closest('li') !== li) continue; // top-level items only
+        const titleEl = li.querySelector('.title h2');
+        const phrase = titleEl ? cellToMarkdown(titleEl) : '';
+        const sentence = li.querySelector('p');
+        const example = sentence ? cellToMarkdown(sentence) : '';
+        if (!phrase && !example) continue; // skip empty placeholder cells
+        // Use the phrase as the word; fall back to the sentence when a grid
+        // item has only a sentence. Duplicate phrases merge as usual.
+        const word = phrase || example;
+        const entry = upsertEntry(target, word, '', warnings, 'expression');
+        if (entry && example && phrase) {
+          entry.examples.push({ text: example });
+        }
+      }
+    }
+  }
+
+  return emitCategory(root, options.displayOrder ?? 0);
+}
+
+// ---------------------------------------------------------------------------
 // Look-around parser (index04) — mixed ul/table/p
 // ---------------------------------------------------------------------------
 
@@ -517,6 +677,31 @@ export function parsePage(html: string, options: ParsePageOptions): ParseResult 
       break;
     case 'look-around':
       category = parseLookAround(content, options, warnings);
+      break;
+    case 'word-list':
+      category = parseColumnarList(
+        content,
+        options,
+        warnings,
+        options.viewType ?? 'list',
+      );
+      break;
+    case 'speaking':
+      category = parseColumnarList(
+        content,
+        options,
+        warnings,
+        options.viewType ?? 'speaking',
+        true, // preserve <br> turn breaks in the dialogue (word) column
+      );
+      break;
+    case 'phrase-grid':
+      category = parsePhraseGrid(
+        content,
+        options,
+        warnings,
+        options.viewType ?? 'writing',
+      );
       break;
     default: {
       const _never: never = pageType;

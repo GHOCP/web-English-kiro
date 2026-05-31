@@ -282,8 +282,181 @@ describe('genre parser (index03)', () => {
 });
 
 // ---------------------------------------------------------------------------
-// Look-around golden file (index04 fragment)
+// Columnar word-list golden file (A~Z / phrase pages — multi-pair rows)
 // ---------------------------------------------------------------------------
+const WORD_LIST_HTML = `
+<article><div id="content">
+  <h1 id="A">A</h1>
+  <table>
+    <thead><tr><th>&#10055</th><th>&nbsp;</th><th>&#10055</th><th>&nbsp;</th><th>&#10055</th><th>&nbsp;</th></tr></thead>
+    <tbody>
+      <tr>
+        <td>automatic pilot system</td>
+        <td>自动驾驶系统</td>
+        <td>administrator</td>
+        <td>行政人员；管理人员</td>
+        <td>a pair of lovers</td>
+        <td>一对情侣</td>
+      </tr>
+      <tr>
+        <td>achromatopsia</td>
+        <td>/eɪˌkrəʊməˈtɒpsɪə/ 色盲</td>
+        <td>auditorium</td>
+        <td>1. the audience sits 听众席<br/>2. concert hall 音乐厅</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h1 id="B">B</h1>
+  <table>
+    <thead><tr><th>&#10055</th><th>&nbsp;</th></tr></thead>
+    <tbody>
+      <tr><td>back problem</td><td>背部疼痛</td></tr>
+    </tbody>
+  </table>
+</div></article>`;
+
+describe('columnar word-list parser (A~Z / phrases)', () => {
+  it('captures EVERY word|meaning pair in a multi-column row (no data loss)', () => {
+    const { document } = parsePage(WORD_LIST_HTML, {
+      categoryName: 'A ~ Z',
+      pageType: 'word-list',
+      viewType: 'list',
+    });
+
+    const root = document.categories[0];
+    expect(root.name).toBe('A ~ Z');
+    expect(root.viewType).toBe('list');
+    // One child category per <h1> section.
+    expect(root.children.map((c) => c.name)).toEqual(['A', 'B']);
+
+    const sectionA = root.children[0];
+    const words = sectionA.entries.map((e) => e.word);
+    // All three pairs of row 1 + first two pairs of row 2 (empty pair skipped).
+    expect(words).toEqual([
+      'automatic pilot system',
+      'administrator',
+      'a pair of lovers',
+      'achromatopsia',
+      'auditorium',
+    ]);
+
+    // Pronunciation extraction + numbered-sense Markdown still apply.
+    const achr = sectionA.entries.find((e) => e.word === 'achromatopsia')!;
+    expect(achr.pronunciation).toBe('/eɪˌkrəʊməˈtɒpsɪə/');
+    expect(achr.definitions[0].text).toBe('色盲');
+    const aud = sectionA.entries.find((e) => e.word === 'auditorium')!;
+    expect(aud.definitions[0].text).toBe(
+      '1. the audience sits 听众席\n2. concert hall 音乐厅',
+    );
+  });
+
+  it('honors a viewType override (writing) across all sub-categories', () => {
+    const { document } = parsePage(WORD_LIST_HTML, {
+      categoryName: 'Phrases',
+      pageType: 'word-list',
+      viewType: 'writing',
+    });
+    const root = document.categories[0];
+    expect(root.viewType).toBe('writing');
+    expect(root.children.every((c) => c.viewType === 'writing')).toBe(true);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Speaking golden file (dialogue pages — viewType=speaking)
+// ---------------------------------------------------------------------------
+const SPEAKING_HTML = `
+<article><div id="content">
+  <h1 id="1">Shopping</h1>
+  <table>
+    <thead><tr><th>&#10055</th><th>&nbsp;</th><th>&#10055</th><th>&nbsp;</th></tr></thead>
+    <tbody>
+      <tr>
+        <td>-- Can I help you find something?<br />-- I'm just looking right now.</td>
+        <td>我周围看看</td>
+        <td>-- We are having a sale right now.</td>
+        <td>打折</td>
+      </tr>
+    </tbody>
+  </table>
+</div></article>`;
+
+describe('speaking parser (scenes / daily dialogues)', () => {
+  it('stamps viewType=speaking and captures both dialogue pairs per row', () => {
+    const { document } = parsePage(SPEAKING_HTML, {
+      categoryName: 'Scenes',
+      pageType: 'speaking',
+    });
+    const root = document.categories[0];
+    expect(root.viewType).toBe('speaking');
+    const shopping = root.children[0];
+    expect(shopping.name).toBe('Shopping');
+    expect(shopping.viewType).toBe('speaking');
+    const words = shopping.entries.map((e) => e.word);
+    expect(words).toEqual([
+      '-- Can I help you find something?\n-- I\'m just looking right now.',
+      '-- We are having a sale right now.',
+    ]);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Phrase-grid golden file (index17 topics — ul.grid with .title/.num/p)
+// ---------------------------------------------------------------------------
+const PHRASE_GRID_HTML = `
+<article><div id="content">
+  <h1 id="A">PERSONAL</h1>
+  <h2 id="2">Design</h2>
+  <ul class="grid">
+    <li>
+      <div class="title"><h2>proved to be a differentiator</h2><div class="num">1</div></div>
+      <p>Their human-centric design approach <strong>proved to be a differentiator</strong>.</p>
+    </li>
+    <li>
+      <div class="title"><h2>overlap, fade, and blur<br/>jostle and collide</h2><div class="num">2</div></div>
+      <p>Elements <strong>overlap, fade, and blur</strong> and <strong>jostle and collide</strong>.</p>
+    </li>
+    <li>
+      <div class="title"><h2></h2><div class="num">1</div></div>
+      <p></p>
+    </li>
+  </ul>
+</div></article>`;
+
+describe('phrase-grid parser (topics)', () => {
+  it('reads .title h2 as the phrase, <p> as the example, ignoring .num', () => {
+    const { document } = parsePage(PHRASE_GRID_HTML, {
+      categoryName: 'Topics',
+      pageType: 'phrase-grid',
+      viewType: 'writing',
+    });
+
+    const root = document.categories[0];
+    expect(root.viewType).toBe('writing');
+    const group = root.children[0];
+    expect(group.name).toBe('PERSONAL');
+    const topic = group.children[0];
+    expect(topic.name).toBe('Design');
+
+    // The decorative ".num" counter must NOT become an entry, and the empty
+    // placeholder <li> is skipped.
+    const words = topic.entries.map((e) => e.word);
+    expect(words).toEqual([
+      'proved to be a differentiator',
+      'overlap, fade, and blur\njostle and collide',
+    ]);
+    expect(words).not.toContain('1');
+
+    const first = topic.entries[0];
+    expect(first.entryType).toBe('expression');
+    expect(first.examples[0].text).toBe(
+      'Their human-centric design approach **proved to be a differentiator**.',
+    );
+  });
+});
+
 const LOOK_AROUND_HTML = `
 <article><div id="content">
   <h1 id="1">&#10112; 英语写作中符号的区别</h1>
