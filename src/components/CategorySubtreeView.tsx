@@ -51,17 +51,6 @@ function headingTag(depth: number): 'h2' | 'h3' | 'h4' {
   return 'h4';
 }
 
-/** Map a populated entry to the lean shape `GenreGridView` consumes. */
-function toGenreEntry(entry: EntryWithRelations): GenreEntry {
-  return {
-    id: entry.id,
-    word: entry.word,
-    pronunciation: entry.pronunciation,
-    definitions: entry.definitions.map((d) => ({ id: d.id, text: d.text })),
-    images: entry.images.map((img) => ({ id: img.id, altText: img.altText })),
-  };
-}
-
 /** Genre leaf: a dense, non-virtualized grid of word | meaning | thumbnail. */
 function GenreLeaf({ entries }: { entries: EntryWithRelations[] }) {
   return (
@@ -110,35 +99,52 @@ function GenreLeaf({ entries }: { entries: EntryWithRelations[] }) {
   );
 }
 
-/** Default "list" rendering: entry links with the first definition preview. */
+/**
+ * Default "list" rendering: a 3-column table (Word | Pronunciation | Meaning),
+ * one entry per row, mirroring the thesaurus table style. The word links to its
+ * detail page and the meaning (first definition) renders as sanitized Markdown.
+ */
 function ListLeaf({ entries }: { entries: EntryWithRelations[] }) {
   return (
-    <ul className="divide-y divide-border">
-      {entries.map((entry) => {
-        const preview = entry.definitions[0]?.text;
-        return (
-          <li key={entry.id} className="py-3">
-            <Link
-              href={`/entry/${entry.id}`}
-              className="font-semibold text-writing underline-offset-2 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
-              lang="en"
-            >
-              {entry.word}
-            </Link>
-            {entry.pronunciation ? (
-              <span className="ml-2 text-sm text-muted">
-                {entry.pronunciation}
-              </span>
-            ) : null}
-            {preview ? (
-              <Markdown className="mt-1 text-sm text-foreground/90">
-                {preview}
-              </Markdown>
-            ) : null}
-          </li>
-        );
-      })}
-    </ul>
+    <table className="w-full border-collapse text-left text-sm">
+      <thead>
+        <tr className="border-b border-border text-xs uppercase tracking-wide text-muted">
+          <th scope="col" className="py-1.5 pr-4 font-semibold">
+            Word
+          </th>
+          <th scope="col" className="py-1.5 pr-4 font-semibold">
+            Pronunciation
+          </th>
+          <th scope="col" className="py-1.5 font-semibold">
+            Meaning
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        {entries.map((entry) => {
+          const meaning = entry.definitions[0]?.text;
+          return (
+            <tr key={entry.id} className="border-b border-border/60 align-top">
+              <th scope="row" className="py-2 pr-4 font-medium">
+                <Link
+                  href={`/entry/${entry.id}`}
+                  lang="en"
+                  className="text-writing underline-offset-2 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+                >
+                  {entry.word}
+                </Link>
+              </th>
+              <td className="py-2 pr-4 text-muted">{entry.pronunciation ?? ''}</td>
+              <td className="py-2">
+                {meaning ? (
+                  <Markdown className="max-w-none">{meaning}</Markdown>
+                ) : null}
+              </td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
   );
 }
 

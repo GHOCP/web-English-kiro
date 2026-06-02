@@ -25,6 +25,7 @@ import useSWR, { useSWRConfig } from 'swr';
 
 import { ThesaurusView } from '@/components/ThesaurusView';
 import { CategorySubtreeView } from '@/components/CategorySubtreeView';
+import { SectionNavigator } from '@/components/SectionNavigator';
 import { EntryEditor } from '@/components/EntryEditor';
 import { Markdown } from '@/components/Markdown';
 import { recordRecentCategory } from '@/lib/recentCategories';
@@ -92,9 +93,19 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
   }, [id]);
 
   const pageData = data ?? initialData;
+  const anchorPrefix =
+    pageData.viewType === 'thesaurus' ? 'thesaurus-cat' : 'subtree-cat';
 
   return (
     <div>
+      {/* Floating, fixed section navigator for the sub-categories now surfaced
+          in-content (they are no longer in the left sidebar). It pins to the
+          viewport edge and scrolls with neither the header nor the content. */}
+      <SectionNavigator
+        category={pageData.category}
+        anchorPrefix={anchorPrefix}
+      />
+
       <div className="mb-4 flex items-center justify-between gap-4">
         {pageData.viewType !== 'thesaurus' ? (
           <h1 className="text-2xl font-bold text-foreground">

@@ -28,14 +28,17 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {/* App shell: black-sidebar identity on the left, content on the
-              right. The sidebar collapses to a hamburger below 768px. */}
-          <div className="flex min-h-screen flex-col md:flex-row">
+              right. On md+ the shell is pinned to the viewport height and the
+              sidebar and content scroll INDEPENDENTLY (each is its own scroll
+              container). Below md it collapses to a single normal-flow column
+              with the sidebar as a hamburger overlay. */}
+          <div className="flex min-h-screen flex-col md:h-screen md:flex-row md:overflow-hidden">
             {/* The Sidebar renders both the in-flow nav (md+) and the
                 hamburger toggle (below md); it fetches the tree via SWR. */}
             <Sidebar />
 
-            <div className="flex min-w-0 flex-1 flex-col">
-              <header className="flex items-center gap-4 border-b border-border bg-surface px-4 py-3">
+            <div className="flex min-w-0 flex-1 flex-col md:h-screen md:overflow-hidden">
+              <header className="flex shrink-0 items-center gap-4 border-b border-border bg-surface px-4 py-3">
                 <Link
                   href="/"
                   className="shrink-0 text-base font-bold text-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
@@ -48,7 +51,11 @@ export default function RootLayout({
                 <ThemeToggle />
               </header>
 
-              <main className="min-w-0 flex-1 p-6">{children}</main>
+              {/* The content area scrolls on its own (md+), independent of the
+                  sidebar; the header above stays fixed at the top. */}
+              <main className="min-w-0 flex-1 overflow-y-auto p-6">
+                {children}
+              </main>
             </div>
           </div>
         </ThemeProvider>

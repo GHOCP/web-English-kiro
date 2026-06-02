@@ -34,9 +34,9 @@ export interface SidebarProps {
   categories?: CategoryTree;
   /**
    * Deepest nesting level the sidebar renders (0 = top level only). Defaults to
-   * 1, so the nav shows just top-level categories and their direct
-   * sub-categories; anything deeper is surfaced as in-content headers on the
-   * category page rather than cluttering the nav.
+   * 0, so the nav shows ONLY top-level categories; every sub-category is
+   * surfaced on the category page instead — as in-content headers plus a
+   * floating section navigator (see `SectionNavigator`).
    */
   maxDepth?: number;
 }
@@ -146,7 +146,7 @@ function SidebarNode({ node, depth, maxDepth, activePath }: SidebarNodeProps) {
   );
 }
 
-export function Sidebar({ categories, maxDepth = 1 }: SidebarProps) {
+export function Sidebar({ categories, maxDepth = 0 }: SidebarProps) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
@@ -178,6 +178,9 @@ export function Sidebar({ categories, maxDepth = 1 }: SidebarProps) {
         aria-label="Category navigation"
         className={[
           'bg-sidebar text-sidebar-foreground md:block md:w-64 md:shrink-0',
+          // On md+ the sidebar is its own full-height scroll container, so a
+          // long category list scrolls independently of the content area.
+          'md:h-screen md:overflow-y-auto',
           // Below md: shown only when toggled open; full-bleed panel.
           open ? 'block' : 'hidden',
         ].join(' ')}

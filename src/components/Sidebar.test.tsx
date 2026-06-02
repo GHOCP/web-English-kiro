@@ -69,18 +69,21 @@ describe('Sidebar', () => {
     expect(screen.getByRole('link', { name: 'Accretion' })).toBeInTheDocument();
   });
 
-  it('limits the rendered depth to maxDepth (default 1)', () => {
-    // Default maxDepth=1 shows top-level + direct sub-categories only; the
-    // 3rd level (Verbs/Nouns under Thesaurus) is surfaced in-content instead.
+  it('limits the rendered depth to maxDepth (default 0: top level only)', () => {
+    // Default maxDepth=0 shows ONLY top-level categories; every sub-category is
+    // surfaced in-content (headers + floating navigator) instead.
     render(<Sidebar categories={tree} />);
     expect(screen.getByRole('link', { name: 'Vocabulary' })).toBeInTheDocument();
-    expect(screen.getByRole('link', { name: 'Thesaurus' })).toBeInTheDocument();
-    expect(screen.queryByRole('link', { name: 'Verbs' })).not.toBeInTheDocument();
-    expect(screen.queryByRole('link', { name: 'Nouns' })).not.toBeInTheDocument();
-
-    // A category at the depth cap shows no expand/collapse toggle.
+    expect(screen.getByRole('link', { name: 'Accretion' })).toBeInTheDocument();
+    // Direct sub-categories are NOT shown.
     expect(
-      screen.queryByRole('button', { name: /collapse thesaurus/i }),
+      screen.queryByRole('link', { name: 'Thesaurus' }),
+    ).not.toBeInTheDocument();
+    expect(screen.queryByRole('link', { name: 'Verbs' })).not.toBeInTheDocument();
+
+    // A top-level category at the depth cap shows no expand/collapse toggle.
+    expect(
+      screen.queryByRole('button', { name: /collapse vocabulary/i }),
     ).not.toBeInTheDocument();
   });
 
@@ -151,7 +154,7 @@ describe('Sidebar', () => {
 
   it('keeps sibling branches independently collapsible', async () => {
     const user = userEvent.setup();
-    render(<Sidebar categories={tree} />);
+    render(<Sidebar categories={tree} maxDepth={99} />);
 
     const nav = screen.getByRole('navigation', { name: /category navigation/i });
     // Collapsing the top-level Vocabulary hides its whole subtree.

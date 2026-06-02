@@ -64,7 +64,10 @@ describe('CategorySubtreeView', () => {
     const sub = cat({ id: 2, name: '#A', parentId: 1 });
     const root = cat({ id: 1, name: 'A ~ Z', children: [sub] });
     const entriesByCategory: EntriesByCategory = {
-      2: [entry(10, 2, 'adhere'), entry(11, 2, 'abolish')],
+      2: [
+        entry(10, 2, 'adhere', { pronunciation: '/ədˈhɪə/' }),
+        entry(11, 2, 'abolish'),
+      ],
     };
 
     render(
@@ -82,6 +85,17 @@ describe('CategorySubtreeView', () => {
       'href',
       '/category/2',
     );
+
+    // Entries render as a 3-column table (Word | Pronunciation | Meaning).
+    const table = screen.getByRole('table');
+    const headers = within(table).getAllByRole('columnheader');
+    expect(headers.map((h) => h.textContent)).toEqual([
+      'Word',
+      'Pronunciation',
+      'Meaning',
+    ]);
+    expect(within(table).getByText('/ədˈhɪə/')).toBeInTheDocument();
+
     // Both entries render and link to their detail pages.
     expect(screen.getByRole('link', { name: 'adhere' })).toHaveAttribute(
       'href',
