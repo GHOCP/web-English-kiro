@@ -98,12 +98,11 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
 
   return (
     <div>
-      {/* Floating, fixed section navigator for the sub-categories now surfaced
-          in-content (they are no longer in the left sidebar). It pins to the
-          viewport edge and scrolls with neither the header nor the content. */}
+      {/* Sections navigator with New entry button */}
       <SectionNavigator
         category={pageData.category}
         anchorPrefix={anchorPrefix}
+        onNewEntry={() => setCreating(true)}
       />
 
       <div className="mb-4 flex items-center justify-between gap-4">
@@ -114,10 +113,11 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
         ) : (
           <span />
         )}
+        {/* Mobile "New entry" button - shown on small screens since fixed Sections navigator is hidden */}
         <button
           type="button"
           onClick={() => setCreating(true)}
-          className="shrink-0 rounded-md border border-border bg-surface-elevated px-3 py-1.5 text-sm font-medium text-foreground hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+          className="shrink-0 rounded-md border border-border bg-surface-elevated px-3 py-1.5 text-sm font-medium text-foreground hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-writing md:hidden"
         >
           New entry
         </button>

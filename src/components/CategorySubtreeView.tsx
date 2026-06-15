@@ -104,28 +104,24 @@ function GenreLeaf({ entries }: { entries: EntryWithRelations[] }) {
  * one entry per row, mirroring the thesaurus table style. The word links to its
  * detail page and the meaning (first definition) renders as sanitized Markdown.
  */
-function ListLeaf({ entries }: { entries: EntryWithRelations[] }) {
+function ListLeaf({ entries, categoryName }: { entries: EntryWithRelations[]; categoryName?: string }) {
+  // Determine grid columns based on category
+  // A~Z categories use 2 columns, others use 3 columns
+  const isAZCategory = categoryName?.includes('A~Z') || categoryName === 'A~Z' || categoryName === '#A' || 
+                      ['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'JKL', 'MN', 'OQ', 'P', 'R', 'S', 'T', 'UVW', 'XYZ'].includes(categoryName || '');
+  const gridCols = isAZCategory ? 'sm:grid-cols-2' : 'sm:grid-cols-2 lg:grid-cols-3';
+  
   return (
-    <table className="w-full border-collapse text-left text-sm">
-      <thead>
-        <tr className="border-b border-border text-xs uppercase tracking-wide text-muted">
-          <th scope="col" className="py-1.5 pr-4 font-semibold">
-            Word
-          </th>
-          <th scope="col" className="py-1.5 pr-4 font-semibold">
-            Pronunciation
-          </th>
-          <th scope="col" className="py-1.5 font-semibold">
-            Meaning
-          </th>
-        </tr>
-      </thead>
-      <tbody>
-        {entries.map((entry) => {
-          const meaning = entry.definitions[0]?.text;
-          return (
-            <tr key={entry.id} className="border-b border-border/60 align-top">
-              <th scope="row" className="py-2 pr-4 font-medium">
+    <div className={`grid gap-3 ${gridCols}`}>
+      {entries.map((entry) => {
+        const meaning = entry.definitions[0]?.text;
+        return (
+          <article
+            key={entry.id}
+            className="rounded-md border border-border bg-surface p-3"
+          >
+            <div className="flex items-baseline justify-between gap-2">
+              <h5 className="font-medium text-foreground">
                 <Link
                   href={`/entry/${entry.id}`}
                   lang="en"
@@ -133,23 +129,70 @@ function ListLeaf({ entries }: { entries: EntryWithRelations[] }) {
                 >
                   {entry.word}
                 </Link>
-              </th>
-              <td className="py-2 pr-4 text-muted">{entry.pronunciation ?? ''}</td>
-              <td className="py-2">
-                {meaning ? (
-                  <Markdown className="max-w-none">{meaning}</Markdown>
-                ) : null}
-              </td>
-            </tr>
-          );
-        })}
-      </tbody>
-    </table>
+              </h5>
+              {entry.pronunciation ? (
+                <span className="text-sm text-muted">{entry.pronunciation}</span>
+              ) : null}
+            </div>
+            {meaning ? (
+              <div className="mt-1">
+                <Markdown className="text-sm text-foreground/90">{meaning}</Markdown>
+              </div>
+            ) : null}
+          </article>
+        );
+      })}
+    </div>
   );
 }
 
 /** Writing leaf: pattern text, translation(s), and example sentences. */
-function WritingLeaf({ entries }: { entries: EntryWithRelations[] }) {
+function WritingLeaf({ entries, categoryName }: { entries: EntryWithRelations[]; categoryName?: string }) {
+  // Determine grid columns based on category
+  // N (normal), V (normal), ADJ (normal) categories use 3 columns, others use default list
+  const isNormalCategory = categoryName?.includes('(normal)') || 
+                          categoryName === 'N (normal)' || 
+                          categoryName === 'V (normal)' || 
+                          categoryName === 'ADJ (normal)';
+  
+  if (isNormalCategory) {
+    // Use 3-column grid for N/V/ADJ normal categories
+    return (
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {entries.map((entry) => (
+          <article
+            key={entry.id}
+            className="rounded-md border border-border bg-surface p-3"
+          >
+            <div className="flex items-baseline justify-between gap-2">
+              <h5 className="font-medium text-foreground">
+                <Link
+                  href={`/entry/${entry.id}`}
+                  className="text-writing underline-offset-2 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+                >
+                  <Markdown>{entry.word}</Markdown>
+                </Link>
+              </h5>
+              {entry.pronunciation ? (
+                <span className="text-sm text-muted">{entry.pronunciation}</span>
+              ) : null}
+            </div>
+            {entry.definitions.length > 0 ? (
+              <div className="mt-1">
+                {entry.definitions.map((def) => (
+                  <div key={def.id} className="text-sm text-foreground/90">
+                    <Markdown>{def.text}</Markdown>
+                  </div>
+                ))}
+              </div>
+            ) : null}
+          </article>
+        ))}
+      </div>
+    );
+  }
+  
+  // Default writing layout for other categories
   return (
     <ul className="space-y-3">
       {entries.map((entry) => (
@@ -238,21 +281,23 @@ function SpeakingLeaf({ entries }: { entries: EntryWithRelations[] }) {
 function Leaf({
   entries,
   viewType,
+  categoryName,
 }: {
   entries: EntryWithRelations[];
   viewType: CategoryViewType;
+  categoryName?: string;
 }) {
   if (entries.length === 0) return null;
   switch (viewType) {
     case 'genre':
       return <GenreLeaf entries={entries} />;
     case 'writing':
-      return <WritingLeaf entries={entries} />;
+      return <WritingLeaf entries={entries} categoryName={categoryName} />;
     case 'speaking':
       return <SpeakingLeaf entries={entries} />;
     case 'list':
     default:
-      return <ListLeaf entries={entries} />;
+      return <ListLeaf entries={entries} categoryName={categoryName} />;
   }
 }
 

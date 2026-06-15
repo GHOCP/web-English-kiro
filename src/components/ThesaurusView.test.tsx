@@ -205,6 +205,7 @@ describe('ThesaurusView', () => {
     render(<ThesaurusView category={multiRoot} entriesByCategory={entries} />);
     expect(screen.getByText('Verbs')).toBeInTheDocument();
     expect(screen.getByText('Nouns')).toBeInTheDocument();
-    expect(screen.getAllByRole('table')).toHaveLength(2);
+    // Now using grid layout instead of tables
+    expect(screen.getAllByRole('article')).toHaveLength(4); // 2 entries per group * 2 groups
   });
 });

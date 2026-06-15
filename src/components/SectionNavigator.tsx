@@ -41,6 +41,8 @@ export interface SectionNavigatorProps {
   category: CategoryTreeNode;
   /** Anchor id prefix matching the view that rendered the headers. */
   anchorPrefix: 'thesaurus-cat' | 'subtree-cat';
+  /** Optional callback for when "New entry" button is clicked */
+  onNewEntry?: () => void;
 }
 
 /** Stable ascending sort by `displayOrder` without mutating the input. */
@@ -68,6 +70,7 @@ export function flattenSections(
 export function SectionNavigator({
   category,
   anchorPrefix,
+  onNewEntry,
 }: SectionNavigatorProps) {
   const sections = flattenSections(category);
   // The list is shown by default; the collapse control only hides the list,
@@ -124,6 +127,19 @@ export function SectionNavigator({
       // stays put while the page scrolls — like a table of contents.
       className="fixed right-4 top-24 z-30 hidden max-h-[70vh] w-60 flex-col rounded-lg border border-border bg-surface-elevated/95 shadow-lg backdrop-blur md:flex"
     >
+      {/* New entry button at the top if callback is provided */}
+      {onNewEntry && (
+        <div className="border-b border-border p-3">
+          <button
+            type="button"
+            onClick={onNewEntry}
+            className="w-full rounded-md bg-writing px-3 py-2 text-sm font-medium text-white hover:bg-writing/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+          >
+            New entry
+          </button>
+        </div>
+      )}
+      
       <div className="flex items-center justify-between gap-2 border-b border-border px-3 py-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-muted">
           Sections

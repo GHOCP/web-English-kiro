@@ -90,54 +90,48 @@ interface GroupTableProps {
   labelId: string;
 }
 
-/** The word | pronunciation | definition table for one semantic-label group. */
+/** The word | pronunciation | definition grid for one semantic-label group. */
 function GroupTable({ entries, labelId }: GroupTableProps) {
   const ordered = byDisplayOrder(entries);
+  
+  // For Thesaurus, use 2-column grid (2 entries per row)
   return (
-    <table
+    <div
       aria-labelledby={labelId}
-      className="mt-2 w-full border-collapse text-left text-sm"
+      className="mt-2"
     >
-      <thead>
-        <tr className="border-b border-border text-xs uppercase tracking-wide text-muted">
-          <th scope="col" className="py-1.5 pr-4 font-semibold">
-            Word
-          </th>
-          <th scope="col" className="py-1.5 pr-4 font-semibold">
-            Pronunciation
-          </th>
-          <th scope="col" className="py-1.5 font-semibold">
-            Definition
-          </th>
-        </tr>
-      </thead>
-      <tbody>
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
         {ordered.map((entry) => {
           const definition = primaryDefinition(entry);
           return (
-            <tr key={entry.id} className="border-b border-border/60 align-top">
-              <th scope="row" className="py-2 pr-4 font-medium">
-                <Link
-                  href={`/entry/${entry.id}`}
-                  lang="en"
-                  className="text-writing underline-offset-2 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
-                >
-                  {entry.word}
-                </Link>
-              </th>
-              <td className="py-2 pr-4 text-muted">
-                {entry.pronunciation ?? ''}
-              </td>
-              <td className="py-2">
-                {definition ? (
-                  <Markdown className="max-w-none">{definition.text}</Markdown>
+            <article
+              key={entry.id}
+              className="rounded-md border border-border bg-surface p-3"
+            >
+              <div className="flex items-baseline justify-between gap-2">
+                <h5 className="font-medium text-foreground">
+                  <Link
+                    href={`/entry/${entry.id}`}
+                    lang="en"
+                    className="text-writing underline-offset-2 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+                  >
+                    {entry.word}
+                  </Link>
+                </h5>
+                {entry.pronunciation ? (
+                  <span className="text-sm text-muted">{entry.pronunciation}</span>
                 ) : null}
-              </td>
-            </tr>
+              </div>
+              {definition ? (
+                <div className="mt-1">
+                  <Markdown className="text-sm text-foreground/90">{definition.text}</Markdown>
+                </div>
+              ) : null}
+            </article>
           );
         })}
-      </tbody>
-    </table>
+      </div>
+    </div>
   );
 }
 

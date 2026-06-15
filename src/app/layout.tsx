@@ -34,8 +34,10 @@ export default function RootLayout({
               with the sidebar as a hamburger overlay. */}
           <div className="flex min-h-screen flex-col md:h-screen md:flex-row md:overflow-hidden">
             {/* The Sidebar renders both the in-flow nav (md+) and the
-                hamburger toggle (below md); it fetches the tree via SWR. */}
-            <Sidebar />
+                hamburger toggle (below md); it fetches the tree via SWR.
+                maxDepth=1 shows top-level categories and their immediate children,
+                but deeper levels are surfaced as in-content headers. */}
+            <Sidebar maxDepth={1} />
 
             <div className="flex min-w-0 flex-1 flex-col md:h-screen md:overflow-hidden">
               <header className="flex shrink-0 items-center gap-4 border-b border-border bg-surface px-4 py-3">
