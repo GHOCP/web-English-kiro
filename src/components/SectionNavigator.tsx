@@ -43,6 +43,10 @@ export interface SectionNavigatorProps {
   anchorPrefix: 'thesaurus-cat' | 'subtree-cat';
   /** Optional callback for when "New entry" button is clicked */
   onNewEntry?: () => void;
+  /** Optional callback to add a new sub-section. Shows a "+" control. */
+  onAddSection?: () => void;
+  /** Optional callback to edit a sub-section. Shows a pencil control per row. */
+  onEditSection?: (id: number) => void;
 }
 
 /** Stable ascending sort by `displayOrder` without mutating the input. */
@@ -71,6 +75,8 @@ export function SectionNavigator({
   category,
   anchorPrefix,
   onNewEntry,
+  onAddSection,
+  onEditSection,
 }: SectionNavigatorProps) {
   const sections = flattenSections(category);
   // The list is shown by default; the collapse control only hides the list,
@@ -116,8 +122,10 @@ export function SectionNavigator({
     }
   }
 
-  // No sub-categories → nothing to navigate.
-  if (sections.length === 0) return null;
+  // Nothing to navigate AND nothing to do → render nothing. When an add/entry
+  // control is available we still show the panel so the owner can act (e.g.
+  // create the first sub-section).
+  if (sections.length === 0 && !onAddSection && !onNewEntry) return null;
 
   return (
     <nav
@@ -144,50 +152,78 @@ export function SectionNavigator({
         <p className="text-xs font-semibold uppercase tracking-wide text-muted">
           Sections
         </p>
-        <button
-          type="button"
-          onClick={() => setExpanded((prev) => !prev)}
-          aria-expanded={expanded}
-          aria-controls="section-navigator-list"
-          aria-label={expanded ? 'Collapse sections' : 'Expand sections'}
-          className="inline-flex h-5 w-5 items-center justify-center rounded text-muted hover:text-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
-        >
-          <span aria-hidden="true">{expanded ? '▾' : '▸'}</span>
-        </button>
+        <div className="flex items-center gap-1">
+          {onAddSection ? (
+            <button
+              type="button"
+              onClick={onAddSection}
+              aria-label="Add section"
+              title="Add section"
+              className="inline-flex h-5 w-5 items-center justify-center rounded text-muted hover:text-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+            >
+              <span aria-hidden="true">＋</span>
+            </button>
+          ) : null}
+          <button
+            type="button"
+            onClick={() => setExpanded((prev) => !prev)}
+            aria-expanded={expanded}
+            aria-controls="section-navigator-list"
+            aria-label={expanded ? 'Collapse sections' : 'Expand sections'}
+            className="inline-flex h-5 w-5 items-center justify-center rounded text-muted hover:text-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+          >
+            <span aria-hidden="true">{expanded ? '▾' : '▸'}</span>
+          </button>
+        </div>
       </div>
 
       {expanded ? (
-        <ol
-          id="section-navigator-list"
-          className="space-y-0.5 overflow-auto p-2"
-        >
-          {sections.map((section) => {
-            const isActive = section.id === activeId;
-            return (
-              <li key={section.id}>
-                <a
-                  href={`#${anchorId(section.id)}`}
-                  aria-current={isActive ? 'location' : undefined}
-                  onClick={(event) => {
-                    event.preventDefault();
-                    handleSelect(section.id);
-                  }}
-                  style={{ paddingLeft: `${(section.depth - 1) * 12 + 8}px` }}
-                  className={[
-                    'block truncate rounded px-2 py-1 text-sm transition-colors',
-                    'focus:outline-none focus-visible:ring-2 focus-visible:ring-writing',
-                    isActive
-                      ? 'bg-writing/10 font-semibold text-writing'
-                      : 'text-foreground hover:bg-surface',
-                  ].join(' ')}
-                  title={section.name}
-                >
-                  {section.name}
-                </a>
-              </li>
-            );
-          })}
-        </ol>
+        sections.length === 0 ? (
+          <p className="px-3 py-2 text-xs text-muted">No sub-sections yet.</p>
+        ) : (
+          <ol
+            id="section-navigator-list"
+            className="space-y-0.5 overflow-auto p-2"
+          >
+            {sections.map((section) => {
+              const isActive = section.id === activeId;
+              return (
+                <li key={section.id} className="flex items-center gap-1">
+                  <a
+                    href={`#${anchorId(section.id)}`}
+                    aria-current={isActive ? 'location' : undefined}
+                    onClick={(event) => {
+                      event.preventDefault();
+                      handleSelect(section.id);
+                    }}
+                    style={{ paddingLeft: `${(section.depth - 1) * 12 + 8}px` }}
+                    className={[
+                      'block min-w-0 flex-1 truncate rounded px-2 py-1 text-sm transition-colors',
+                      'focus:outline-none focus-visible:ring-2 focus-visible:ring-writing',
+                      isActive
+                        ? 'bg-writing/10 font-semibold text-writing'
+                        : 'text-foreground hover:bg-surface',
+                    ].join(' ')}
+                    title={section.name}
+                  >
+                    {section.name}
+                  </a>
+                  {onEditSection ? (
+                    <button
+                      type="button"
+                      onClick={() => onEditSection(section.id)}
+                      aria-label={`Edit ${section.name}`}
+                      title={`Edit ${section.name}`}
+                      className="inline-flex h-6 w-6 shrink-0 items-center justify-center rounded text-muted hover:text-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+                    >
+                      <span aria-hidden="true">✎</span>
+                    </button>
+                  ) : null}
+                </li>
+              );
+            })}
+          </ol>
+        )
       ) : null}
     </nav>
   );

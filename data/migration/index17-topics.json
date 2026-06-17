@@ -1,0 +1,2607 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.894Z",
+  "categories": [
+    {
+      "name": "Expressions — Topics",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "PERSONAL",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "UX",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [],
+              "children": []
+            },
+            {
+              "name": "Design",
+              "displayOrder": 1,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "proved to be a differentiator",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Their human-centric design approach **proved to be a differentiator**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "yielded to a shifting, kinetic spatial environment\noverlap, fade, and blur\njostle and collide in space",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Carson's magazine designs, for the hierarchical and regularized structure of page design in his work **yielded to a shifting, kinetic spatial environment** where type and image **overlap, fade, and blur**. Disparate visual and verbal elements **jostle and collide in space** the way sound and image bump and shove in film and video.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in increments of one hundred-thousandth of an inch\nin intervals of one twenty-thousandth of an em",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "QuarkXPress, another page-design application, enabled designers to place elements on a page **in increments of one hundred-thousandth of an inch** and to kern type **in intervals of one twenty-thousandth of an em** (a horizontal measurement equivalent to the width of the letter m).",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "was wrested from ...\nmade available to the general public\nleft the exclusive domain of professionals\n... became accessible to a larger sphere of people",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Just as photography **was wrested from** the exclusive use of specialists and **made available to the general public** in the 1880s, typography **left the exclusive domain of professionals** and **became accessible to a larger sphere of people** in the 1980s.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "explored electronic techniques\nchurning through ...\ndesign ideas, retro revivals, and eccentric work\na period of pluralism and diversity",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Computer graphics experimentation **explored electronic techniques** while **churning through** modern and postmodern **design ideas, retro revivals, and eccentric work** to create **a period of pluralism and diversity** in design.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "became a lightning rod for ...\noutraging ... while captivating ...\nembraced computer technology's sense of infinite possibility for reinvigorating and redefining graphic design",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "A magazine with a printing run of seven thousand copies **became a lightning rod for** experimentation, **outraging** many design professionals **while captivating** those who **embraced computer technology's sense of infinite possibility for reinvigorating and redefining graphic design**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Technology",
+              "displayOrder": 2,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "propaganda term\nunder the theory that ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Apple uses the **propaganda term** \"Retina display\" for screen qualities above approximately 200 PPI, **under the theory that** this is as much as the human eye can resolve.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "... better than anything\non offer from ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Although Apple's screen quality isn't perfect, it's dramatically **better than anything** **on offer from** other computer vendors.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "breach customer privacy\n... without consent",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The company **breaches customer privacy** by collecting facial imagery **without consent**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "... that make it so\nnot the road ahead for ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Kinect is an exciting advance in user interface technology, but many of the user experience characteristics **that make it so** also mean that it's **not the road ahead for** the practical user interfaces that businesses, government agencies, and non-profit organizations need for their everyday websites, intranets, and applications.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "move from the lab to popular use\na striking example of ...\nwhen it comes to ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "That the mouse took 16 years to **move from the lab to popular use** is **a striking example of** how slowly things move in the tech business — particularly **when it comes to** getting diverging designs into widespread use.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "first stab at...\nopening up another area of competition with...\nat a time when\nat odds on other fronts",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The planned device is Facebook's **first stab at** releasing hardware specifically for the wrist,**opening up another area of competition with** Apple **at a time when** the two tech giants are already at odds on other fronts.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "roll out\nlow-Earth orbiting\nlow-latency broadband internet services\nremote areas that terrestrial internet infrastructure struggles to reach",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Starlink, a division of SpaceX, aims to **roll out** 12,000 satellites as part of a **low-Earth orbiting** network to provide **low-latency broadband internet services** around the world, with a particular focus on **remote areas that terrestrial internet infrastructure struggles to reach**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "high-end consumer devices\nare favored by\nthe sources indicated, adding that...\nhot sales of...\nhave lingered into the first quarter of 2022\nshipment volumes higher than expected\nadd further sales momentum.",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Apple's MacBook series are**high-end consumer devices**, but can also be regarded as a business notebook model as they **are favored by** many companies or office workers,**the sources indicated, adding that hot sales of** MacBook Pro released in late 2021 **have lingered into the first quarter of 2022**, with **shipment volumes higher than expected**, and new MacBook Air set for launch in the second half of the year is expected to **add further sales momentum.**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in cooperation with...\nback in 2012\nfurther slow down the combustion process\non the inside\nif possible",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Joint tests performed by DEKRA Accident Research **in cooperation with** a vehicle manufacturer**back in 2012** revealed that water is a suitable extinguisher. First, water can be used to cool the battery housing in order to**further slow down the combustion process on the inside**. Second, it can also be sprayed directly into the battery housing, if possible, to extinguish the fire there.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "profound significance\nstems from their broad accessibility to ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The **profound significance** of Macintosh computers and software **stems from their broad accessibility to** individual graphic designers and laypersons.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "cable and satellite television\nin the last quarter of the twentieth century\nexpanded the number of\ninspired creative and technical advances in ...\npaved the way for ...\nconsumers to embrace the power and flexibility of the Internet",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The growth of **cable and satellite television** **in the last quarter of the twentieth century** **expanded the number of** broadcast channels, **inspired creative and technical advances in** broadcast and motion graphics, and **paved the way for** **consumers to embrace the power and flexibility of the Internet**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "long-running\nMuch of the other third\nbaking them into the operating system\nOutside of ...\ninvented decade-old software tricks\nout of the box",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "It's a **long-running** and extremely true joke that two-thirds of Apple's new iOS features every year are just Android features from six years ago. **Much of the other third** is Apple taking features from third-party apps and **baking them into the operating system** itself.**Outside of** Apple occasionally pretending it **invented decade-old software tricks**, this is the right strategy: most users don't want to download tons of apps or learn new things, and the more functional the iPhone is **out of the box**, the better it'll be for most people.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "its at the back of\ndistributing its weight more evenly\nreducing overall bulk",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The Quest Pro feels lighter and slimmer than its predecessors, with thin pancake lenses and a relocated battery that s**its at the back of** the headset, **distributing its weight more evenly** while **reducing overall bulk**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Excerpt",
+              "displayOrder": 3,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "fleeting ephemeral(/ɪˈfemərəl/ lasting or used for only a short period of time 短暂的；瞬息的) creatures\nlive out their whole lives\nin the course of a single day(一天之内)",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Compared to a star, we are like mayflies, **fleeting ephemeral creatures** who **live out their whole lives** **in the course of a single day**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "an era soaked in evil\nclinging ignobly to life",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Death took away **an era soaked in evil**, leaving us only with the habit of **clinging ignobly to life**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "seeping in bit by bit\nas opposed to",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"The real pain will be gradual, **seeping in bit by bit**. The great turnaround you are expecting may not happen. The abyss is bottomless. The miserable present may be the best of days **as opposed to** the long future. Cheers.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "COULD NOT COPE ANY MORE WITH THE\nOVERDOSE OF INFORMATION CARRIED BY SOCIAL MEDIA",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"I FELT THAT I **COULD NOT COPE ANY MORE WITH THE** WORLDWIDE INCREASING PRESSURE AND THE OVERGROWING DEMANDS OF THE TRADE. I ALSO REGRETTED THE **OVERDOSE OF INFORMATION CARRIED BY SOCIAL MEDIA**, DESTROYING THE 'THRILL OF WAIT' AND CANCELLING EVERY EFFECT OF SURPRISE, SO FUNDAMENTAL FOR ME\" - MARTIN MARGIELA (2018)",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "the winds of fate\nkicked up a strange vortex of coincidence",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Today **the winds of fate** have **kicked up a strange vortex of coincidence**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WRITING",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Fashion",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "drew on messages of\ninclusivity and gender-fluidity\nexpand the Louis Vuitton label's popularity\nweaving ... into ...\npoetry performances and art installations",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Abloh **drew on messages of** **inclusivity and gender-fluidity** to **expand the Louis Vuitton label's popularity**, **weaving themes of racial identity into** his fashion shows with **poetry performances and art installations**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Music",
+              "displayOrder": 1,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "committed and highly politically concerned\n(committed: willing to work hard and give your time and energy to sth; believing strongly in sth)",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Formed in 1982 by Lenny Guo (Lenny Kwok) as a very **committed and highly politically concerned** band/movement/activist group.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "based and working in Hong Kong\nsocial activism against Chinese imperialism\nstrong and uncompromised criticism towards the Chinese government\nstill endures till today",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "They also run local fanzines and organized a lot of events and theatre representation mainly with immigrant musicians **based and working in Hong Kong** to support local (counter)culture and **social activism against Chinese imperialism**. Their **strong and uncompromised criticism towards the Chinese government** **still endures till today** and they are obviously banned in China.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "break records with\nmultimillion-pound grossing global tours",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Stones also went on to **break records with** **multimillion-pound grossing global tours**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "spawned a string of hit singles",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The band's album **spawned a string of hit singles**. 这支乐队的专辑繁衍出一连串走红的单曲唱片。",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in thrall to ...\nowes at least a second hand debt to ...\nname-checked 提及名字",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"Any artists **in thrall to** Iggy Pop, Ian Curtis of Joy Division, Nick Cave or Patti Smith **owes at least a second hand debt to** The Doors. Lana Del Rey **name-checked** Jim Morrison on 'Gods and Monsters' and once covered 'Roadhouse Blues'.'\" - WASHINGTON POST",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "melodious songcraft\nrock’n’roll rebelliousness\ndoesn’t really bear scrutiny",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The Beatles versus Stones rivalry was, arguably, always more about the fans than the bands themselves; a question of whether you identified with the former’s **melodious songcraft** or the latter’s **rock’n’roll rebelliousness** – a distinction that, says Richards, **doesn’t really bear scrutiny**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "People",
+              "displayOrder": 2,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "manager of a high-end local beauty salon",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Along for the ride is his wife, Wang Yanfeng, 28, **manager of a high-end local beauty salon**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "It didn't take long for me to realize that ...\nthe posh kids\nwere all leather shoes, woolen jackets, small-talk and bullshit",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**It didn't take long for me to realize that** **the posh kids** **were all leather shoes, woolen jackets, small-talk and bullshit**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "speak of 谈到，论及\ndeal with a mid-life crisis\nbingeing on drink and drugs",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "He did **speak of** a short period in the 1980s when he tried to **deal with a mid-life crisis** by **bingeing on drink and drugs**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "the condition it was in before his death",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "It was completely restored to **the condition it was in before his death**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "sold-out concerts\nbranching out into ...\nhis death in 1991 from the combined effects of ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "He performed **sold-out concerts** worldwide, while **branching out into** visual arts, film, and television work, before**his death in 1991 from the combined effects of** a stroke, pneumonia and respiratory failure.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "artworks\n... date from the last two years of his life",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "In a decade, he created about 2,100 **artworks**, including around 860 oil paintings, most of which **date from the last two years of his life**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "drifting clouds far off in the distance",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"But listening to her made me feel relaxed, as if I were gazing at **drifting clouds far off in the distance**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "ripple effect\na culture of exploitation and unethical practices\ntook her life",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**Ripple effect** of **a culture of exploitation and unethical practices** (which) ultimately **took her life**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "... was largely overshadowed by\nthe media coverage of the death\n... occurred the week before",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "News of Ritchie's death **was largely overshadowed by** **the media coverage of the death** of Apple co-founder Steve Jobs, which **occurred the week before**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "reportedly collapsed and died\na sharp drop in blood circulation\ncaused his untimely death",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The young lad **reportedly collapsed and died** before he reached hospital with doctors saying **a sharp drop in blood circulation** **caused his untimely death**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "way to erase any doubt that anyone had\nclaims of physical abuse\nin front of cameras\nimagine what horrors he is capable of behind closed doors",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"Gee, **way to erase any doubt that anyone had** about his ex girlfriend's **claims of physical abuse**. If he can snap like this **in front of cameras**, a court full of spectators, and attack an umpire, **imagine what horrors he is capable of behind closed doors**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "will not move one inch away from that assessment\nno matter how flowery the media depictions of him are",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "I **will not move one inch away from that assessment** - ever- **no matter how flowery the media depictions of him are**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "was crowned\na foretaste of a new world in which ...\nbecome increasingly scrutinised by the media",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "She **was crowned** in June the following year. The first televised coronation was **a foretaste of a new world in which** the lives of the royals were to **become increasingly scrutinised by the media**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "CCP founding fathers\nstayed largely intact\nrebranded himself as a reformer\ngave him double legitimacy from both Communism and capitalism",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Deng was one of the very few **CCP founding fathers** who **stayed largely intact** in Mao's constant purges. He managed to please Mao, but immediately **rebranded himself as a reformer** right after Mao's death, which **gave him double legitimacy from both Communism and capitalism**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "fell to his back\ncupped his hands to his face\nclimbed past photographers",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Alcaraz, 19, **fell to his back** and **cupped his hands to his face** before jumping up to embrace Ruud at the net. He then **climbed past photographers** and into the stands to celebrate in his box with his team.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in the process of divorce mediation\nrevelations a year earlier of an affair with a nurse\nit was announced that a divorce was established with ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "In October 2019, it was reported that Keiko and Tetsuya Komuro were **in the process of divorce mediation** after **revelations a year earlier of an affair with a nurse** who was taking care of Keiko during her recovery from surgery. In February 26, 2021, **it was announced that a divorce was established with** Komuro.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Speech",
+              "displayOrder": 3,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "in harm's way\njoining all those calling for peace",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"I am thinking of the people who are right now **in harm's way** and **joining all those calling for peace**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "\"As hard as these times have been\nmore ... than I have been my whole life\nis within our grasp\nthere is simply nothing beyond our capacity.\"",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**\"As hard as these times have been**, I am **more optimistic about America today than I have been my whole life**. Because I see the future that **is within our grasp**. Because I know **there is simply nothing beyond our capacity**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "who have taken some form of accountability\nthank you for owning it\nthe first step towards justice and truth",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"To those **who have taken some form of accountability**, **thank you for owning it**. That is **the first step towards justice and truth**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "be committed to the mutual respect of each others' lifestyles",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"In a free society, we must all **be committed to the mutual respect of each others' lifestyles**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"So tonight, I have come this place where it all began to speak as plainly as I can to the nation about the threats we face, about the power we have in our own hands to meet these threats, and about the incredible future that lies in front of us if only we choose it.\"",
+                      "displayOrder": 0
+                    },
+                    {
+                      "text": "My makeup may be flaking. But my smile still stays on. 我的化妆品可能剥落了。但我的微笑还在",
+                      "displayOrder": 1
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "the mob that stormed the United States Capitol\ninsurrectionists(起义者；暴乱者) who placed a dagger to the throat of our democracy",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "They look at **the mob that stormed the United States Capitol** on January 6th — brutally attacking law enforcement — not as **insurrectionists who placed a dagger to the throat of our democracy**, but they look at them as patriots.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "heeded not our worst instincts but our better angels\nthe beacon to the world, an ideal to be realized, a promise to be kept",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"We **heeded not our worst instincts but our better angels**. And we proved that, for all its imperfections, America is still **the beacon to the world, an ideal to be realized, a promise to be kept**.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in sincerity\npledged myself to your service\nI shall strive to be worthy of your trust",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"I have **in sincerity** **pledged myself to your service**, as so many of you are pledged to mine. Throughout all my life and with all my heart **I shall strive to be worthy of your trust**,\" she said in a speech to her subjects on her coronation day.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "the resonance recent events caused\nthe ones who make the existence of the Z-Library possible\nthe knowledge and cultural heritage of mankind\nregardless of their wealth, social status, nationality, citizenship, etc",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "We see **the resonance recent events caused**, we see how many people support and believe in Z-Library. Thank you for your support, it is extremely valuable to us. Thank you for each donation you make. You are **the ones who make the existence of the Z-Library possible**. We believe **the knowledge and cultural heritage of mankind** should be accessible to all people around the world, **regardless of their wealth, social status, nationality, citizenship, etc.** This is the only purpose Z-Library is made for.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "The last few weeks have been ...\na rollercoaster of emotions\nto be ready for what was thrown at us\nunconditional support\nit hasn't gone unnoticed",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**The last few weeks have been** **a rollercoaster of emotions**, each and every one of our team gave everything we had **to be ready for what was thrown at us**, we got close, but not close enough. Thank you for the **unconditional support** we have received throughout the tournament, **it hasn't gone unnoticed**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Movie",
+              "displayOrder": 4,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "a titan of\nintroduced the world to a new cinematic lexicon\nexerted an incalculable influence on ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"I know nothing of life except through the cinema.\"\nToday we're celebrating the late **a titan of** cinema Jean-Luc Godard, whose work **introduced the world to a new cinematic lexicon** and **exerted an incalculable influence on** modern filmmaking.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "financially successful\ngrossed over\nreceived generally negative reviews",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Upon release, Age of Extinction was **financially successful** and **grossed over** $1.104 billion worldwide on a $210 million budget, making it the highest-grossing film of 2014, the only film in 2014 to gross over $1 billion, and at that point the 10th-highest-grossing film of all time, though it **received generally negative reviews** for its runtime and screenplay. The sequel, The Last Knight, was released in June 2017.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "comedy films\nparodies\nstar ... as ...\nmartial arts expert\nportrayed",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Aces Go Places, known as Mad Mission in the United States, is a series of Hong Kong action **comedy films** that are **parodies** of the James Bond film series. The films **star Sam Hui as King Kong**, a master thief and **martial arts expert** who is aided by his bumbling sidekick, Detective Albert \"Baldy\" Au, **portrayed** by Karl Maka.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "FORMAL",
+          "displayOrder": 2,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Business",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "business-related\nconflicts of interest",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "This will resolve any potential **business-related conflicts of interest** involving themselves or relatives",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "malls arm\nbranch out into ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "IKEA's **malls arm branches out into** housing with new center in China.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "large-scale AAA games\n... increased from the low single-digit millions into the several hundreds of millions",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The cost of producing **large-scale AAA games** has **increased from the low single-digit millions into the several hundreds of millions**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "fuel\nbest quarterly profit in 3 years",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Rising chip prices **fuel** Samsung's **best quarterly profit in 3 years**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "fell en masse for ...\nwas besieged by\nself-appointed",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "In the early years of the 21st century, consumers fell en masse for the MacNamara fallacy of social media even as the business world **was besieged by** hordes of **self-appointed** social media marketing experts.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "drop below\ngasoline-powered cars\nin a year or two",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The electric car prices are predicted to **drop below****gasoline-powered cars'** **in a year or two**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Culture",
+              "displayOrder": 1,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "ethnic slurs\nracial pejorative terms\npeople of East Asian descent perceived to be Chinese",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"Ching chong\" and \"ching chang chong\" are **ethnic slurs** and **racial pejorative terms** sometimes used in English to mock the Chinese language, people of Chinese ancestry, or **other people of East Asian descent perceived to be Chinese**. The term is a crude imitation of Mandarin and Cantonese phonology. The phrases have often accompanied assaults or physical intimidation of East Asians, as have other racial slurs or imitation Chinese.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Economics",
+              "displayOrder": 2,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "steel curbs\ncripple price control efforts",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "China's **steel curbs** could **cripple price control efforts**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "13-year high of 5.4%",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "U.S. inflation rate rises to **13-year high of 5.4%**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "a popular base for expatriates\nregional headquarters\nbattered the economy and triggered an exodus of talent",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Once **a popular base for expatriates** and as a regional headquarters, COVID has **battered the economy and triggered an exodus of talent**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "youth unemployment rate\nhit a record in\nCoivd uncertainties continued to linger\nas a record number of graduates stiffened the competition",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "China's **youth unemployment rate** **hit a record in** July as **Coivd uncertainties continued to linger** and **as a record number of graduates stiffened the competition**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "shift production from China\ngeopolitical tensions\ndisrupted supply chains for many industries",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Apple Inc. will make its iPhone 14 in India, the company said on Monday, as manufacturers **shift production from China** amid **geopolitical tensions** and pandemic restrictions that have **disrupted supply chains for many industries**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "loss of momentum\nweighing heavily on\n... mired in a deep slump\nthrough the end of the year",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Data since then has pointed to a further **loss of momentum**, with growing lockdowns **weighing heavily on** spending and confidence, and the property market **mired in a deep slump**. Some analysts say the economy could remain weak at least **through the end of the year**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "prop up the property market\non the hook for mortgages\nremain in limbo",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "While some local governments have taken steps to **prop up the property market** by setting up bailout funds, buyers like Xu, who paid deposits in advance and are **on the hook for mortgages**, **remain in limbo**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Law",
+              "displayOrder": 3,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "adoption of anti-sanctions law\nlocal legislation",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "support **adoption of anti-sanctions law** through **local legislation**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "on the line 处于危险中；模棱两可\nappeal hearing 听证会",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Sun Yang's career **on the line** at **appeal hearing**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "published the indictment against\ncriminal copyright infringement\nwire fraud\nmoney laundering",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "the United States Department of Justice **published the indictment against** two citizens of Russia, Anton and Valeria. They are accused of **criminal copyright infringement**, **wire fraud** and **money laundering** to operate the Z-Library.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "constitutional\nviolated their human rights\na step toward aligning Japan with other G7 nations",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "A Tokyo court ruled on Wednesday that a ban on same-sex marriage was **constitutional** but said the lack of legal protection for same-sex families **violated their human rights**, which plaintiffs welcomed as **a step toward aligning Japan with other G7 nations**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "hands lengthy jail terms to\nprominent figures\nsought greater transparency into the wealth of officials\nexercise their civil rights as written in the constitution\nput on trial behind closed doors\non charges of state subversion",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "China **hands lengthy jail terms to** two rights lawyers in crackdown. ... Xu and Ding are **prominent figures** in the New Citizens Movement, which **sought greater transparency into the wealth of officials** and for Chinese citizens to be able to **exercise their civil rights as written in the constitution**. Xu Zhiyong, 50, and Ding Jiaxi, 55, were **put on trial behind closed doors** in June last year **on charges of state subversion** at a court in Linshu county in the northeastern province of Shandong, relatives told Reuters at the time.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Politics",
+              "displayOrder": 4,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "reinforce a message that ...\nharbor + intentions / illusion\nsend troops into ...\nfill the power vacuum left by ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "That **reinforces a message that** China **harbors** neither the intentions of **sending troops into** Afghanistan nor the illusion that it can **fill the power vacuum left by** the United States.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "shines regulatory spotlight on ...\nlivestream retail boom",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Chinese goverment **shines regulatory spotlight on livestream retail boom**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "heightened vigilance from authorities\na marked departure from ...\ncherished freedoms of speech and assembly\nglobal financial hub\nbring ... closed in line with ...\nstrict controls on society",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Critics say the **heightened vigilance from authorities** is **a marked departure from** Hong Kong's **cherished freedoms of speech and assembly**, **bringing the global financial hub closer in line with** mainland China's **strict controls on society**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "our position has not changed on ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**Our position has not changed on** the Olympics.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "China's propaganda machinery\naccept an increasingly likely scenario that ...\nis rapidly gaining territory\nrecognize ... as a legitimate regime",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Since then, **China's propaganda machinery** has quietly begun preparing its people to **accept an increasingly likely scenario that** Beijing might have to recognize the Taliban, the hard line Islamist movement that **is rapidly gaining territory** in Afghanistan, **as a legitimate regime**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "(say) in response to a request for comment by the Journal",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The ministry said **in response to a request for comment by the Journal**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "domino effect\ncreate an impenetrable layer of debris\nterrestrial space launches\ntrapping us on Earth",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The **domino effect** of such an event could **create an impenetrable layer of debris** that would make **terrestrial space launches** impossible – essentially **trapping us on Earth**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "those undertaken diplomatically by Allies to weigh in on Russia to end the war\nrelieve human suffering",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Russia's continuing aggression while discussions are taking place is deplorable. We support Ukraine's efforts to achieve peace, and **those undertaken diplomatically by Allies to weigh in on Russia to end the war** and **relieve human suffering**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "uphold the international order\nprinciples of sovereignty(/'sɑ:vrənti/)\nterritorial(/ˌterə'tɔ:riəl/) integrity\nas enshrined in the UN Charter\nabstain from supporting Russia's war efforts\nrefrain from doing ...\ncircumvent sanctions",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "We call on all states, including the People's Republic of China (PRC), to **uphold the international order** including the **principles of sovereignty** and **territorial integrity**, as enshrined in the UN Charter, to **abstain from supporting Russia's war effort** in any way, and to **refrain from** any action that helps Russia **circumvent sanctions**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "provide tailored support to ...\naffected by Russian threats and interference\nstep up our assistance to help ...\nlong-standing partnership",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "We are **providing tailored support to** partners **affected by Russian threats and interference** and will **step up our assistance to help**them resist Russian malign influence and strengthen their resilience, based on our partners' requests and our **long-standing partnership** programmes.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "impose costs on ...\ninformation exchange\nenhancing civil preparedness\nstrengthening our ability to respond to disinformation",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "We are ready to **impose costs on** those who harm us in cyberspace, and are increasing **information exchange** and situational awareness, **enhancing civil preparedness**, and **strengthening our ability to respond to disinformation**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "lowered the temperature\nsomewhat relative to what it would have been without the meeting\nstructural drivers of tension\nin the bilateral relationship",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "My sense is the two leaders talking directly probably **lowered the temperature****somewhat relative to what it would have been without the meeting**. But the **structural drivers of tension** **in the bilateral relationship** remain, as does the prospect of a visit by Speaker Pelosi to Taiwan",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "steer clear of ... 有意避开\nescalatory rhetoric /ˈeskələˌtəri/ /ˈretərɪk/\nin a Thursday call/\npreoccupied with 全神贯注于\neconomic woes at home 国内的经济困境",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "U.S. President Joe Biden and Chinese President Xi Jinping **managed largely to steer clear of escalatory rhetoric** on Taiwan **in a Thursday call**, suggesting that neither side - **preoccupied with economic woes at home** - wants a fresh crisis across the Taiwan Strait.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "comprised one of three parts of\nmore than two-hour discussion\na senior U.S. official who briefed reporters",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Taiwan **comprised one of three parts of** the**more than two-hour discussion**, according to **a senior U.S. official who briefed reporters**. The others largely focused on Russia's war in Ukraine and areas of possible U.S.-China cooperation, such as climate change.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "covered extremism and violent ideologies around the world\na political force more nihilistic(/ˌnaɪɪˈlɪstɪk/adj.虚无主义的), dangerous & contempitle(/kənˈtemptəbl/adj. not deserving any respect at all) than today's Republicans",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\"I've **covered extremism and violent ideologies around the world** over my career. Have never come across **a political force more nihilistic, dangerous & contemptible than today's Republicans**. Nothing close.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "cited ... for ...\nenergy disruptions 能源中断\nbacked Kyiv with diplomatic and military support\nweaponizing energy supplies",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Moscow has **cited** Western sanctions and technical issues **for**the **energy disruptions**. European countries who have **backed Kyiv with diplomatic and military support** have accused Russia of weaponizing energy supplies.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "amend its constitution\na leadership reshuffle held over five years\nconsolidate authority and stature\na draft amendment",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 16,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "China's ruling Communist Party will **amend its constitution** next month during **a leadership reshuffle held over five years**, a move that some analysits said could **consolidate President Xi Jinping's authority and stature** within the party. State news agency Xinhua said on Friday that the Politburo discussed **a draft amendment** to the party constitution in a meeting chaired by Xi, without specifying the changes.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "break with precedent\nsecure a third five-year leadership term\ncementing his status",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 17,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Xi is widely expected to **break with precedent** at the congress that starts on Oct. 16 and secure a third five-year leadership term, **cementing his status** as China's most powerful leader since Mao Zedong, founder of the People's Republic.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "enshrine\nburnished Xi's standing\nupgrading its stature",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 18,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The party's constitution was last amended in 2017 to**enshrine**\"Xi Jinping Thought on Socialism with Chinese Characteristics\", a move that **burnished Xi's standing**. Political watchers say one possibility is an amendment that shortens the ideology to \"Xi Jinping Thought\", **upgrading its stature** to that of \"Mao Zedong Thought\".",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "competition and purging\nproved the old political science saying\npower transition\nadopted life-long tenure",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 19,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "That whole process of **competition and purging** scared the shit of the party, which **proved the old political science saying**, \"**power transition** is the Achilles' heel of one-party systems\". This is why almost every other dictatorship **adopted life-long tenure** for their leaders.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "(relation)...have soured\nhave often been confrontational on ...\non the public stage",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 20,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "As relations with the West **have soured** over issues from trade and human rights to COVID-19, Chinese diplomats **have often been confrontational on** the public stage, including on social media, a stridency that some critics see as intended for a domestic audience that nonetheless hurts its foreign ties.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "party general secretary\nup for renewal\nat the annual session of",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 21,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The congress is expected to reconfirm Xi as **party general secretary**, China's most powerful post, as well as chairman of the Central Military Commission. Xi's presidency is **up for renewal** in March **at the annual session** of China's parliament.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "liberal-minded\nfurther curbs imposed on...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 22,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Some of those **liberal-minded** moves in Guangdong, however, were later scaled back or scrapped under Wang's watch, with **further curbs imposed on** the media and civil society including labour groups after Xi became leader a decade ago and set China on an increasingly authoritarian path.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "made unscripted, occasionally humorous remarks on...\na style that contrasts with\nthe stiffer public persona typically adopted by top party leaders",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 23,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "At an informal gathering with journalists in Guangzhou more than a decade ago, Wang **made unscripted, occasionally humorous remarks on** a wide range of topics. It was**a style that contrasts with** **the stiffer public persona typically adopted by top party leaders**, who nowadays rarely if ever interact with foreign media.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in-power in China\nliberation and independence of the Chinese people",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 24,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "One of the essential rationals for the CCP's **in-power in China** nowadays is they repelled the Japanese invasion in WW2, which led to the **liberation and independence of the Chinese people**, though it was through the collaboration with KMT (Kuomintang).",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "offer a rare window into\non the condition of anonymity\nthe subject's sensitivity\nweren't authorized to",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 25,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The previously unreported details **offer a rare window into** deliberations among top Chinese officials and healthcare experts, including differences between Li and Xi about the pace of reopening. The people spoke **on the condition of anonymity** because of **the subject's sensitivity** or because they **weren't authorized to** talk to the media.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 26,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Religion",
+              "displayOrder": 5,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "even broaching the idea would have been ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**even broaching the idea would have been** sacrilegious",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Society",
+              "displayOrder": 6,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "a hatemongering and warmongering mainstream media\n... play its part",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**A hatemongering and warmongering mainstream media** **played its part**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "turns toward recovery\ndo our part + doing\nsupport relief efforts\nhelp with the rebuilding\nthe affected communities",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "As the Shanxi region **turns toward recovery**, we want to **do our part** **supporting relief efforts and helping with the rebuilding**. Apple is making a donation to help **the affected communities**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "accelerating economic and social development\na wealth of creativity\nadvance a cross-cultural dialogue\nmeet the country's stated goal of ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**Accelerating economic and social development** is producing **a wealth of creativity** in China and is offering Chinese designers great opportunities to **advance a cross-cultural dialogue** and **meet the country's stated goal of** becoming a creative world leader in design.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "become a fact of everyday life\na drain on public finances\nkerbside sampling booths\ncityscapes\nguarantee access to public venues",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Regular testing for the virus has**become a fact of everyday life** to ensure fast detection and quarantine of the infected and close contacts. It's a policy that has been controversial and also **a drain on public finances**. Tens of thousands of **kerbside sampling booths** where people can be tested day and night have become a permanent feature of Chinese **cityscapes**. Proof of a negative PCR test once every few days is required to **guarantee access to public venues**, places of work and mass transit - even when there is no outbreak.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "brochures touting its\nfar from those promised",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "For six months, home for Ms. Xu has been a room in a high-rise apartment in the southern Chinese city of Guilin that she bought three years ago, attracted by **brochures touting its** riverfront views and the city's clean air. Her living conditions, however, are **far from those promised**: unpainted walls, holes where electric sockets should be and no gas or running water.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "from afar\ncan't feel anything but pure loathing\nhold up ... as an exemplar",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Following what's happening in China **from afar**, I **can't feel anything but pure loathing** for those in the West who not so long ago **held up the Chinese Zero Covid approach as an exemplar**(/ɪɡˈzemplɑː(r)/ (模范；榜样；典型；范例).",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "a brazenly(明目张胆地) open and sustained expression of rage against...\nis exploding with...\ncivil disobedience is becoming rampant\nfurious vitriol",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "I've lived in China for 30 years, and I've never seen such **a brazenly open and sustained expression of rage against** the PRC govt. WeChat **is exploding with** protest videos and **furious vitriol**, and **civil disobedience is becoming rampant**. This is a serious test of CCP governance.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "in an economic upswing\nthe remaining years of\nradicalized",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The new beginning came during a phase when the country was **in an economic upswing**; after 1929,**the remaining years of** the Bauhaus were characterized by rising unemployment and the battles of political forces which **radicalized** each other.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "bite-sized, nonlinear, agrammatic chunks of LOLspeak (/ˌeɪɡrəˈmætɪk/)\nchannel our endless appetite for self-regard\npush ... into hyper-metabolic overdrive\nracking up massive tallies of followers\nbear absolutely no relation to actual friendship",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "“Who really cares what I am doing, every hour of the day?” wondered Alex Beam, a Boston Globe columnist, in an early essay pondering Twitter. “Even I don't care . . .” As this complaint usually goes, ambient signals are far too brief to convey any serious meaning or conversation—indeed, they train a young generation to think only in **bite-sized, nonlinear, agrammatic chunks of LOLspeak**. Worse, they **channel our endless appetite for self-regard**, turning everyone into the star of their own private reality show. And they **push into hyper-metabolic overdrive** the modern culture of personal branding, encouraging everyone to regard their life as a corporate endeavor, **racking up massive tallies of followers** and “friends”—friends who, of course, **bear absolutely no relation to actual friendship**—merely in the service of having a megaphone into which the Dunciadic masses can overshare nothing of any discernible value.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Daily Life",
+          "displayOrder": 3,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Daily",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "one year from the date of delivery\ndoes not cover natural wear and tear and damage arising from improper use",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Warranty: O**ne year from the date of delivery**. Service provided by the German Company. The warranty **does not cover natural wear and tear and damage arising from improper use**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "be of a size and weight that can fit in the overhead locker\nwithin the measurements of...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The baggage you are carrying must **be of a size and weight that can fit in the overhead locker** or under the seat. **Within the measurements of** 23x40x55 cm and 8 kg.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "put your trust and money in a brand\ngot bored of them",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "It's so unfortunate when you **put your trust and money in a brand** and turns out they don't appreciate it. I bought this pair and wore them only 4 month and got damaged at outer sides between the soft shell and layer beneath it. I had pair of Rockport for half price these Salomon and wore them every day for 2 year without any issue until I **got bored of them**. The Warranty Team they didn't consider my claim despite sending all pictures of defective parts. It seems you pay over $130 for the name only. IT'S TIME TO RECONSIDER MY CHOICES.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "operating with partial understanding\ntake it down to the atomic level",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Of course, you're accustomed to **operating with partial understanding**: you use your car, TV, and computer, and Internet, without understanding exactly how they work. In fact, if you **take it down to the atomic level**, you probably don't understand how your coffee cup works.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "fictitious\ncoincidental and unintentional\nis protected under the laws in ...\nunauthorized duplication, distribution or exploitation\ncivil liability and criminal prosecution",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The characters and events portrayed and the names used herein are **fictitious**. Any similarity to the names, characters or history of any person is entirely **coincidental and unintentional**.This motion picture **is protected under the laws in** the Hong Kong Special Administrative Region of the People's Republic of China and any other countries. Its **unauthorized duplication, distribution or exploitation** may result in **civil liability and criminal prosecution**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "ACCRETION",
+          "displayOrder": 4,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Computer Games",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "surprising vertical span",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Dark souls game worlds had **surprising vertical span**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "He was stumbled upon by a Tarnished champion, and despite some reticence in accepting the help of a Tarnished, bid them to retake his fort in exchange for a handsome reward, while also sharing with them his exceedingly low opinion of Godrick.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Sports",
+              "displayOrder": 1,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "dubbed sb ...\nChina's first male Olympic swimming champion\n... served a three-month ban\nthe use of a banned substance",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Australian Horton **dubbed** Sun a \"drug cheat\" at the 2016 Rio Olympics because **China's first male Olympic swimming champion** had **served a three-month ban for the use of a banned substance** in 2014.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "an eight-year ban for ...\n... when the suspension expires\ndevastating blow for ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "One fan called 'Love Story' wrote in a blog hosted by Chinese ecommerce platform NetEase that **an eight-year ban for** Sun, who would be 37 **when the suspension expires**, would be a **devastating blow for** Chinese swimming.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "challenges in the form of injuries and surgeries\nreturn to full competitive form\nthan I ever would have dreamt",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "\" As many of you know, the past three years have presented me with **challenges in the form of injuries and surgeries**. I've worked hard to **return to full competitive form**. But I also know my body's capacities and limits, and its message to me lately has been clear. I am 41 years old. I have played more than 1500 matches over 24 years. Tennis has treated me more generously**than I ever would have dreamt**, and now I must recognize when it is time to end my competitive career.\"",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "tears flow as ...\ncurtain comes down on Federer's glittering career",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**Tears flow as curtain comes down on Federer's glittering career**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "trophy-laden career\n... with tears in his eyes and cheers ringing in his ears\na sellout crowd of\nwith whom he shared one of tennis's most captivating rivalries",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Roger Federer's trophy-laden career ended with defeat on Friday, but for once the result hardly mattered as the Swiss maestro headed into retirement **with tears in his eyes and cheers ringing in his ears**.With **a sellout crowd of** 17,500 at London's O2 Arena willing him on, the 20-time Grand Slam champion returned after more than a year away to play alongside Rafa Nadal, the Spaniard **with whom he shared one of tennis's most captivating rivalries**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "could have sealed victor\nin a tense deciding tiebreak\nripped up the script",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "With the clock past midnight, Federer **could have sealed victory** in the Laver Cup doubles clash when he served at match point **in a tense deciding tiebreak**, but it was not to be as Americans Jack Sock and Frances Tiafoe **ripped up the script**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "stunned silence around the packed arena\nrose to salute\nwhose elegance, charisma and sportsmanship\nhas graced tennis and transcended sport\nThere was hardly a dry eye in the house",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "After a brief moment of**stunned silence around the packed arena**, the crowd **rose to salute** the 41-year-old Federer, **whose elegance, charisma and sportsmanship** **has graced tennis and transcended sport** during a 24-year career. **There was hardly a dry eye in the house**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "bowed out of\nin the round of 16\npenalty-kick shootout",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The U.S. women’s national soccer team **bowed out of** the World Cup at the earliest stage in its glorious history Sunday, losing to Sweden **in the round of 16** following 120 scoreless minutes and a wild **penalty-kick shootout**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "String choices:\n- Thick string for more **durability**, it does not break easily;\n- Thin string for the more controlling player, more playing with feeling;\n- **Coarse strings** to give more 'spin' to the shuttle;\n- Smooth strings for more precision;\n- Fast rebounding strings, for a higher **'repulsion'**;\n- Or at least the somewhat **stiffer string** for more 'hold'",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "sounds crisp upon contact",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "I like strings which **sounds crisp upon contact**!",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "my 25th consecutive season\ncovering the Premier League",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "This is **my 25th consecutive season covering the Premier League**",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "debate-sparking moment\ndecided the fate of ...\nin the 51st minute",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "However, another **debate-sparking moment** appears to have **decided the fate of**Group E concerning Ao Tanaka's winning goal for Japan against Spain **in the 51st minute**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "ACADEMIC",
+          "displayOrder": 5,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Science",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "data-driven\nappproach to doing...\nin a supposedly neutral news context",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The project is intended to provide a more **data-driven approach to studying** the use of bias and 'influencing' language**in a supposedly neutral news context**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "as ... as ...\nend state",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Its arc is as long and unpredictable as its **end state** is lucrative. 它的发展轨迹是漫长而不可预测的，只要它的最终状态是有利可图的",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "is not as important as the fact that ...\nvery well could have",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Whether the virus leaked from a lab or not **is not as important as the fact that** it **very well could have**.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "add weight to calls for ...\na broader probe of whether",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The report may **add weight to calls for** **a broader probe of whether** the COVID-19 virus could have escaped from the laboratory",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "lays out\nhidden backstory behind ...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "New study **lays out** **hidden backstory behind** deadly Pacific Northwest heat wave",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "served a very important purpos\nhave been an enabler in\nthe downside outweighs the benefits",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "Email and social media have **served a very important purpos**e in the workplace, and **have been an enabler in** communications and virtual work relationships. The downsides, however, now outweigh the benefits, and these include: unmanageable workloads (when faced with an excessive email inbox), the loss of face-to-face relationships with colleagues; and the misuse of emails to avoid having face-to-face discussions about difficult work-related issues.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "patients with long-term CoVID sequelae(/sɪˈkwili/)\nhad initial results",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "The Dutch study of patients with long-term CoVID sequelae has had initial results. 荷兰对长期新冠后遗症患者研究有初步成果",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "Consistent with the principle of\nposits that\nassigned greater intelligence to",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "**Consistent with the principle of** “similarity-attraction,” which **posits that** individuals are attracted to other people who are similar to themselves, we found that dominant participants were more attracted to, **assigned greater intelligence to**, and conformed more with the dominant computer, compared to the submissive computer.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Tech",
+              "displayOrder": 1,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "newfangled moral philosophy\nrun roughshod over 肆意践踏\nfail-safe precautions 故障安全预防措施\ndescend upon",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "They wouldn't need any ponderous “rules of robotics” or some **newfangled moral philosophy** to do this, just the same common sense that went into the design of food processors, table saws, space heaters, and automobiles. The worry that an AI system would get so clever at attaining one of its programmed goals (like commandeering energy) that it would **run roughshod over** the others (like human safety) assumes that AI will **descend upon** us faster than we can design fail-safe precautions. The reality is that progress in AI is hype-defyingly slow, and there will be plenty of time for feedback from incremental implementations, with humans wielding the screwdriver at every stage.",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                },
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Math",
+              "displayOrder": 2,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "flattens off or saturate\nfall along straight lines in the graph\nconform to...",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [
+                    {
+                      "text": "In some sensory judgments, such as brightness, sensory magnitude increases rapidly at low stimulus intensities, but **flattens off or saturate**s at higher intensities. In others, sensory magnitude shows the opposite pattern. If the data are plotted on logarithmic axes rather than linear axes, they **fall along straight lines in the graph**. This means that sensory magnitude data **conform to** a mathematical power law,",
+                      "displayOrder": 0
+                    }
+                  ],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "T",
+              "displayOrder": 3,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "U, V, W",
+              "displayOrder": 4,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "X, Y, Z",
+              "displayOrder": 5,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "*\n*",
+                  "pronunciation": null,
+                  "entryType": "expression",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

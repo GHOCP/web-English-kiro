@@ -114,7 +114,7 @@ describe('CategoryView view selection', () => {
     expect(screen.getByRole('article', { name: 'provoke' })).toBeInTheDocument();
   });
 
-  it('renders the thesaurus table for viewType="thesaurus"', () => {
+  it('renders the thesaurus grid for viewType="thesaurus"', () => {
     const cat = node({ id: 1, name: 'Verbs', viewType: 'thesaurus', partOfSpeech: 'V' });
     render(
       <CategoryView
@@ -127,12 +127,13 @@ describe('CategoryView view selection', () => {
         })}
       />,
     );
-    // Thesaurus group table links each word to its entry detail page.
+    // Thesaurus group grid links each word to its entry detail page.
     expect(screen.getByRole('link', { name: 'provoke' })).toHaveAttribute(
       'href',
       '/entry/100',
     );
-    expect(screen.getByRole('columnheader', { name: /word/i })).toBeInTheDocument();
+    // Each entry renders as an <article> in the 2-column grid.
+    expect(screen.getByRole('article', { name: 'provoke' })).toBeInTheDocument();
   });
 
   it('renders the writing view for viewType="writing"', () => {

@@ -1,0 +1,5101 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.860Z",
+  "categories": [
+    {
+      "name": "Phrases — Verb",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "A",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "amount to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "1. to produce (a total) when added together\n-- The bill amounted to 10 dollars.\n-- The number of people taking part amounted to no more than a few hundred.\n2. to be the same in meaning or effect as (something)\n-- acts that amount to treason\n-- Anything less than total victory would amount to failure/failing.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "account for",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. **Something accounts for a particular fact or situation, it causes or explains it.**\n-- The gene they discovered today doesn't account for all those cases.\n2. **Know where (something or someone) is.**\n-- Is everyone accounted for? 每个人都在吗？\n3. **If a particular thing accounts for a part or proportion of something, that part or proportion consists of that thing, or is used or produced by it. (数量、比例上) 占**\n-- Computers account for 5% of the country's commercial electricity consumption.\n4. **If you can account for something, you can explain it or give the necessary information about it. 解释**\n-- How do you account for the company's alarmingly high staff turnover?\n5. **If someone has to account for an action or policy, they are responsible for it, and may be required to explain it to other people or be punished if it fails. 对…负责**\n-- The president and the president alone must account for his government's reforms.\n6. **If a sum of money is accounted for in a budget, it has been included in that budget for a particular purpose. 列入预算**\n-- The really heavy costs have been accounted for. 这些确实巨大的花费已被列入预算。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "aspire to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "渴求：-- Nor do they aspire to such command themselves. 他们自己也不渴望这样的命令。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "alleviate their hardships",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "减轻疾苦",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "allude to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "间接提到",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "B",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "be subjected to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "经受，遭受\n-- Inspector should not be subjected to any type of intervention from direct supervisor and members of the organization during inspection.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(be) committed to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "决心从事，致力于：+ n. / doing\nThe President is committed to reforming health care.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be made more of a priority",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "被当作是优先项",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be apt to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "倾向于：And remember children will be apt to do what you do, not necessarily what you tell them to do.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be no better off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "并没有更好",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(A)be privy to(B)",
+              "pronunciation": "/ˈprɪv.i/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "A 对 B 知情",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be tantamount to sth",
+              "pronunciation": "/ˈtæn.t̬ə.maʊnt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "adj. being almost the same or having the same effect as something, usually something bad 相当于\n-- Her refusal to answer was tantamount to an admission of guilt.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "boil down to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "If a situation or problem boils down to something, that is the main reason for it 归结为\n-- The problem boils down to one thing - lack of money.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be between Scylla and Charybdis...",
+              "pronunciation": "/ˌsɪlə ənd kəˈrɪbdɪs/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "腹背受敌；进退两难：-- He was between Scylla and Charybdis, for his company had betrayed him.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be compounded by...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "使加重，使恶化",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be compounded of / from sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "to be formed from sth 由…构成（或形成）\n-- The DNA molecule is compounded from many smaller molecules.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be compounded with...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "to mix sth together 混合；掺和；拌和：-- liquid soaps compounded with disinfectant 用消毒剂混合制成的皂液",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "binge on ...",
+              "pronunciation": "/bɪndʒ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "v. to eat or drink too much, especially without being able to control yourself 大吃大喝；狂欢作乐",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "to go on a binge",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "饮酒作乐",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "back from the dead",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "起死回生：-- Ubuntu Unity desktop back from the dead after several years' hiatus",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be complicit ~ (in/with sb/sth)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "involved with other people in sth wrong or illegal （与某人或某事）同谋的，串通的\n-- Several officers were complicit in the cover-up. 几名军官串通一气隐瞒真相。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "broach the topic of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "提及...议题：-- For the first time in six years, they broached the topic of a Palestinian State. 在六年里这还是他们首次提及巴勒斯坦建国的议题。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be distinct from ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "截然不同的：-- Jamaican reggae music is quite distinct from North American jazz or blues.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be on top of the leaderboard of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "名列榜首：-- I'm delighted to be on top of the leaderboard in a tournament that has so many star names playing. 我很高兴能在有这么多明星参赛的锦标赛上名列榜首。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "blow the competition away",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "击败竞争对手",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "blow the competition out of the water",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "把竞争对手打得落花流水",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "blaze a trail in ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "开辟一条道路：-- I will work hard to blaze a trail in this new company. 我一定会努力工作在新公司杀出一条血路。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... bears no resemblance to ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "I hink that statement by Li Ka-shing on NetEase is a forgery. Its writing style bears no resemblance to his past statements.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sb has the benefit of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "I've had the benefit of a good education. 我得益于受过良好教育。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be of benefit to ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "The new regulations will be of benefit to everyone concerned. 新规章将使所有有关人员受益。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be to one's benefit",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "It will be to your benefit to arrive early. 早到将会对你有利。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bask in",
+              "pronunciation": "/bɑːsk/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "[ V ] ~ (in sth) to enjoy sitting or lying in the heat or light of sth, especially the sun 晒太阳；取暖",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be backlogged with...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "积压...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bail on ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "放弃，临时取消：在某人或某事上突然放弃或取消计划。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bear a grudge",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "怀恨在心",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "buckle up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "系好安全带；把...扣紧",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bust",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "bust\n1. to break sth打破；摔碎\n2. ~ sb/sth (for sth) ( of the police警方 ) to suddenly enter a place and search it or arrest sb突击搜查（或搜捕）\n3. ( especially NAmE ) to make sb lower in military rank as a punishment（使）降级，降低军阶",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bust up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 32,
+              "definitions": [
+                {
+                  "text": "1. ( informal ) ( of a couple, friends, partners, etc.夫妻、朋友、合伙人等 ) to have an argument and separate吵翻；分手\n2. ( informal ) to make sth end by disturbing or ruining it断送；毁灭 = break up",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bang for buck",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 33,
+              "definitions": [
+                {
+                  "text": "物有所值：指花费的钱物有所值，或者说得到的回报与投入成正比。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "C",
+          "displayOrder": 2,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "crop up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "to come or appear when not expected\n-- New problems crop up every day.\n-- His name crops up frequently as a potential candidate.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(I) couldn't bring myself to do ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "没有勇气；不忍心：-- I couldn't bring myself to tell her the bad news. 我实在不忍心把这个坏消息告诉她。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cold-shoulder = give sb the cold shoulder",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "vn. to treat sb in an unfriendly way 冷待；冷落；慢待： --But when Gough looked to Haig for support, he was given the cold shoulder.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cling to",
+              "pronunciation": "/klɪŋ tu/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "坚持；依靠；依附；紧握不放 -- Since you don't like your perception of him, why cling to it? 既然你不喜欢你对他的看法，为什么还坚持这个看法呢？\n-- cling ignobly /ig'nəubli/ to life 卑贱地活着",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "give (no) credence",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "（不）信任：-- They could give no credence to the findings of the survey.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "gain credence",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "得到认可 / 信任：-- Alternative medicine has been gaining credence (= becoming more widely accepted) recently. 近来替代疗法越来越得到大众的认可",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(be) conducive to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "有助的，有益的\n-- Chairs in rows are not as conducive to discussion as chairs arranged in a circle. 椅子成排摆放不如成圈摆放便于讨论。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "consolidate one's position",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "巩固地位：-- With this new movie he has consolidated his position as the country's leading director.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conform to ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "to behave and think in the same way as most other people in a group or society 顺从，顺应（大多数人或社会）；随潮流\n-- There is considerable pressure on teenagers to conform. 年轻人被大力要求守规矩。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "comform to / with sth comply to / with sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "The building does not conform with safety regulations. 这座建筑物不符合安全条例。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conform to sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "to agree with or match sth: -- It did not conform to the usual stereotype of an industrial city. 这和一座常规的工业城市那种千篇一律的格局不一样。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "counteract the effects of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "抵消...的影响：-- These exercises aim to counteract the effects of stress and tension. 这些训练旨在抵消压力与紧张的影响。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "confer with sb on/about sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "to discuss sth with sb, in order to exchange opinions or get advice",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "confer sth on/upon sb",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "to give sb an award, a university degree or a particular honour or right\n-- An honorary degree was conferred on him by Oxford University in 2001.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be conspicuous by one's absence",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "本应在场）因缺席而招人注意：-- When it came to cleaning up afterwards, Anne was conspicuous by her absence.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be contingent on/upon sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "depending on sth that may or may not happen 依情况而定的:\n-- All payments are contingent upon satisfactory completion dates. 所有的付款须视是否如期完成而定。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "culminate with / in ... to end with a particular result, or at a particular point （以某种结果）告终；（在某一点）结束",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "-- a gun battle which culminated in the death of two police officers\n-- Months of hard work culminated in success.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cram into / in sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "to push or force sb/sth into a small space; to move into a small space with the result that it is full 把…塞进；挤满；塞满\n-- Supporters crammed the streets. 街上挤满了支持者。\n-- I could never cram in all that she does in a day. 我可做不了她在一天之内做的事情。\n-- He crammed eight people into his car. 他往他的车里硬塞进八个人。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cram down a few mouthfuls of food",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "-- I managed to cram down a few mouthfuls of food. 我好歹狼吞虎咽地吃了几口东西。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conjecture about ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "猜测：-- We can only conjecture about what was in the killer's mind.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cleaving through the water",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "破浪前进",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "coerce sb into (doing) sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "They were coerced into negotiating a settlement. 他们被迫通过谈判解决。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "confound one's critics",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "She confounded her critics and proved she could do the job. 她驳倒了批评者的看法，证明自己能够胜任那项工作。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "coalesce ~ into / with sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "to come together to form one larger group, substance, etc. 合并；联合；结合\n-- The puddles had coalesced into a small stream. 地面上水洼子里的水汇流成了一条小溪。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "crack under the strain",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "to no longer be able to function normally because of pressure:\n-- Things are terrible at work and people are cracking under the strain.\n-- The old institutions are cracking. 旧的制度正在瓦解。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get it cracked",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "After a year in this job I think I've got it cracked ! 干了一年后，我觉得我已知道怎样做好这项工作了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "come as an disappointment to many",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "We are sure that this will come as an disappointment to many but there is no such position here at Edinburgh Zoo.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "count one's proverbial chickens",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "过分乐观：-- Let's not count our proverbial chickens. 我们还是不要过分乐观。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be cushioned by ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "缓冲：-- My fall was cushioned by the deep snow. 积雪很厚，我跌得不重。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cushion sb/sth against/from sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "to protect sb/sth from being hurt or damaged or from the unpleasant effects of sth 缓和打击：-- The south of the country has been cushioned from the worst effects of the recession. 国家南部保护得好，没有受到经济衰退造成的最恶劣影响。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cushion the blow",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "减轻对...的打击：-- He broke the news of my brother's death to me, making no effort to cushion the blow (= make the news less shocking) . 他把我兄弟死亡的消息直接告诉了我，没有试图减轻此事对我的打击。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "crop up = come up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "to appear or happen, especially when it is not expected （尤指意外地）出现，发生",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have long coveted for the chance to ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 32,
+              "definitions": [
+                {
+                  "text": "He had long coveted the chance to work with a famous musician. 他一直渴望有机会与著名音乐家一起工作。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "commence one's career",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 33,
+              "definitions": [
+                {
+                  "text": "开始...生涯：She commenced her medical career in 1956.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... citing the sensitivity of the matter",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 34,
+              "definitions": [
+                {
+                  "text": "... 引用事情的敏感性",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "creep to sb.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 35,
+              "definitions": [
+                {
+                  "text": "谄媚；巴结；拍马屁",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "clamp down on",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 36,
+              "definitions": [
+                {
+                  "text": "（对...）进行压制（或取缔）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be compliant with",
+              "pronunciation": "/kəmˈplaɪənt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 37,
+              "definitions": [
+                {
+                  "text": "服从的，顺从的；（与规定或标准）符合的，一致的\nbe compliant with: 与...兼容",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "this cuts both ways",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 38,
+              "definitions": [
+                {
+                  "text": "双刃剑：But this argument cuts both ways. 不过这种说法却是双刃剑。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "change nothing for the worse",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 39,
+              "definitions": [
+                {
+                  "text": "不会让情况变得更糟",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "D",
+          "displayOrder": 3,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "declare \"red alerts\"",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "发布红色警告",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "doom ... from the start",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "使得...注定失败：-- The ill-advised conceit of the guardian angel dooms the film from the start. 对守护天使的蹩脚设计弄巧成拙，从一开始就注定这部电影要失败。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "defy ~",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "无法...\n-- a political move that defies explanation 无法解释的政治举动\n-- The beauty of the scene defies description. 景色之美简直难以描绘。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": ".. defy all the odds and survive",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "(= stayed alive when it seemed certain that he would die) 这名男婴九死一生活了下来",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dispense justice / advice",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "判案；给予忠告",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dispense with sb / sth = do away with",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "to stop using sb/sth because you no longer need them or it 摒弃；不再需要；不再用\n-- Debit cards dispense with the need for cash altogether. 有借记卡就完全不需要用现金了。\n-- I think we can dispense with the formalities (= speak openly and naturally to each other) . 我想我们就免去客套吧。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dispense with the formalities",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "免去客套",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "do away with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "1. To do away with something means to remove it completely or put an end to it. 消除; 终结\n-- The long-range goal must be to do away with nuclear weapons altogether.\n2. If one person does away with another, the first murders the second. If you do away with yourself, you kill yourself. 谋杀\n-- ...a woman whose husband had made several attempts to do away with her.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "despair of sth/sb despair of doing sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "to stop having any hope that a situation will change or improve\n-- They'd almost despaired of ever having children. 他们对生孩子几乎不抱任何希望了。\n-- I despair of him; he can't keep a job for more than six months.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... detest each other on sight",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "互相看不顺眼：-- They detested each other on sight. 他们互相看着就不顺眼。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... dispel any fears about ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "消除了人们对 ... 的担心：His speech dispelled any fears about his health. 他的发言消除了人们对他身体健康的担心。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "defuse ... tension",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "缓和，平息：-- Local police are trying to defuse racial tension in the community. 当地的警察竭力缓和这个社区种族间的紧张局面。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be not deterred",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "不罢休：-- I told him I wasn't interested, but he wasn't deterred. 我已告诉他我不感兴趣，可他却不罢休。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "downplay down the idea (that...)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "淡化这个想法：-- But others have downplayed down the idea that China and the United States are on the cusp of calamity over Taiwan.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dent one's confidence",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "使他信心受挫：-- It seemed that nothing could dent his confidence. 似乎任何事情都不会使他的信心受挫。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "degenerate into ...",
+              "pronunciation": "/dɪˈdʒenəreɪt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "to become worse, for example by becoming lower in quality or weaker\n-- The march degenerated into a riot. 示威游行变成了暴动。\n-- Her health degenerated quickly. 她的健康状况迅速恶化。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "leave it up to sb to use sb's discretion",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "I'll leave it up to you to use your discretion . 我把这件事留给你自己斟酌决定。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be left to the discretion of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "由...自行决定：-- How much to tell terminally ill patients is left to the discretion of the doctor. 晚期病人的病情让本人知道多少由医生自行决定。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "rely on one's discretion",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "谨慎；慎重；审慎 -> 靠得住：-- This is confidential, but I know that I can rely on your discretion. 这是机密，不过我知道你靠得住。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be discreet about ...",
+              "pronunciation": "/dɪˈskriːt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "adj. careful in what you say or do, in order to keep sth secret or to avoid causing embarrassment or difficulty for sb\n-- He was always very discreet about his love affairs. 他对两性关系一贯谨小慎微。\n-- You ought to make a few discreet enquiries before you sign anything. 你应该审慎地询问清楚再签字。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "defect from ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "~ (from sth) (to sth)to leave a political party, country, etc. to join another that is considered to be an enemy 背叛；叛变；投敌：-- There have been several defections from the ruling party. 执政党已有好几位党员倒戈。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be dismayed at / by sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "to make sb feel shocked and disappointed 使诧异；使惊愕；使失望\n-- He was dismayed at the change in his old friend. 他对老朋友变化之大感到震惊。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "defer to sb./sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "to agree to accept what sb has decided or what they think about sb/sth because you respect him or her 遵从；听从：-- We will defer to whatever the committee decides. 我们遵从委员会作出的任何决定。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sb. discourse on/upon sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "to talk or give a long speech about sth that you know a lot about 讲述；论述",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "discover the truth or otherwise of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "-- It was necessary to discover the truth or otherwise of these statements. 有必要查证这些说法的真实性或虚假性。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dwindle away to nothing",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "渐渐化为乌有",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "night descends quickly in ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "夜幕降临",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dig your own grave",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "自掘坟墓",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "cherry-pick",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "[ VN V ] to choose the best people or things from a group and leave those which are not so good 筛选；精选",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "decrease the lifespan",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "减少寿命",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "delay the gratification",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "延迟满足： Both groups can delay gratification if a bigger reward is on offer, but only for a few seconds.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "drop by ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "drop by ... on my way home",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "default",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 32,
+              "definitions": [
+                {
+                  "text": "[ UC ] failure to do sth that must be done by law, especially paying a debt违约（尤指未偿付债务）\nV. ~ (on sth)to fail to do sth that you legally have to do, especially by not paying a debt违约；不履行义务（尤指不偿还债务）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "E",
+          "displayOrder": 4,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "edge out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "to do better than another person or company when you are competing against them 挤掉；险胜\n-- In the second race, the American competitor edged out the Ethiopian runner by less than a second.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "enter the scene",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. 身临现场；2. 进入人们的视野 -- As more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten.\n-- Instead of watching a film on the screen, you would enter the scene and watch the action take place all around you. 人们并非在屏幕上观看电影，而是身临现场观看身边发生的各种情节。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "embark on",
+              "pronunciation": "/ɪmˈbɑːrk/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "1. 从事，着手，开始（做）：embarked on a farm-building frenzy开始了一场农场建设狂潮\n2. 登上船",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... engages both the mind and the eye",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "It is a movie that engages both the mind and the eye. 这是一部令人赏心悦目的影片。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "engage with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "与（某人）交战；与（某人）开战：to engage the enemy 与敌人交战",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "evade the issue",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "Come on, don't you think you're evading the issue ? 得了吧，你不认为你是在回避这个问题吗？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "embark on/upon sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "to start to do sth new or difficult 从事，着手，开始（新的或艰难的事情）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "keep an eye on ... / get an eye on ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "留意，关注",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "F",
+          "displayOrder": 5,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "fall short of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "1. 达不到，辜负\n-- fall short of expectations (to not be as good as people thought would be the case)\n-- fall short of specifications 不合规格\n-- fall short of the mark 不合格，失败\n-- fall short of demand\n2. 缺乏",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "factor in",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "to include something when you are doing a calculation, or when you are trying to understand something\n-- People are earning more, but when inflation is factored in, they are no better off.\n-- The age of the patients and their overall health must be factored into the results.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "feast on",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "1. to eat a lot of good food and enjoy it very much: -- We feasted on smoked salmon and champagne.\n2. 尽情欣赏",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "flex the muscle",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "1. 活动肌肉\n2. 秀肌肉。展示实力",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fall out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "1. happen 发生 2. turn out 结果是 3. to leave one's place in the ranks：-- The first to fall out of the moving circle was the boys. 男孩子们先从不断旋转的圈里掉出来了。 3. If something such as a person's hair or a tooth falls out, it comes out. 脱落：--Teeth become loose and may fall out. 4. 掉出来：-- The first time I pulled my knickers down, I felt my soul fall out. 5. If you fall out with someone, you have an argument and stop being friendly with them. You can also say that two people fall out. 闹翻：--She fell out with her husband.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "v.1. 脱落:Her hair started falling out as a result of radiation treatment.\nv.2 闹翻：She fall out with her husband.",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... is a mere formality",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "仅仅是走个过场：-- He already knows he has the job so the interview is a mere formality.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fall into decay",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "破烂不堪：-- The landlord had let the building fall into decay . 房东不管，房子已经破烂不堪。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... dwindle away to nothing",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "渐渐化为乌有：-- Support for the party has dwindled away to nothing. 支持这个党派的人渐渐化为乌有。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be due to do sth. be due for sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "arranged or expected 预定；预期；预计\n-- When is the baby due? 宝宝什么时候出生？\n-- Rose is due to start school in January. 罗斯一月份就要开始上学了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be due on ... + date",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "到期：-- Payment is due on 1 October.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be due to sb.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "owed to sb as a debt, because it is their right or because they have done sth to deserve it 应支付；应给予；应归于：-- Have they been paid the money that is due to them? 他们应得的钱付给他们了吗？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sb be due for ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "sth owed sth; deserving sth 应有；应得到\n-- I'm still due 15 day's leave. 我还应有15天的休假。\n-- She's due for promotion soon. 她很快该晋升了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be designated by",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "to show sth using a particular mark or sign: -- The different types are designated by the letters A, B and C. 不同的类型分别用字母A、B和C标明。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "flaunt wealth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "炫富",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "flip ... on its head",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "颠覆：-- But in collective thinking, a new proposition emerges that flips this logic on its head.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fill the feeling",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "It fills the feeling of loneliness that increases little by little with each passing day.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fiddle with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "[ V ] ~ (with sth) to keep touching or moving sth with your hands, especially because you are bored or nervous （尤指厌烦或紧张地）不断摸弄，不停摆弄",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fiddle + n",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "[ VN ] ( informal ) to change the details or figures of sth in order to try to get money dishonestly, or gain an advantage 篡改；伪造；对…做手脚",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fiddle about with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "to keep touching sth or making small changes to sth because you are not satisfied with it 不断摆弄；不停对…作小修小改: -- I've been fiddling about with this design for ages. 我不断地修改这个设计已经好长时间了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fiddle around",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "虚度光阴；瞎混",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "a fuss about nothing",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "大惊小怪",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "make a fuss about / kick up a fuss",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "（为小事）大吵大闹，大发牢骚",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "make a fuss of/over sb",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "关爱备至；过分爱护",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "G",
+          "displayOrder": 6,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "get / draw the short straw",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "to have to do the least enjoyable of a range of duties, often because you have been chosen to do it 干苦差事\nMike drew the short straw and had to clean the bathroom.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get psyched up",
+              "pronunciation": "/saɪkt ʌp/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "精神上准备好",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "give it a go",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "试一试",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get down to business",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "干正事",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "give sb's consent",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "The odds are that she will give her consent. 她可能会同意。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get the hang of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "掌握窍门",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "go back to the drawing board",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "从头做起",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get on sb's nerves",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "使人心烦；惹恼某人",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "give it a shot",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "试一试",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "grant the application of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "批准...的申请：-- FCC partially grants Space Gen2 broadband satellite application. FCC 部分授予 Spacex Gen2 宽带卫星申请。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "go off without a hitch",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "The ceremony went off without a hitch . 仪式进行得很顺利。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get on in years",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "上了岁数了：She is getting on in years. 她上岁数了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "go out of the window",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "If a quality, principle, or idea goes out of the window, it does not exist any more.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "grows exponentially on a steep upward curve",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "Its intelligence grows exponentially on a steep upward curve.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "H",
+          "displayOrder": 7,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "have yet to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "还没有 -- have yet to be proved 有待证明\n-- have yet to be improved 有待改进",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have a liking for",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "喜欢",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hit the jackpot with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "战胜 / 成功：-- United hit the jackpot (= were successful) with a 5-0 win over Liverpool. 联队以5:0狂胜利物浦队。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have nothing to do with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "与...无关 -- I'd have nothing to do with him, if I were you. 如果我是你，我就不会跟他有任何瓜葛。 -- I have nothing to do with fishes. 我不是鱼。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have sb in one's clutches",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "把某人控制住",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hold off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "1. hold off (on) doing sth: delay doing it or delay making a decision about it. 推迟\n-- The hospital staff held off taking Rosenbaum in for an X-ray.医院工作人员推迟了让罗森鲍姆做X光检查的时间。\n2. hold off a challenge: If you hold off a challenge in a race or competition, you do not allow someone to pass you. (在比赛中或竞争中) 抵挡住\n-- Between 1987 and 1990, Steffi Graf largely held off Navratilova's challenge for the crown.\n3. 等一等\n-- At least, hold off for a month or two or maybe even a few weeks.\n-- We could get a new computer now or hold off until prices are lower.\n-- I'd hold off on buying any of those until the target price is updated.\n-- ...web browsing, but I would hold off if you want something more reliable.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hold...to account",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "使承担责任: -- I find this is a great way to hold myself to account for taking action throughout the day.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have little to commend it have few good qualities",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "乏善可陈：-- The movie has little to commend it",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be hell-bent on ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "拼命的，固执的： He seems hell-bent on drinking himself to death.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hit shelves",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "上架",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have a thing for ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "对...情有独钟： Why do all men have a thing for manipulation? 为什么所有的男人都有控制欲？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hold out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "1. 伸出 (手或手里的东西): -- \"I'm Nancy Drew,\" she said, holding out her hand. “我是南希·德鲁”，她边说边伸出手来。\n2. hold out for: 拒绝妥协: -- I should have held out for a better deal. 我本应坚持要求更好的条件。\n3. hold ou on sb: If you say that someone is holding out on you, you think that they are refusing to give you information that you want. 隐瞒 (信息): -- He had always believed that kids could sense it when you held out on them.\n4. sb ~: 坚持抵抗\n5. sb hold out hope of sth: 寄予 (希望): -- He still holds out hope that they could be a family again. 他仍然希望他们能够再次成为一家人。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... have a genetic component",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "有...的成分：That said, curiosity does have a genetic component. 这就是说，好奇心确实有基因成分。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "His success has an element of luck.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "他的成功有运气的成分。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hit back at hostile",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "The main criticism from Harry and Meghan is that royal aides not only refused to hit back at hostile, inaccurate press coverage but were complicit in leaking negative",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hedging the bets",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "两面下注",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hold up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "For generations, the Chinese Communist Party has held on to power partly through an implicit bargain with its citizenry: Sacrifice your freedoms, and in exchange, we’ll guarantee ever-rising living standards. That deal has not held up for today’s youths.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hold on to power",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "持权",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have a go",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "试一试；批评；袭击；试图抓住在做坏事的人（而不是等警察处理）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "hitch a ride",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "搭便车：指乘坐经过的车辆。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "I",
+          "displayOrder": 8,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "insure against ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "上保险：-- We against all damage, accidental or otherwise. 我们的保险包括一切意外或其他损失。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "incite crime/racial hatred/violence",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "教唆犯罪；煽动种族仇恨╱暴力",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "indulge in orgies",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "沉溺于放荡",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "break the impasse / reach an impasse",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "to break/end the impasse 打破╱结束僵局\nNegotiations have reached an impasse . 谈判已陷入僵局。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "inoculate ... from + bad words",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "machines has moved beyond Asimov's tropes. Being highly capable and accomplished in AI doesn't inoculate you from naïveté about its perils.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "J, K, L",
+          "displayOrder": 9,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "latch on",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "1. take hold of or attach to 抓住，占有\n2. to begin to understand something: -- It took me ages to latch on to what she was talking about.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "jump on the bandwagon",
+              "pronunciation": "/ˈbændwæɡən/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "站在某人一边；赶浪头；一窝蜂做某事，跟随潮流",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lay (laid) the foundation for",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "为...打下基础",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "look to sb for ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "想得到某人的...: -- But when Gough looked to Haig for support, he was given the cold shoulder.但是当高夫想得到黑格的支持时，黑格对他很冷淡。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lay bare + sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "to make something known 揭发，暴露；公开\n1. How much to lay bare the human loneliness. 就道破了人间多少的寂寞。\n2. Long pitch black breaths, lay bare its apple trees. 细长黑色的呼吸，揭起它的苹果树。\n3. I can lay bare her troubles because I have not lost hope.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "let your nerve be",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "放松你的神经",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lead astray",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "vt. 把...引入歧途：Some day they will lead you astray. 总有一天，他们会把你引入歧途的。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "kick off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "1. [足球]中线开球； 2. [口]（使）开始：-- What time shall we kick off? 我们什么时候开始？-- Tom will kick off with a few comments. 汤姆讲话时要先发表几点意见。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lag (vi.) / lag behind + n.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "缓慢移动；发展缓慢；滞后；落后于\n-- The little boy lagged behind his parents. 那小男孩落在了父母的后面。\n-- We still lag far behind many of our competitors in using modern technology.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "let go (of n)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "放开；释放；发射\n-- 'Let go of me,' she said fiercely. “放开我。”她极为气愤地说道。\n-- Now that she had him in her clutches , she wasn't going to let go.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lend credence to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "使...可信：-- Historical evidence lends credence to his theory. 史学根据使他的理论更为可信。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "keep track of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "保持对...的：keep track of the progress",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "loom large in the pages of history",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "\"Her legacy will loom large in the pages of British history, and in the story of our world,\" U.S. President Joe Biden said in a statement.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lodge ... against sth/sb",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "lodge: ~ (sth) (with sb) (against sb/sth) to make a formal statement about sth to a public organization or authority （向公共机构或当局）正式提出（声明等）\n-- They lodged a compensation claim against the factory. 他们向工厂提出了赔偿要求。\n-- ~ a complaint",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lodge wth with sb / in sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "to leave money or sth valuable in a safe place 存放，寄存（钱或贵重物品）= deposit: Your will should be lodged with your lawyer. 你的遗嘱应该交律师保管",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lay odds on sb...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "I'll lay odds on him getting the job (= I'm sure he will get it) . 我敢说他能得到这份工作。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lodge a complaint",
+              "pronunciation": "/lɑːdʒ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "提出投诉：向有关部门或组织表达对某事物或服务的不满，要求解决问题或改进。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "let slip",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "无意中泄露：-- She tried not to let slip what she knew.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "let slip a golden opportunity",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "let it slide",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "任由某事发展。过往不究。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "live up to the hype",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "不负盛名：指某人或某物达到了人们期望的水平，符合大肆宣传的形象。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "keep abreast of...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "to make sure that you know all the most recent facts about a subject 了解最新情况；跟上（某事物的发展）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "litmus test",
+              "pronunciation": "/ˈlɪtməs test/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "= acid test, The outcome will be seen as a litmus test of government concern for conservation issues.这结果将被视为检验政府是否关注自然资源保护问题的试金石。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "trapped in limbo",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "被困在进退两难的境地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "M, N",
+          "displayOrder": 10,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "(A is) no substitute for (B)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "A不能代替B",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "knock off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. To knock off an amount from a price, time, or level means to reduce it by that amount. 减去 (一定数额)\n-- We have knocked 10% off admission prices. 我们已将入场票的价格降低了10%。\n2. When you knock off, you finish work at the end of the day or before a break. 歇工; 下班\n-- If I get this report finished I'll knock off early. 如果我完成这个报告就会早点儿下班。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "make one's toe curl",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "尴尬 / 难为情到脚趾都缩起来了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "negotiate a settlement",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "谈判解决",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be no/any more or less (important) than ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "In a family, no one is any more or less important than anyone else. 在一个家庭里面，没有任何一个人是比其他任何人更重要，或更不重要。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "misread the situation",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "I'm afraid I completely misread the situation. 恐怕我完全看错了形势。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "to exercise political/industrial/financial muscle",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "运用政治╱产业╱金融界影响力",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "nod in favor of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "同意做 ... : -- Not everyone agrees with this method, however, and some, such as the Associated Press Stylebook, nod in favor of adding only an apostrophe to make a proper noun possessive.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "narrow down",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "It's near the end of the year, so I reviewed my notes and narrowed it down to pick the 10 best movies (new releases) I've seen this year, and there are 13.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "O, Q",
+          "displayOrder": 11,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "one of great triviality",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "无足轻重的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "quell the disturbances",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "平息骚乱",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "quench your thirst",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "quench:\nvn.1 ~ your thirstto drink so that you no longer feel thirsty解（渴）；止（渴） = slake\nvn.2 ( formal ) to stop a fire from burning扑灭；熄灭",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "opt out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "选择退出：选择不参与某事物，通常与“of”连用。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "P",
+          "displayOrder": 12,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "push the envelope",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "to go beyond the usual or normal limits by doing something new, dangerous, etc 挑战极限；接近甚至超越安全限度；越过底线\n-- a director who has pushed the envelope in his recent films\n-- a new airplane design that pushes the envelope",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pull a stunt",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. to do something silly and dangerous: -- What did you want to pull a stupid stunt like that for?\n2. 表演特技。做惊人之举。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pivot one's career on ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "职业专注于...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "part with sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "to give something to someone else, especially when you do not want to -- Buyers might require further assurances before parting with their cash. 买主在付款前也许需要更多的保证。\n-- I was going to give away her old baby clothes, but I couldn't bring myself to part with them. 我打算把她婴儿时穿的旧衣服送人，但我又舍不得。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pull off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "1. If a vehicle pulls off, it starts moving\n-- The car pulled off and sped up the road.\n2. If a vehicle or driver pulls off the road, the vehicle stops by the side of the road. 停靠路边\n-- I pulled off the road at a scenic overlook. 在一个可以眺望优美风景的地方，我将车停在了路旁。 3. to carry out despite difficulties / If you pull off something very difficult, you succeed in achieving it. 做成 (某件难事)\n-- The National League for Democracy pulled off a landslide victory. 国家民主联盟取得了压倒性优势的胜利\n4. 脱下",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pull the plug on",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "1. 突然中断，停止 2. 揭露秘密活动\n-- The banks have the power to pull the plug on the project.\n-- To help kids build stronger connections with others, you can pull the plug on TVs and computers.\n-- I think I'm ready to pull the plug on love.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pull through",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "If someone with a serious illness or someone in a very difficult situation pulls through, they recover. 恢复健康; 渡过难关\n-- Everyone was very concerned whether he would pull through or not.\n-- It is only our determination to fight that has pulled us through.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pack it in",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "停止；放弃；宣告结束 -- I decided to pack it in that job. 我决定辞掉那份工作。\n-- \"Why don't you pack it in?\" she asked. “为什么你不就此了结？”她问到。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "play its part",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "发挥作用：-- A hatemongering and warmongering mainstream media played its part.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "play hardball",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "采取强硬态度：-- I want us to play hardball on this issue.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pop into one's head",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "浮入脑海：A familiar face just popped into my head.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dispatch the younger player",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "He dispatched the younger player in straight sets. 他连续几盘迅速击败了那位比他年轻的选手。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "paint a false picture",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "描绘错误的图景",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... have an enormous pull for sb.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "吸引力很大",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "。。。 pocketed a lion's share of budget money",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "把很多预算据为己有",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pass the buck",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "推卸责任",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "perk (...) up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "使）振奋，活跃；（使）上扬，增加；（使）更有趣，更诱人",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "possess the dry air ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "拥有...的气质：-- Bell possesses the dry air of a wealthy older man who long ago ceased to care what anyone thinks about him, which is probably why he was willing to make his life into a radical experiment.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pursue happiness",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "Everyone should have the right to pursue happiness in their own life as long as they act ethically and legally.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pay duty on ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "纳税",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "push boundaries to the limits",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "Documentary series going beyond the theatre doors of Queen Elizabeth Hospital Birmingham, where surgeons push medical boundaries to the limits.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "pay homage to ...",
+              "pronunciation": "/ˈhɒmɪdʒ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "n.敬意，尊敬；<正式>宣誓效忠",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "part with",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "v. 放弃，交出：指放弃对某物的拥有或控制。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "R",
+          "displayOrder": 13,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "range in a spectrum from...to...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "包括...和..；从...到...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "rule out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. exclude, eliminate: -- Too much restrictions rule out many of the suits that women can get.\n2. to make impossible, prevent: -- heavy rain ruled out the picnic",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "renew",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "vn. to make sth valid for a further period of time 使继续有效；延长...的期限\n+ license (许可)\n+ lease (（房屋、设备或土地的）租约，租契)\n+ subscription (订阅)\n+ contract (合同)",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "roll out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "1. If a company rolls out a new product or service, or if the product or service rolls out, it is made available to the public. 推出 (新产品或服务)\n-- On Thursday Microsoft rolls out its new operating system.\n2. to get out of bed\n3. 开展（新的政治运动）\n4. 碾平，压平，擀平\n5. 把……展开（或摊开）；",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "reach the point of no return",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "到达一个无法回头的地步",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "reach a level of train passenger braggadocio",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "The twitter opinion leaders' analysis of current events in China is casually frivolous that it almost reaches a level of train passenger braggadocio.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "row back",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "改变（先前的决定、想法）；改口： -- China rows back 'zero-COVID' policy.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "ravel out = unravel",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "1. to open sth which has become twisted or which contains knots 拆开（缠结的东西）；解开...的结\n2. 理出个头绪",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "reduce the output of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "reduce the output of harmful greenhouse gases",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "S",
+          "displayOrder": 14,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "stick at ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "carry on / keep going / continue",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "scold sb for sth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "批评，责骂",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "spin off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "1. to establish or produce a spin-off 生产副产品\n2. 使脱离 (原组织) 而独立：-- He rescued the company and later spun off its textile division into a separate entity.\n3. 甩掉：-- In order to spin off the Moon, Earth would have had to rotate so fast that a day would have lasted less than three hours.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "shine ... spotlight on...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "关注：-- shines regulatory spotlight on livestream retail boom",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "see ... as ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "I see my role as being a catalyst for change. 我认为我的角色是促成变革。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "churn sb. up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "~ (sb) (up) to feel or to make sb feel upset or emotionally confused （使）感到不安，心烦意乱",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "send sb into the depths of despair",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "使...陷入极度的绝望之中",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... driven to despair",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "Eventually, driven to despair , he threw himself under a train.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... surprise on the upside",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "意外向好：-- Survey data out of Europe surprised on the upside. 欧洲经济数据意外向好。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sniff out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "1. If you sniff out something, you discover it after some searching. 找出\n-- ...journalists who are trained to sniff out scandal. ... 专门训练来找出丑闻的记者。\n2. 嗅出 (爆炸物或毒品)\n-- ...a police dog trained to sniff out explosives. ...一条受过训练能嗅出爆炸物的警犬。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "My lips are sealed.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "守口如瓶",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "see years of work flooded",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "看到多年来的努力付诸东流",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "snap up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "If you snap something up, you buy it quickly because it is cheap or is just what you want. 争购 :\n-- ... a millionaire ready to snap them up at the premium price of $200 a gallon. 一个百万富翁准备以每加仑$200的高价抢购它们。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "see a bigger audience",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "预测会有更多的观众：-- It’s not news that handhelds are back in a big way, but reviving Sony’s beloved, beleaguered Vita would probably see a bigger audience in 2022.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "show you the body of work that cannot be questioned",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "When you sign someone like who has shown you the body of work that cannot be questioned, until he proves himself during the league ...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "see life clearly without judgement or filters",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "不加评判，不加过滤地看清楚生活",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "stick around",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "More and more people are accessing web pages primarily on their mobile devices, and if your layout is hard to read on such a device, they won’t stick around.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sneak on sb",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "打小报告：-- Did you sneak on me to the teacher? 你有没有向老师告我的状？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "set off my bs detector",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "bullshit detector:\nA hypothetical, mental device that represents a person's ability to detect deception, dishonesty, corruption, fraud, insincerity, hypocrisy and falsity.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be sparing with one's praise",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "He was always sparing with his praise. 他从不轻易说赞扬话。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "spruce one up",
+              "pronunciation": "/spruːs/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "to make sb/sth/yourself clean and neat 打扮；把...收拾整洁\n-- She spruced up for the interview. 她为参加面试打扮了一番。\n-- The city is sprucing up its museums and galleries. 这座城市正在美化自己的博物馆和美术馆。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "stay on top of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "掌握；知道",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sign off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "船员解雇签署；声明离开",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "scatter our attention",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "diffuse our concentration",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "strangle ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "扼杀：strangle the freedom of creativity / strangled in infancy",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "stand a chance",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "有机会：-- In a Hollywood film, the odds are heavily in favor of the hard-bitten team of unorthodox AI professionals who just might be crazy enough to stand a chance.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "skid into",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "This may be because the aging baby-boomer population is skidding into its sixties, when forgetting the location of your keys becomes a daily embarrassment.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... stripped bare",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "Immediately following the reopening, the virus was unleashed, hospitals and crematoriums were overwhelmed and pharmacies stripped bare.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "suit oneself",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "1. 找自己的意愿：-- i choose my assignments to suit myself\n2.自便：-- suit yourself! 随你的便！",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "scale the heights of...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "He has scaled the heights of his profession. 他登上了他事业的顶峰。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sink into atrophy",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "atrophy: /ˈætrəfi/ The cultural life of the country will sink into atrophy unless more writers and artists emerge. 如果没有更多的作家和艺术家出现，这个国家的文化生活将衰退。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "set a precedent",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 32,
+              "definitions": [
+                {
+                  "text": "Prince argues that revoking services based on reprehensible content sets a dangerous precedent.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "stoop low",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 33,
+              "definitions": [
+                {
+                  "text": "1. ~ (down)to bend your body forwards and downwards俯身；弯腰\n2. to stand or walk with your head and shoulders bent forwards（站立或行走时）弓背",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "have a saying",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 34,
+              "definitions": [
+                {
+                  "text": "you have very little say in their life afterward 在他们之后的人生中，你几乎没有什么影响力了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "strike a blow to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 35,
+              "definitions": [
+                {
+                  "text": "to damage or hurt something or someone in a way that is significant or important: -- The new law will strike a blow to the country's economy.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "T",
+          "displayOrder": 15,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "tap into",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "1. to manage to use something in a way that brings good results: -- If only we could tap into all that energy and creativity.\n2. to gain access to; become friendly with: -- The candidate tapped into some wealthy supporters.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "stop short of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. If you stop short of doing or saying something, you decide not to do or say it although you almost do(差一点（就干）...)\n-- I stopped short of telling him the brutal truth.\n-- I may withhold the truth at times, but I stop short of actually telling lies. 我有时候可能不说真话，但事实际上我不至于到说谎地步。\n2. 中途停下，突然停止\n-- Oracle appears to be betting that the commission will stop short of blocking the merger. 甲骨文公司看起来要压注欧盟只是短期内阻止合并计划。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "take the helm (of)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "To start to officially control an organization or company: -- After years of training, the executive was ready to take the helm of the company.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "throw up",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "1. to vomit: -- I spent all night throwing up.\n2. to produce new problems or ideas: -- The meeting threw up some interesting ideas.\n3. if you throw up your job, you choose to leave it or stop doing it: -- He's thrown up his job and gone off to Africa to work for a children's charity.\n4. to build hurriedly\n5. to make distinct especially by contrast : cause to stand out",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "take one for the team",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "为了集体利益，牺牲个人利益",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... of the way through ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "We are nearly three-quarters of the way through this tumultuous century. 我们在波澜的世纪中经历了将近四分之三的旅程。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "traces its lineage back to ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "血统可以追溯到 ...: -- The 40th sovereign /ˈsɑːvrɪn/ in a line that traces its lineage /ˈlɪniɪdʒ/ back to 1066, Elizabeth came to the throne in 1952, Britain's first post-imperial monarch.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "fly into a temper / be in a temper",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "勃然大怒 / 发脾气",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "tip sb off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "（向某人）泄露消息；告诫；密报（尤指非法的事情）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "take a line's share",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "择肥而噬",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "triumph and flop",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "成功 / 失败: Human chess players learn by spending years studying the world's best opening moves and endgames; they play thousands of games, slowly amassing a capacious, in-brain library of which strategies triumphed and which flopped.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "tempt fate",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "冒险挑战命运：做一些非常冒险或危险的事情。-- I don't want to tempt fate by driving in this storm.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "throw a tantrum",
+              "pronunciation": "/ˈtæntrəm/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "（尤指儿童）耍脾气，使性子",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "U, V, W",
+          "displayOrder": 16,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "weigh on",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "to make (someone or something) sad, depressed, or worried\n-- The bad news is really weighing on me.\n-- I can tell that something is weighing on his mind.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "weigh in",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. to have oneself or one's possessions (such as baggage) weighed(especially : to have oneself weighed in connection with an athletic contest)\n2. to bring one's weight or influence to bear especially as a participant, contributor, or mediator\n-- weighed in with an opinion",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sb looks the worse for wear / is none the worse for wear 疲惫不堪。损耗 -- 1. My car is none the worse for wear. 我的车子一点也没有损耗。 -- 2. She looks the worse for wear after half a year as monitor. 她担任班长不过半年，就显得疲惫不堪了。 -- 3. Her favorite tablecloth was beginning to look the worse for wear. 她最喜欢的桌布看起来已始破旧了。",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "win the day",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "成功",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "work basically fine",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "适用于：-- This works basically fine in most cases",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "wave aside",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "置之不理：-- The director tried to wave aside these issues as trivial details that could be settled later. 那位主任对这些问题置之不理，视它们为可以后解决的无关紧要的细节。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be dismissed out of hand = without thinking about it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "The suggestion should not be dismissed out of hand (= without thinking about it) . 这建议不应当直接就被摒弃。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "undergo regular training",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "定期接受培训",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "weave ... into the fabric of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "“The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.”",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "X, Y, Z",
+          "displayOrder": 17,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

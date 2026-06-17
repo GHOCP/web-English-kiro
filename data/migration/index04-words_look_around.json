@@ -1,0 +1,711 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.844Z",
+  "categories": [
+    {
+      "name": "Look-around",
+      "displayOrder": 0,
+      "viewType": "list",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "英语写作中 \"-\"、\"–\" 和 \"—\" 的区别",
+          "displayOrder": 0,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "hyphen \"-\"",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "最短的符号，它用来把两个词结合成一个词，比如merry-go-round（旋转木马）、off-shore（离岸），mac上直接按数字0右边的键，也就是hyphen键就可以打出来。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "en dash \"–\"",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "表示 “之间” 的关系，比如parent–child interaction（父母与孩子间的互动）、 Monday–Friday（周一到周五），mac上同时按option+hyphen键打出来。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "em dash \"—\"",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "最长的符号，它用途就多了，可以用来提供详细信息、表示转折、停顿等等，mac上同时按option+shift+hyphen键打出来。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "英语写作中 \"-\"、\"–\" 和 \"—\" 的区别",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "例子：teacher–parent conference (en dash) 指“教师和家长共同出席的会议”，而 teacher-parent conference (hyphen) 指“职业为教师的家长出席的会议”；infant–parent (en dash) 指“婴儿与父母之间”，而 infant-parent (hyphen) 指“还是婴儿的父母”。",
+              "displayOrder": 3,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "大学学生",
+          "displayOrder": 1,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "大一",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "freshman",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "大二",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "sophomore /ˈsɑːfəmɔːr/: Their daughter is a sophomore at Yale.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "大三",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "junior",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "大四",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "senior",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "undergraduate",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "1. Undergraduate programs are more general in nature. They include general education courses in a wide variety of subjects that are not part of graduate education. Graduate programs are highly specialized and much more advanced than undergraduate programs.\n2. Undergraduate classes are usually much larger and less individualized. In graduate programs, students work closely with professors, often on a one-to-one basis.\n3. While some undergraduate programs require a senior project or a similar activity, graduate studies are much more research oriented. Master's and doctoral programs include some class work, but research preparation and defense is a primary focus in most programs. Undergraduate programs usually restrict examinations to those related to individual classes; graduate programs also include comprehensive examinations that are very important.\n4. It is comparatively easy to change undergraduate major subjects and to move to a different school during a program. It is much more difficult to do so in graduate programs, as they are narrowly specialized. Graduate programs in psychology, for example, may be very different from one university to another.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "graduate",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "n. ~ (in sth) a person who has a university degree 大学毕业生；学士学位获得者\na graduate in history 历史学学士\na graduate of Yale/a Yale graduate 耶鲁大学毕业生\na graduate student/course 研究生；研究生课程",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "postgraduate",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "a person who already holds a first degree and who is doing advanced study or research; a graduate student 研究生",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "大学学生",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**大一 ~ 大四 (高中或大学的)**\n\n**undergraduate（本科生） & graduate（毕业生；研究生）**",
+              "displayOrder": 7,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "古英语",
+          "displayOrder": 2,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "thou",
+              "pronunciation": "/ðaʊ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "you 主格",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "thy",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "thee",
+              "pronunciation": "/ðiː/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "you 宾格",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "thine",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "hath",
+              "pronunciation": "/hæθ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "has",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "doth",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "o'",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "of",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "e'en",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "o'er",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "over",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "tho'",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "wi'",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "with",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "hither",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "oft",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "often",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "hast",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "seeth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "v.<古> 看见，看到；注意到，留意到（see 的第三人称单数一般现在时指示形式）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "多音节单词的偷懒发音法",
+          "displayOrder": 3,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "英 v. /rɪ‘kɔ:d/ n. /’rekɔ:d/",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "美 v. /rɪ‘kɔrd/ n. /’rɛkɚd/",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "多音节单词的偷懒发音法",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "这里介绍一下多音节单词的偷懒发音法，相信你一定会相见恨晚的。\n有这么个单词：record，它做为动词和名词的时候，重音是不同的：\n\n标记为/rɪ‘kɔ:d/的发音，包括一个非重读音节/rɪ/和一个重读音节/kɔ:d/，你大概会严格按照标记的发音去读，重音音节的元音发音/ɔ:/，你会尽力把它读准，而非重读音节的元音发音/ɪ/，你也会试图把它读准。\n\n这里说的偷懒发音法就是，我们只需要把重读音节/kɔ:d/读准就行了，而非重读音节/rɪ/，你随便在r音后面带一点元音出来就行，这个音节需要特别放松，哪怕最后读成了/rə/（央元音），也不会有什么问题。\n\n换一个重音也是类似的，后面的/kɔ:d/，在非重读发音的情况下，完全可以读成/kəd/，哪怕看起来跟词典上的标注不一样，也不会有任何问题。\n\n这个偷懒发音法是普适的，对于任何单词来说，你只需要读准它的重读音节，非重读音节你完全可以用最容易的发音方式糊弄过去，这种发音方式不仅不会有任何副作用，还会让你的发音更加顺利和流畅。\n\n不过最后要补充一点，比发音更重要的是单词的节奏，你如果重音不重，轻音不轻，那不论你发得多准都没有意义了。\n\n现在你可以找几个多音节单词试试，就抓住重读音节，其他的全部额额额就行，比如下面几个单词： description /dɪˈskrɪpʃn/ university /ˌjuːnɪˈvɜːsəti/ grammatical /ɡrəˈmætɪkl/\n\n补充：次重读音节比如university的第一个音节/ˌjuː/，严格一点可以按音标读，其实你也会发现，哪怕这个次重音也用额额额糊弄也没什么大问题。当然，有些特别特别长的单词，可能存在两个以上需要认真读的音节（双重音或者多重音），那就不能糊弄了。",
+              "displayOrder": 2,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "uptown, midtown, downtown",
+          "displayOrder": 4,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "uptown",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "in or to the parts of a town or city that are away from the centre, where people live 离开市中心；在（或向）市郊；上城区\n-- uptown girl",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "downtown",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "in or towards the centre of a city, especially its main business area 在市中心，往市中心（尤指商业中心区）\n-- to go/work downtown 到商业中心区去；在商业中心区工作",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "midtown",
+              "pronunciation": "/ˈmɪdtaʊn/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "the part of a city that is between the central business area and the outer parts 市中心区\n-- a house in midtown 市中心区的房子",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "idioms of \"kind\"",
+          "displayOrder": 5,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "in kind",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "( of a payment 支付 ) consisting of goods or services, not money 以实物支付；以货代款；以服务偿付",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "( formal ) with the same thing 以同样的方法（或手段）",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [
+                {
+                  "text": "She insulted him and he responded in kind. 她侮辱了他，他也以其人之道还治其人之身。",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "a kind of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "( informal ) used to show that sth you are saying is not exact （表示不确切）某种，几分，隐约",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "I had a kind of feeling this might happen. 我当时就隐约地感到会出这样的事。",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "kind of = kinda",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "( informal ) slightly; in some ways 稍微；有几分；有点儿",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "That made me feel kind of stupid. 那使我感到有点儿愚蠢。",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "nothing of the kind/sort",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "used to emphasize that the situation is very different from what has been said （强调情况与所说的大不相同）决不是那么回事，一点也不，才不哩；没有的事",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "'I was terrible!' 'You were nothing of the kind.' “我那时糟透了！”“你才不哩。”",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "of a kind",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "( disapproving ) not as good as it could be 不怎么样，徒有其名（指不如本应有的那么好）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "very similar 同一类的；类似的",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [
+                {
+                  "text": "You're making progress of a kind. 你也算是有点进步的。",
+                  "displayOrder": 0
+                },
+                {
+                  "text": "They're two of a kind—both workaholics! 他们俩一个样—都是工作狂！",
+                  "displayOrder": 1
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "one of a kind",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "= unique",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "My father was one of a kind—I'll never be like him. 我的父亲很独特—我决不会像他的。",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "something of the kind",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "something like what has been said （与所言）类似的事物",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "'He's resigning.' 'I'd suspected something of the kind.' “他要辞职了。”“我料到会有这样的事。”",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "kind of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [],
+              "examples": [
+                {
+                  "text": "\"Blockade won’t work. It’s something resembling a way that could work, but it won’t. It will spark a Cuban middle crisis kind of standoff, and that’s it.\"",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "比赛相关",
+          "displayOrder": 6,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "play-in",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "先行赛",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [
+                {
+                  "text": "n-th seed",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            },
+            {
+              "word": "double-elimination",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [],
+              "examples": [
+                {
+                  "text": "best-of-3 match",
+                  "displayOrder": 0
+                }
+              ],
+              "images": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

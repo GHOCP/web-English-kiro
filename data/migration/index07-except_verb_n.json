@@ -1,0 +1,2545 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.854Z",
+  "categories": [
+    {
+      "name": "Phrases — Except Verb / N.",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "At",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "at odds with...(over)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "1. 与...争执，意见不一致；与...不和；\n2. 与...不一致，差异\n-- He's always at odds with his father over politics.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at sb's behest",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "在某人的要求下",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the expanse of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "以 ... 为代价",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at length",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "1. 最后，终于\n2. 详细地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the request of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "在 ... 的请求下",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the junction with ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "在 ... 的交汇处",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at a premium",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "1. 溢价，高于票价面值：-- Shares are selling at a premium. 这种股票以高于面值的价格出售。\n2. 非常珍贵：-- Space is at a premium in a one-bedroomed apartment. 单居室公寓的空间是很有限的。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at its most basic",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "究其本质，最基本",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the crack of dawn",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "very early in the morning 黎明；破晓；清晨",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at your service",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "愿意为你效劳",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the eye specialist",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "ou have been at the eye specialist to let your eyes be checked. The strength of your eyes did not change at all in the last two years. 你到眼科专家那里去检查眼睛了。在过去的两年里，你眼睛的力量一点也没有改变。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the thought of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "一想到...: Her spirits plummeted at the thought of meeting him again. 一想到又要见到他，她的心情便直往下沉。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the disposal of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "任某人支配、任某人自由使用",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at my own discretion",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "由我自己决定。discretion: /dɪˈskreʃn/ U.the freedom or power to decide what should be done in a particular situation自行决定的自由；自行决定权",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at your disposal",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "随时可用，使用者可以任意使用的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "In",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "in a bid to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "为了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in due course",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "在适当的时候；及时地；顺次；如期\n1. -- Your request will be dealt with in due course. 你的要求将在适当的时候予以处理。\n2. -- In due course the baby was born. 婴儿如期降生了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in defect of",
+              "pronunciation": "/ˈdiːfekt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "缺乏",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in turn",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "1. 依次 -- There were cheers for each of the women as they spoke in turn.\n2. 轮流 -- Feeding each other in turn. 相互轮流喂食。\n3. 反过来 -- Commercial efficiency, in turn, had put temptations in the way of buyers. 商业效率反过来又给买家带来了诱惑。\n4. 转而 -- Using this biofuel, corn ethanol, in cars will increase the demand for corn which, in turn, will lead to more farmlands created to supply the crops.\n5. 进而 -- Increased production will, in turn, lead to increased profits. 增加生产会继而增加利润。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in a vacuum",
+              "pronunciation": "/ˈvækjuːm/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "在真空中；在隔绝的环境中",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in installments",
+              "pronunciation": "/ɪnˈstɔːlmənt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "分期地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in effort to",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "努力去做...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in isolation",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "1. 孤立地\n2. 绝缘\n2. 单独地：-- Each chapter is self-contained and can be studied in isolation. 每一章均自成一篇，可单独学习",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in despair",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "绝望地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in defiance of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "Nuclear testing was resumed in defiance of an international ban. 尽管国际上明令禁止，核试验又在进行了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in dismay",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "诧异；惊愕；灰心；丧气：-- He looked at her in dismay . 他诧异地看着她。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in default on ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "违约（尤指未偿付债务）：-- The company is in default on the loan. 这家公司拖欠借款。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "just in time for me to ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "正好让我去做某事",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in thrall to ...",
+              "pronunciation": "/ɪn θrɔːl tu/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "被...束缚着",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in limbo",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "1. in a forgotten or ignored place, state, or situation: -- orphaned children left in limbo in foster homes and institutions\n2. in an uncertain or undecided state or condition: -- After graduating from college, he was in limbo for a while, trying to decide what to do next.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in hindsight",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "hindsight: /ˈhaɪndsaɪt/ U. 事后聪明；事后的领悟\n-- What looks obvious in hindsight was not at all obvious at the time.\n--",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "foresight",
+              "pronunciation": "/ˈfɔːsaɪt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "u. 深谋远虑；先见之明",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in one's interest",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "符合...的利益",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in a pinch",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "必要时；在紧要关头",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the same vein",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "同样地；同样的道理",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in one's forward field of view",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "某人前方的视野",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the affirmative / negative",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "-- She answered in the affirmative (= said ‘yes’) . 她作出了肯定的答复。\n-- She answered in the negative (= said ‘no’) . 她作了否定的回答。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the window",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "在窗户上。在橱窗里。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in five decreasing steps of dB",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in sight",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "肉眼可见的：a war with an end in sight",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in a high position",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "work in a high position in big companies",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in earnest",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "认真的；诚挚地；正经的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in perpetuity",
+              "pronunciation": "/ˌpɜːpəˈtjuːəti/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "U. ( formal ) for all time in the future永远；永久",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the making",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "正在形成中：指正在进行中的事物或过程。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in a 500-year first",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "500年来第一次",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in utero",
+              "pronunciation": "/ˌɪn ˈjuːtərəʊ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "(technical 术语)inside a woman's uterus , before a baby is born在子宫内（的）；尚未出生时（的）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the cards",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "在计划中；在安排中",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "On",
+          "displayOrder": 2,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "on the margins of",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "在...边缘",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "despite + n.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "近况",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on par with",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "与...同等水平",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on some occasions",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "在某些情况下",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on loan",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "借用、已借出的状态",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the bend",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "在拐弯处",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on average",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "平均",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on crutches",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "After the accident I spent six months on crutches. 事故后我用了六个月的腋杖。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on patrol",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "在巡逻；巡逻中",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on beat",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "1. 在巡逻中 2. 合拍子",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the go",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "1. 忙个不停，四处奔走\n-- Everyone is always on the go, while I am used to the peace and quiet of our village.\n-- So, do you have a big project on the go?\n2. <非正式>在进行其他活动时很快",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the cusp of calamity over ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "即将到来的 ... 的灾难：-- But others have downplayed down the idea that China and the United States are on the cusp of calamity over Taiwan.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the list",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "在名单上",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on top of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "1. 在...之上：-- The park lies on top of a coalfield. 这个公园位在一个煤田上。\n2. 另外：-- On top of everything else, my car's been stolen. 我所有的东西都被盗，连汽车也给偷走了。\n3. 熟练掌握，处理：How will I ever get on top of all this work? 我究竟怎样才处理得了这么多的工作？\n4. 紧接着\n5. 让 ... 吃不消 / 沮丧：-- All this extra work is getting on top of him. 这么多的额外工作快使他吃不消了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on various occasions",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "在各种场合",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on a 6-game winning streak",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "6连胜中",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on such a short notice",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "这么短的时间",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the house",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "免费提供：指某物免费提供给顾客或参与者。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the rails",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "正常进行；在正常轨道上；顺利",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on the fly",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "在飞行中；忙忙碌碌",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "To",
+          "displayOrder": 3,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "To one's dismay",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "诧异；惊愕；灰心；丧气：-- To her dismay , her name was not on the list. 使她难过的是，名单上没有她的名字。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "As",
+          "displayOrder": 4,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "as per",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "= in accordance with 按照，依据，如同\nas per usual 照常，按惯例，一如既往 = as usual",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "as follow",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "adv. 如下所列",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "as yet",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "adv. 至今仍\n1. Universal has agreed to pay $5 million for Grisham's next, as yet unwritten, novel.\n2. As yet, they have no solid evidence. 他们至今没有任何可靠的证据。\n3. an as yet unpublished report 一篇尚未发表的报告\n4. As yet little was known of the causes of the disease. 当时人们对这种疾病的起因几乎一无所知。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Under",
+          "displayOrder": 5,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "under the pretext of",
+              "pronunciation": "/ˈpriːtekst/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "以...为借口\n-- He didn't attend that meeting under the pretext of sickness.他以生病为借口，没参加那个会议。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "under one' s breath",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "低声说话；压着嗓子",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "under wraps",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "不公开的；秘密的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "under assault",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "收到伤害",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "under the weather",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "人不太舒服；身体不适",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "With / Without",
+          "displayOrder": 6,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "without peer",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "无可匹敌",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "without fail",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "= always: -- He emails every week without fail. 他每周必定发电子邮件。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "with great sensitivity and delicacy",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "慎重而周到地：-- She handled the situation with great sensitivity and delicacy. 她慎重而周到地处理了这个情况。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "from afar",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "从远处",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "About time",
+          "displayOrder": 7,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "... behind the schedule",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "比计划晚了...：15 minutes behind the schedule",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "for good",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "永久地；一劳永逸地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "year to date",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "今年迄今为止",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "around the corner",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "在拐角处，即将到来",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "rarely if ever",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "几乎从不",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(for the first time) in forever",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "（很长时间/有史以来）第一次\n1. -- For the first time in forever! 这是我生命里第一次！\n2. Cause for the first time in forever, My dream into reality. 有生以来第一次，我的梦想变成了现实。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "of the day",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "当时的；当代的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "before it was too late",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "在为时已晚之前",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "the thousandth day that ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "...发生的第一千天：-- Today is the thousandth day that the magazine is closed.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "there's still a long way to go before...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "There is still a long way to go before the appointed time.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "for most of the past decade",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "在过去10年里大部分时间",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "sooner than ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "早于：-- She will be here sooner than you expect. 她很快就到，比你预料的要早。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "during the week commencing 15 February",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "I will be on leave during the week commencing 15 February. 我将从2月15日开始一周的休假。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at some point in the past",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "在过去的某个时间点",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "three days from now",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "三天后",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "here and now",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "此时此地,此时此刻,当下,立刻",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the last two years",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "在过去的两年里",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the 51st minute",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "在第51分钟",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the tail end of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "in the tail end of his career 在他职业生涯的末期",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the final years of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "in the final years of his career 在他职业生涯的末期",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "year on year",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "同比：用于比较同一时间段内的两个年份或期间的数据或变化情况。-- The company's profits have increased year on year. 该公司的利润同比增长。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the twilight of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "in the twilight of his career 在他职业生涯的末期",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "back in the day",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "早期。过去。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in the short run",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "从短期看，在不久的将来",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "during the years that intervened",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "intervene: ( formal ) to exist between two events or places 介于...之间；-- I saw nothing of her during the years that intervened. 这期间的几年中我根本没有见过她。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "After a lapse of six months ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "After a lapse of six months we met up again.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "the remaining years of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "剩下的年份里",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "minutes, hours, days, or years later",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "... 多久之后",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in modern times",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "在现代",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "starting in ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "... 从 ... 开始",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "by then",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "The feat was so unusual it was over three decades before the record was broken, in 1991. But by then computers had emerged, and in the years since, the record has been broken twenty times",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "for the time being",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "暂时",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "on this day 4 years ago",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 32,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "progressively over time",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 33,
+              "definitions": [
+                {
+                  "text": "Each spectrogram shows how the frequency components of the signal change progressively over time",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the end of time",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 34,
+              "definitions": [
+                {
+                  "text": "\"haunt me until my bone turns into dust at the end of time\"",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be farther in time from ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 35,
+              "definitions": [
+                {
+                  "text": "距离...还很远：-- In 2009 we are farther in time from the end of the Second World War than they were from the Civil War; families still felt the loss of loved ones from that awful national trauma.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "five years out",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 36,
+              "definitions": [
+                {
+                  "text": "五年后：-- Try to look five years out into the future and envision what success would look like for both you and your franchisor.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "with each passing day",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 37,
+              "definitions": [
+                {
+                  "text": "一天一天地：-- It fills the feeling of loneliness that increases little by little with each passing day.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "for as long as possible",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 38,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "real-time / instant / immediate /",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 39,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "for consequential lengths of time",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 40,
+              "definitions": [
+                {
+                  "text": "(consequential: happening as a result or an effect of sth 随之而来的；相应发生的；作为结果的)\n对于相应的时间长度",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at opportune moment",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 41,
+              "definitions": [
+                {
+                  "text": "在适当的时候",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Others",
+          "displayOrder": 8,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "*",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "against all odds",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "1. 尽管有很大困难；2.战胜困难\n-- He will succeed against all odds.\n-- Against all odds, they didn't give up. 尽管形势不利，他们也没有放弃。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "all but",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "= almost\n-- It was all but impossible to read his writing. 他的笔迹几乎没法辨认。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "up against a head wind",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "逆风；逆势而为",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "no holds barred",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "adv. 毫不迟疑地把自己的想法说出来；adj. 不受清规戒律约束的\n1. That TV debate between those two guys running for senator was sure a no holds barred affair. 这场为两个参议员举行的电视辩论会，真是一场不留情面的会议。\n2. I want you to get that contract. Do anything-no holds barred. 我要你搞到那份合同，要不惜一切代价去搞到手。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "not a word",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "什么也别（没）说\n1. Not a word against my Tom, now that he's gone! 既然我的汤姆已经走了，就不要再提他的坏话了！\n2. But the leper answered him not a word. 然而麻风病人也一句话都没有回答他。\n3. Dickon's round eyes were full of eager curiousness but he said not a word. 狄肯的圆眼睛里充满了热切的好奇，但他一句话也没说。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "by the standards of ...",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "以...的标准来衡量\n-- That said, there is a way in which grade forgiveness satisfies colleges' own needs as well. 也就是说，分数谅解也可以满足大学自身的需求。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "out of the question",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "不可能，根本谈不上",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "out of question",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "by courtesy of the author",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "经用者同意",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "case-by-case",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "具体分析",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "with few, if any, ...problems",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "几乎没有任何问题\n-- Dongtan is a new build and therefore comes with few, if any, existing environmental problems. 东塘作为一个全新的建造物，自然避免了现有的环境问题。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "of many years' standing",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "陈年：-- a friendship of many years' standing",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "out of thin air",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "无中生有：-- fabricated lie out of thin air",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "none other than",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [
+                    {
+                      "text": "不是别的而正是...：-- Her first customer was none other than Mrs Blair. 她的第一位顾客竟然是布莱尔夫人。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "nothing short of",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [
+                    {
+                      "text": "简直就是；无异于...；简直不比...差：-- The transformation has been nothing short of a miracle. 这种变化堪称奇迹。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "all in all",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [
+                    {
+                      "text": "总地来说",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "... one bit",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 16,
+                  "definitions": [
+                    {
+                      "text": "I was not surprised one bit. 我一点也不惊讶",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Through thick and thin, ...",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 17,
+                  "definitions": [
+                    {
+                      "text": "不畏艰险；在任何情况下",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "the other way around",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 18,
+                  "definitions": [
+                    {
+                      "text": "恰恰相反\n-- You'd think you were the one who did me the favour, and not the other way around. 你会认为是你帮助了我，而不是我帮助了你。\n-- The stocks are not in sync. It could be that they have a racket in the physical store but not online. And also the other way around.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "as far in advance as possible",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 19,
+                  "definitions": [
+                    {
+                      "text": "越早越好：-- In the electricity supply industry, it is important to determine future demand for power as far in advance as possible.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "off the top of my head",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 20,
+                  "definitions": [
+                    {
+                      "text": "adv. 不假思地。即兴地，马上地。\n-- It was the best I could think of off the top of my head. 这是我能马上想出的最好办法。\n-- I am suggesting this just off the top of my head. 我只是随便建议一下而已。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "by right",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 21,
+                  "definitions": [
+                    {
+                      "text": "根据法律或道义上的正确，表示某事是理所当然的",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "through rose-colored lenses",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 22,
+                  "definitions": [
+                    {
+                      "text": "We have all known people who are happy and see the world through rose-colored lenses, where they rate nearly everything positively.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "nowhere near",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 23,
+                  "definitions": [
+                    {
+                      "text": "远不及：\n-- He's nowhere near recovered yet from his experiences.\n-- The biggest problem is that readers online bring in nowhere near the revenues that print readers do.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "tit for tat",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 24,
+                  "definitions": [
+                    {
+                      "text": "以牙还牙；针锋相对；一报还一报",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "once for all / get sth. done once and for ever",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 25,
+                  "definitions": [
+                    {
+                      "text": "一劳永逸",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "with the connivance of ...",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 26,
+                  "definitions": [
+                    {
+                      "text": "在 ... 的默许下： The crime was committed with the connivance of a police officer.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "out of the practice of doing sth",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 27,
+                  "definitions": [
+                    {
+                      "text": "出于做某事的实践",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "for better and for worse",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 28,
+                  "definitions": [
+                    {
+                      "text": "无论好坏: And while test scores are a crude way to measure actual education, they're the current yardstick, for better and for worse.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "beyond the remit",
+                  "pronunciation": "/rɪˈmɪt/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 29,
+                  "definitions": [
+                    {
+                      "text": "[ usually sing. ] ~ (of sb/sth)~ (to do sth) ( BrE ) the area of activity over which a particular person or group has authority, control or influence 职权范围；控制范围；影响范围\n-- Even a superficial listen brings up conflicting global issues well beyond its remit as a reasonably low-budget pop record, and it’s always worth having another listen.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "along ... lines",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 30,
+                  "definitions": [
+                    {
+                      "text": "以...为界限：-- Authorities in Montgomery, Ala., charged three White men with assault after they attacked a Black riverboat co-captain at the city’s Riverfront Park over the weekend and ignited a brawl largely along racial lines.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "north of + number",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 31,
+                  "definitions": [
+                    {
+                      "text": "Tesla currently sports a forward price-to-earnings ratio north of 200. 特斯拉目前的预期市盈率已超过 200 倍。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

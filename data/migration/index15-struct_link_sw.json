@@ -1,0 +1,465 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.884Z",
+  "categories": [
+    {
+      "name": "Structure — Link (single word)",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "ADV(-ly)",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "Supposedly",
+              "pronunciation": "/səˈpoʊzɪdli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "adv. according to what is generally thought or believed but not known for certain 据信；据传；据说",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Allegedly",
+              "pronunciation": "/əˈledʒɪdli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "adv. 据说，据宣称",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Justifiably",
+              "pronunciation": "/ˌdʒʌstɪˈfaɪəbli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "adv. 言之有理地， 无可非议地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Invariably",
+              "pronunciation": "/ɪnˈveriəbli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "adv. = without fail: always",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Admittedly",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "used, especially at the beginning of a sentence, when you are accepting that sth is true （尤用于句首）诚然，无可否认",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Undeservedly",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "ˌʌndɪˈzɜːrvɪdli/ adv. 不应得地，不当地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Unwittingly",
+              "pronunciation": "/ʌnˈwɪtɪŋli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "adv. without being aware of what you are doing or the situation that you are involved in 糊里糊涂地；茫然；无意地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Solely",
+              "pronunciation": "/ˈsoʊlli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "adv. only; not involving sb/sth else 仅；只；唯；单独地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Arguably",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "adv. used, often before a comparative or superlative adjective, when you are stating an opinion which you believe you could give reasons to support （常用于形容词比较级或最高级前）可论证地，按理",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Comparably",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "ˈkɑmpərəbli/ adv. in a similar way or to a similar degree",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Ostensibly",
+              "pronunciation": "/ɑːˈstensəbli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "adv. 表面上；外表",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Legitimately",
+              "pronunciation": "/lɪˈdʒɪtɪmətli/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "adv. 合法地；合理地；正当地，合乎逻辑地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Collectively",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "adv. 集体地，共同地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Implicitly",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "1. 暗中地，含蓄地；\n2. 绝对地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "utterly",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "adv. 完全地; 彻底地",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "necessarily",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "used to say that sth cannot be avoided 必然地；不可避免",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "not necessarily",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "不一定；未必：-- The more expensive articles are not necessarily better. 较贵的东西不见得就较好。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Others",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "Whereby",
+              "pronunciation": "/weəˈbaɪ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "adv. by which; because of which 凭此；借以；由于",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Whatsoever",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "adv. /ˌwʌtsoʊˈevər/ used to emphasize a negative statement 丝毫〔用于强调否定句〕\nconj.（古 whatever）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Scarce",
+              "pronunciation": "/skeəs/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "adv. (literary) only just; almost not 勉强；刚；几乎不；简直不",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Thereof",
+              "pronunciation": "/ˌðeərˈɒv/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "adv. (formal) (law 律) of the thing mentioned 在其中；由此",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Granted",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "adv. used to show that you accept that sth is true, often before you make another statement about it（表示肯定属实，然后再作另一番表述）不错，的确",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Seemingly(1)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "adv. in a way that appears to be true but may in fact not be",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Seemingly(2)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "adv. according to what you have read or heard 据说；听说；看来",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Henceforth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "adv. = henceforward 此后；从此以后",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "ditto",
+              "pronunciation": "/ˈdɪtəʊ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "n. used, especially in a list, underneath a particular word or phrase, to show that it is repeated and to avoid having to write it again（尤用于表格中）同上，同前\nadv. ( informal ) used instead of a particular word or phrase, to avoid repeating it（代替某一词语以免重复）同样，也一样",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Lest",
+              "pronunciation": "/lest/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "conj.\n1. in order to prevent sth from happening免得；以免\n2. used to introduce the reason for the particular emotion mentioned（引出产生某种情感的原因）唯恐，担心",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

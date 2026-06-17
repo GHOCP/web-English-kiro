@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { render, screen, within } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import type { CategoryTreeNode, EntryWithRelations } from '@/types';
 import { ThesaurusView, type EntriesByCategory } from './ThesaurusView';
 
@@ -115,17 +115,15 @@ describe('ThesaurusView', () => {
     ).toBeInTheDocument();
   });
 
-  it('renders a word | pronunciation | definition table with column headers', () => {
+  it('renders a word | pronunciation | definition grid of entries', () => {
     render(
       <ThesaurusView category={root} entriesByCategory={entriesByCategory} />,
     );
-    const table = screen.getByRole('table');
-    const headers = within(table).getAllByRole('columnheader');
-    expect(headers.map((h) => h.textContent)).toEqual([
-      'Word',
-      'Pronunciation',
-      'Definition',
-    ]);
+    // Now a grid of <article> cards (one per entry) rather than a table.
+    const articles = screen.getAllByRole('article');
+    expect(articles).toHaveLength(2);
+    expect(screen.getByRole('link', { name: 'provoke' })).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: 'spur' })).toBeInTheDocument();
   });
 
   it('renders each entry word, pronunciation, and Markdown definition', () => {
@@ -176,13 +174,13 @@ describe('ThesaurusView', () => {
     ).toBeTruthy();
   });
 
-  it('renders nothing for an empty group (no table) but keeps the section heading', () => {
+  it('renders nothing for an empty group (no cards) but keeps the section heading', () => {
     render(
       <ThesaurusView category={root} entriesByCategory={{}} />,
     );
     // Structural headings still render even with no entries.
     expect(screen.getByRole('heading', { name: /Verb/ })).toBeInTheDocument();
-    expect(screen.queryByRole('table')).toBeNull();
+    expect(screen.queryByRole('article')).toBeNull();
   });
 
   it('renders multiple part-of-speech sections', () => {
@@ -205,7 +203,7 @@ describe('ThesaurusView', () => {
     render(<ThesaurusView category={multiRoot} entriesByCategory={entries} />);
     expect(screen.getByText('Verbs')).toBeInTheDocument();
     expect(screen.getByText('Nouns')).toBeInTheDocument();
-    // Now using grid layout instead of tables
-    expect(screen.getAllByRole('article')).toHaveLength(4); // 2 entries per group * 2 groups
+    // Now using grid layout instead of tables: one card per entry.
+    expect(screen.getAllByRole('article')).toHaveLength(2); // 1 entry in each of 2 groups
   });
 });

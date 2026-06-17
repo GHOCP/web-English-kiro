@@ -43,12 +43,11 @@
 // Requirements: 2.1, 2.2, 2.4, 3.2, 3.4, 4.3.
 'use client';
 
-import { useCallback, useEffect, useId, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useId, useRef, useState } from 'react';
 import { useSWRConfig } from 'swr';
 
 import { Markdown } from '@/components/Markdown';
 import {
-  ENTRY_TYPES,
   validateCreateEntry,
   validateUpdateEntry,
 } from '@/lib/validation';
@@ -66,6 +65,16 @@ import type {
 // Props & internal form state
 // ---------------------------------------------------------------------------
 
+/**
+ * A selectable target category in the editor's category dropdown. `depth`
+ * drives the indentation so the subtree hierarchy stays readable.
+ */
+export interface CategoryOption {
+  id: number;
+  name: string;
+  depth: number;
+}
+
 export interface EntryEditorProps {
   /**
    * The entry being edited. Omit (or pass `null`) for create mode. When
@@ -77,6 +86,15 @@ export interface EntryEditorProps {
    * edit mode the entry's own category is used unless overridden here.
    */
   categoryId?: number;
+  /**
+   * The categories the entry may be assigned to — typically the open
+   * category and all of its descendant sub-categories, flattened and ordered
+   * for display. When provided (and holding more than one option) the editor
+   * shows a category picker so the owner can choose the exact sub-category
+   * (e.g. the "A", "B", "C" … buckets under "A~Z"). When omitted the entry is
+   * assigned to `categoryId` as before.
+   */
+  categoryOptions?: CategoryOption[];
   /** Called after every successful save with the persisted entry. */
   onSaved?: (entry: EntryWithRelations) => void;
   /** Called when the dialog should close (Close button / Escape / backdrop). */
@@ -130,18 +148,30 @@ const FOCUSABLE =
 export function EntryEditor({
   entry,
   categoryId,
+  categoryOptions,
   onSaved,
   onClose,
 }: EntryEditorProps) {
   const isEditMode = Boolean(entry);
   const effectiveCategoryId = entry?.categoryId ?? categoryId;
 
+  // The category the entry will be saved to. Defaults to the entry's current
+  // category (edit) or the page category (create), and can be changed via the
+  // category picker when `categoryOptions` are supplied.
+  const [selectedCategoryId, setSelectedCategoryId] = useState<number | undefined>(
+    effectiveCategoryId,
+  );
+
+  // Only show the picker when there is a real choice to make.
+  const showCategoryPicker =
+    Array.isArray(categoryOptions) && categoryOptions.length > 1;
+
   // Scalar fields.
   const [word, setWord] = useState(entry?.word ?? '');
   const [pronunciation, setPronunciation] = useState(entry?.pronunciation ?? '');
-  const [entryType, setEntryType] = useState<EntryType>(
-    (entry?.entryType as EntryType) ?? 'word',
-  );
+  // Entry type is not user-editable: new entries default to "word" and editing
+  // preserves whatever type the entry already had.
+  const entryType: EntryType = (entry?.entryType as EntryType) ?? 'word';
   const [notes, setNotes] = useState(entry?.notes ?? '');
 
   // Dynamic lists.
@@ -288,12 +318,16 @@ export function EntryEditor({
         definitions: defs,
         examples: exs,
       };
+      // Allow re-assigning the entry to a different (sub-)category.
+      if (selectedCategoryId !== undefined) {
+        payload.categoryId = selectedCategoryId;
+      }
       return payload;
     }
 
     const payload: CreateEntryRequest = {
       word,
-      categoryId: effectiveCategoryId ?? 0,
+      categoryId: selectedCategoryId ?? effectiveCategoryId ?? 0,
       definitions: defs,
     };
     if (pronunciation.trim().length > 0) payload.pronunciation = pronunciation;
@@ -309,6 +343,7 @@ export function EntryEditor({
     pronunciation,
     entryType,
     notes,
+    selectedCategoryId,
     effectiveCategoryId,
   ]);
 
@@ -461,8 +496,6 @@ export function EntryEditor({
 
   const canUploadImages = savedEntryId !== null;
 
-  const entryTypeOptions = useMemo(() => ENTRY_TYPES, []);
-
   // -------------------------------------------------------------------------
   // Render
   // -------------------------------------------------------------------------
@@ -517,6 +550,50 @@ export function EntryEditor({
               </p>
             ) : null}
 
+            {/* Category picker — choose the exact (sub-)category the entry
+                belongs to (e.g. the "A", "B", "C" buckets under "A~Z"). */}
+            {showCategoryPicker ? (
+              <div>
+                <label
+                  htmlFor="entry-category"
+                  className="block text-sm font-medium"
+                >
+                  Category <span className="text-vocabulary">*</span>
+                </label>
+                <select
+                  id="entry-category"
+                  value={selectedCategoryId ?? ''}
+                  onChange={(e) =>
+                    setSelectedCategoryId(
+                      e.target.value === '' ? undefined : Number(e.target.value),
+                    )
+                  }
+                  aria-invalid={errorFor('categoryId') ? true : undefined}
+                  aria-describedby={
+                    errorFor('categoryId') ? 'entry-category-error' : undefined
+                  }
+                  className="mt-1 w-full rounded-md border border-border bg-surface px-3 py-2 text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+                >
+                  {categoryOptions!.map((opt) => (
+                    <option key={opt.id} value={opt.id}>
+                      {`${'\u00A0\u00A0'.repeat(opt.depth)}${
+                        opt.depth > 0 ? '└ ' : ''
+                      }${opt.name}`}
+                    </option>
+                  ))}
+                </select>
+                {errorFor('categoryId') ? (
+                  <p
+                    id="entry-category-error"
+                    role="alert"
+                    className="mt-1 text-xs text-vocabulary"
+                  >
+                    {errorFor('categoryId')}
+                  </p>
+                ) : null}
+              </div>
+            ) : null}
+
             {/* Word + pronunciation */}
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
               <div>
@@ -567,25 +644,6 @@ export function EntryEditor({
                   </p>
                 ) : null}
               </div>
-            </div>
-
-            {/* Entry type */}
-            <div>
-              <label htmlFor="entry-type" className="block text-sm font-medium">
-                Entry type
-              </label>
-              <select
-                id="entry-type"
-                value={entryType}
-                onChange={(e) => setEntryType(e.target.value as EntryType)}
-                className="mt-1 w-full rounded-md border border-border bg-surface px-3 py-2 text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-writing sm:w-48"
-              >
-                {entryTypeOptions.map((t) => (
-                  <option key={t} value={t}>
-                    {t}
-                  </option>
-                ))}
-              </select>
             </div>
 
             {/* Definitions */}

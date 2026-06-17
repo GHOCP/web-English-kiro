@@ -136,4 +136,51 @@ describe('SectionNavigator', () => {
 
     document.body.removeChild(target);
   });
+
+  it('shows an "Add section" control and calls onAddSection when clicked', async () => {
+    const user = userEvent.setup();
+    const onAddSection = vi.fn();
+    render(
+      <SectionNavigator
+        category={root}
+        anchorPrefix="subtree-cat"
+        onAddSection={onAddSection}
+      />,
+    );
+
+    await user.click(screen.getByRole('button', { name: /add section/i }));
+    expect(onAddSection).toHaveBeenCalledTimes(1);
+  });
+
+  it('shows a per-section edit control and passes the section id', async () => {
+    const user = userEvent.setup();
+    const onEditSection = vi.fn();
+    render(
+      <SectionNavigator
+        category={root}
+        anchorPrefix="subtree-cat"
+        onEditSection={onEditSection}
+      />,
+    );
+
+    await user.click(screen.getByRole('button', { name: /edit #B/i }));
+    expect(onEditSection).toHaveBeenCalledWith(4);
+  });
+
+  it('still renders the panel (so a section can be added) when there are no sub-categories but an add control exists', () => {
+    const onAddSection = vi.fn();
+    render(
+      <SectionNavigator
+        category={cat({ id: 9, name: 'leaf' })}
+        anchorPrefix="subtree-cat"
+        onAddSection={onAddSection}
+      />,
+    );
+
+    expect(
+      screen.getByRole('navigation', { name: /sub-category sections/i }),
+    ).toBeInTheDocument();
+    expect(screen.getByText(/no sub-sections yet/i)).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: /add section/i })).toBeInTheDocument();
+  });
 });

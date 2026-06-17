@@ -186,6 +186,49 @@ describe('EntryEditor', () => {
     expect(mutate).toHaveBeenCalled();
   });
 
+  it('lets the owner pick a sub-category and posts the selected categoryId', async () => {
+    const user = userEvent.setup();
+    const saved = makeEntry({ id: 43, word: 'incite', images: [] });
+    const fetchSpy = vi.fn().mockResolvedValue({
+      ok: true,
+      status: 201,
+      json: async () => saved,
+    });
+    vi.stubGlobal('fetch', fetchSpy);
+
+    render(
+      <EntryEditor
+        categoryId={1}
+        categoryOptions={[
+          { id: 1, name: 'A~Z', depth: 0 },
+          { id: 2, name: '#A', depth: 1 },
+          { id: 3, name: 'B', depth: 1 },
+        ]}
+        onClose={() => {}}
+      />,
+    );
+
+    // The picker defaults to the open category…
+    const select = screen.getByLabelText(/^category/i) as HTMLSelectElement;
+    expect(select.value).toBe('1');
+
+    // …and the owner can file the entry into a specific bucket instead.
+    await user.selectOptions(select, '3');
+    await user.type(screen.getByLabelText(/^word/i), 'incite');
+    await user.type(screen.getByLabelText(/definition 1 text/i), 'to provoke');
+    await user.click(screen.getByRole('button', { name: /create entry/i }));
+
+    await waitFor(() => expect(fetchSpy).toHaveBeenCalledTimes(1));
+    const [, init] = fetchSpy.mock.calls[0];
+    const body = JSON.parse(init.body as string);
+    expect(body.categoryId).toBe(3);
+  });
+
+  it('omits the category picker when no options are supplied', () => {
+    render(<EntryEditor categoryId={3} onClose={() => {}} />);
+    expect(screen.queryByLabelText(/^category/i)).toBeNull();
+  });
+
   it('shows the duplicate message on a 409 response', async () => {
     const user = userEvent.setup();
     const fetchSpy = vi.fn().mockResolvedValue({

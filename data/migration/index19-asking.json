@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.898Z",
+  "categories": [
+    {
+      "name": "Expressions — Asking",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "Time",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "What time does ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "... 什么时候？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "What's the time frame until ...?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "time frame: the length of time that is used or available for sth （用于某事的）一段时间",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "How long before ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "还要多久...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "How long did it take from the time ... to the time...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "从 ... 到 ... 一共用了多久",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "How much longer is this gonna take?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "这还需要多久?",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "How many days later ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "How many days later did he wake up?",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Place",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "What better place to do ... ?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "除了...没有更好的地方了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "where did you feel there was the most opportunity to ... ?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "你认为哪里最有机会去...？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Other",
+          "displayOrder": 2,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "What's the face?!",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "你为啥是那个表情？！",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "How does A differ from B ... ?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "有什么不同",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "How much do you weight?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "你称重是多少？(not appropriate to lady)",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "What's it like to ... ?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "... 是怎么样的感受",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "What is the best ... you've ever ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "你...过的最好的...是什么？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "how much better do ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "...会有多更好",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "What is something...?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "问某样东西",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "What do you make of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "你觉得怎么样？你怎么看...？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

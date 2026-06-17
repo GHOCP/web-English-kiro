@@ -1,0 +1,552 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.886Z",
+  "categories": [
+    {
+      "name": "Structure — Link (phrases)",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "Beginning",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "if any",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "若有的话；即便要",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "if anything (1)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "如果有什么区别的话，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "if anything (2)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "如果要说什么的话，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "said another way",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "另一种方式说",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "if not impossible",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "如果有可能的话",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "rare is that ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "罕见的是，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "the (first) time was when...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "第一次的时候",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "that being said (1), ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "也就是说，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "that being said (2), ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "话虽如此，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "simple put, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "简单地说，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "That said, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "也就是说，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "no sooner...than...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "紧接着：用于表示某事紧接着另一件事发生。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "lest it be thought",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "以免被人认为",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Harsh as it may be to say ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "可能有点尖锐地说，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "The odds are that ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "很可能...；大约...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "很有可能，大约",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Oddly enough, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "说来也怪，奇怪的是",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Let come what might, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "不管发生什么，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "If it wasn't for the ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "如果不是...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "at the risk of stating the obvious, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "可能这是一句废话了，...:",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "As much as it may be unappealing to many ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "As much as it may be unappealing to many, diving is just apart of the game of soccer. 虽然很多人对假摔行为嗤之以鼻，但它其实也是足球比赛的一部分。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Reading between the lines, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "从字里行间来看，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "The way I see it, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "我认为，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Middle",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        },
+        {
+          "name": "Ending",
+          "displayOrder": 2,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "... and the like",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "等等；依次类推",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... and / or vice versa",
+              "pronunciation": "/ˌvaɪs ˈvɜːrsə; ˌvaɪsi ˈvɜːrsə/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "adv. used to say that the opposite of what you have just said is also true 反之亦然",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... or otherwise",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "used to refer to sth that is different from or the opposite of what has just been mentioned 或其他情况；或相反",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "per se",
+              "pronunciation": "/ˌpɜː ˈseɪ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "adv. used meaning ‘by itself’ to show that you are referring to sth on its own, rather than in connection with other things 本身；本质上",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... , to name just a few",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "仅举几例",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "anything but that",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "除那以外的任何事",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... , and so forth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "... 等等",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... with few, if any ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "即使有，也很少",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... up front: ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "预先；说在前面",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "if not both",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

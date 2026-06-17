@@ -1,0 +1,763 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.847Z",
+  "categories": [
+    {
+      "name": "Scenes",
+      "displayOrder": 0,
+      "viewType": "speaking",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "Shopping",
+          "displayOrder": 0,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        },
+        {
+          "name": "Merry Christmas",
+          "displayOrder": 1,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "Merry Christmas with lots of love.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "祝福。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Have a holly, jolly Christmas!",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "祝福。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "May the true meaning of Christmas fill your life with love.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "祝福。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Wish you a Merry Christmas and may this festival bring abundant joy and happiness in your life.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "祝福。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Go to the salon",
+          "displayOrder": 2,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "-- Hi!\n-- Hi! Do you have appointment with us?\n-- No. But do you take without the appointment?\n-- We take walk-in as well. What would you like to have done today?\n-- I'd like to make my hair shorter and change the color.\n-- So you want to have your hair cut and dye?\n-- Yes.\n-- Sounds great. Please take a sear. So what kind of haircut do you like?\n-- I'd like to have here shorter and there longer and longer.\n-- Alright. So you'd like side hangs. And for sure we'll soften the hangs a little. Alright let's go and get your rinsed first.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Friends",
+          "displayOrder": 3,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        },
+        {
+          "name": "Go out to eat",
+          "displayOrder": 4,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "-- Hi, I would like a table.\n-- Sure, how many people will be sitting at the table?\n-- Three people in total.\n-- Did you make a reservation?\n-- No.\n-- You may have to wait a few minutes.\n-- That's fine, thank you",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "拿台。预订。等待。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- We need to add one more chair.\n-- Is another guest coming?\n-- Yes, he'll be here soon\n-- Okay, I think this table can fit one more chair.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "加椅子。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- (waitress) The hostess(/ˈhoʊstəs/) said you needed my help. What can I do for you?\n-- We just need some more water.\nOkay, would you like some ice with that?\n-- ice is fine, I would also like a Coke\n-- I will bring all of that over right away.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "服务员话。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Have you finished looking over the menu?\n-- Yes, I think we are ready to order\n-- What will you be having today?\n-- We are all going to get the special of the day.\n-- Any appetizers?\n-- No, that's all for us.\n-- Ok, I'll get your orders in right away.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "服务员。菜单。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- How's the food so far?\n-- It's really good. I don't think we ordered enough food.\n-- You could share an order of nachos or chicken wings.\n-- Can you bring the menu over again?\n-- Sure, is there anything else?\n-- A water refill would be fine.\n-- Ok, I'll bring it over.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "食物怎么样。一起吃。拿菜单。再装水。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- So what else would you like today?\n-- We are going to share a large order of fries.\n-- Is that all?\n-- Make sure it comes with lots of ketchup and salts.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "番茄酱。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Are we all done with food?\n-- Yes, can we get a dessert menu?\n-- You can find the desserts at the back of the drinks menu. I'll clean up your table and I'll come back to take your order.\n-- That sounds good, thanks.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "吃完了。甜品。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Can we just get the bill?\n-- I'll bring it right over.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "埋单。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- I would like to make a reservation for the next week.\n-- That's good to hear. Which day would you like to come?\n-- Next Wednesday for lunch.\n-- Does noon work for you?\n-- That's a bit early. Do you have a table at 1 p.m.?\n-- Yes, we do. See you then?\n-- Yes, that works.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "定位子。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "It's on me.\nIt's my treat today.\nI'll take care of that.\nOh no, let me get that.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "请客。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Hi! What are we having today?(said by the waitress) -- I'd like a green salas please.\n-- Sure. And what kind of dressing would you like? We have Balsamic, Italian, French, Ranch.\n-- Ranch please.\n-- Ok. What kind of drink would you like?\n-- Water, please.\nWould you like bottled water?\n-- Tap water please.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "dressing: 沙拉的调料。瓶装水 or 免费的水。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Airport",
+          "displayOrder": 5,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "-- Good morning, may I help you?\n-- Yes, I would like to check in.\n-- May I see your ticket and passport, please?\n-- Sure. Here they are.\n-- Here is your boarding pass.\n-- Which gate?\n-- Gate Four. Please go and have a seat in the waiting hall.\n-- Thank you.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "值机，表示办理乘机手续意思，比如行李托运、机上座位预定，打印登机牌。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Please put your baggage on the scale.\n-- What's the weight limit?\n-- 32 kilo grams.\n-- I hope my baggage isn't overweight.\n-- No, it isn't.\n-- May I carry this satchel?\n-- Sure. But please attach this claim tag.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "行李称重。/ˈsætʃəl/（旧时）皮书包，肩背书包。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Do you have any baggage to check in?\n-- Yes, one box.\n-- Would you please put it on the scale?\n-- Sure. By the way, would you please tell me how many kilos of free baggage each passanger is allowed?\n-- The baggage allowance is different according to the class of your ticket. What class are you travelling?\n-- First-class.\n-- For a first-class passenger, the free baggage allowance is forty kilos.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "行李重量。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- How many pieces of baggage can I carry on to the plane?\n-- Passengers holding first class tickets may carry 2 pieces within the total weight of 5 kg onto the plane.\n-- If my baggage exceeds the allowance, what should I do?\n-- If the checked baggage is over the allowance, we will charge you for the overweight.\n-- I see. Thank you very much for your information.\n-- You're welcome. Your boarding pass and baggage check, please.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "手提行李。行李超重加钱。登机牌和行李票。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Is this the right counter to check in for this flight?\n-- Yes, it is. Please put your luggage on the scale.\n-- Your luggage is overweight. The free allowance for luggage is 20 kilos.\n-- Oh, can I keep this little suitcase as hand-luggage?\n-- OK, in this way it's just below the limit.\n-- Here's your ticket and your boarding card.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "行李超重。手提行李。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Sorry to interrupt you. but aren't you Mr. Wu from China?\n-- Oh, yes. I am.\n-- How do you do, Mr. Wu? I'm John Smith from DJ Company. And I'm here to meet you.\n-- How do you do, Mr. Smith? Thank you very much for meeting us here.\n-- You are welcome. You must be exhausted after a long journey.\n-- Oh, no. It was a pleasant trip and everything went smoothly, so we don't feel tired at all.\n-- I'll be your guide during your stay in China.\n-- Wonderful!\n-- Will you please take your baggage and follow me? The taxi's waiting outside.\n-- Fine, let's hurry.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "接机。寒暄。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Where is the luggage claim area?\n-- Go down the escalators at the end of the hallwaym and the baggage claim is on your right.\n-- How will I get my baggage?\n-- Just check the flight display board above each carousel(/ˌkærəˈsel/（机场的）行李传送带).\n-- Do I have to show my ticket to get my bags?\n-- No, but double-check to make sure you get the right ones.\n-- But I'm a transfer passenger. I have a connecting flight to Calgary.\n-- Then you have to bring your luggage to the transfer check-in area.\n-- Thanks. By the way, where can I find a baggage cart?\n-- It's over there.\n-- How can I get this cart out?\n-- You need to put a nickel into this coin feeder.(nickel:（美国和加拿大的）5分镍币)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "取行李区域。拿行李。行李手推车。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- Have you spoted our bags yet?\n-- Yeah, those two, right?\n-- Yes. Oh my god, the baggage is damaged.\n-- Let me see, oh, we are terribly sorry for the carelessness.\n-- What should I do now?\n-- Please fill in the form. We will compensate you for it.\n-- So that's it?\n-- Yes, that's it.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "行李损坏",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- I've been waiting in the baggage claim area for one hour, but still can't find my luggage.\n-- What kind of luggage is it?\n-- One big blue suitcase and one red backpack.\n-- May I know your airline and the flight number?\n-- It's United Airlines. The flight number is 311.\n-- Do you have the baggage claim tags?\n-- Yes. Here they are.\n-- Would you please fill out this form and leave your address and phone number where we can contact you here?\n-- When can I find out about my things?\n-- Maybe by 8 o'clock tonight. Once we find your luggage, we'll contact you as soon as we can. And we will deliver them to where you're staying.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "找不到行李",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Where is the baggage claim area?\nHas all of the luggage come out already?\nIs that your case?\nHas everyone else's baggage arrived?\nHas baggage from fight 929 arrived yet?\nWhere is the counter for lost baggage?\nWhat does your luggage look like?\nWhat happens if you don't find it?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "行李claim 相关（1）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "This is the claim tag.\nI'd like to know when my baggage will arrive.\nPlease line up to wait for your baggage.\nHere is my baggage claim tag.\nIt's too heavy, please give me a hand.\nMy baggage hasn't arrived yet.\nOne piece of my Luggage is missing.\nI can't find my garment bag.\nMy suitcase hasn't arrived yet.\nI would like to be compensated for the damage to my luggage.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "行李claim 相关（2）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "does my luggage go directly to the final destination?\nIs ... sent directly to ...?\nMy flight will have a layover in ...\nHow long will the layover be? 我之间需要停多久呀？",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "中转相关",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Is the plane on schedule? 飞机会准点吗？\nCan I check in my cosmetics? 我可以托运我的化妆品吗？",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "check in 相关",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Which terminal do international flights **depart from**?\nI am **taking a domestic flight** from L.A. to Boston.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Customs",
+          "displayOrder": 6,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "-- Excuse me. Where is the immigration?\n-- May i see your passport?\n-- Here it is.\n-- How long are you going to stay?\n-- For one week.\n-- What is the purpose for your visit?\n-- For sightseeing.\n-- Where are you going to stay?\n-- At the Hilton Hotel.\n-- Do you have anything do declare?\n-- No, nothing.\n-- How much money do you have with you?\n-- I have ten hand dollars in japanese yen.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "简单对话",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "-- May I see your passport, please?\n-- Certainly. Here it is.\n-- You are here for business, I think?\n-- That's right. A German company has invited me for business talks.\n-- How long will you be staying?\n-- Just two weeks.\n-- How many pieces of baggage have you got?\n-- Only one. In this case, I have a camera.\n-- Do you intend to take it out on your departure?\n-- Yes, I do.\n-- According to the regulations,the camera youve brought along for personal use can be passed for the time being duty free,but you will have to take it out with you when you leave the country.\n-- I will.\n-- Well. Have a pleasant stay in Germany.\n-- Thank you.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Phone call",
+          "displayOrder": 7,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "Mary: Hello.\nSimon: Hello, can I speak to Alice, please?\nMary: Sure. Who's calling?\nSimon: It's Simon.\nMary: Just a second.\nAlice: Hello, Alice here.\nSimon: Hi Alice, it's Simon. How are you?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "basics #1",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "George: Hello.\nSimon: Hi, is George there?\nGeorge: Speaking.\nSimon: Hi George, I didn't recognise your voice. It's Simon. I'm just calling to say hello.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "basics #2",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Receptionist: Good morning, Telecom Network Services, Andrea speaking. How may I help you?\nAlice: Good morning, this is Robert Caulson. Could you put me through to the customer care department, please?\nReceptionist: Certainly. One moment, please.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "basics #3",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Mary: Hello.\nSimon: Hello, can I speak to Alice, please?\nMary: Just a second...I'm afraid Alice isn't in at the moment.\nSimon: Do you know what time she'll be back?\nMary: She should be back this evening. Can I take a message?\nSimon: No thanks, I'll call back later. Goodbye. ...\nMary: Hello.\nSimon: Hello, it's Simon again. Is Alice back yet?\nMary: No she isn't I'm afraid.\nSimon: OK, can I leave a message?\nMary: Of course.\nSimon: Could you tell her to call me back when she gets in? I have a new number. It's 57..\nMary: Hold on a second. Let me get a pen and paper .........OK, go ahead.\nSimon: The number is 57929003. Have you got that?\nMary: OK, let me read that back to you. That's 57929003.\nSimon: Yes, that's right.\nMary: Right. I'll make sure she gets your message. Goodbye.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "basics #4",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Let me transfer you to [person’s name]’s extension.\nWould you like me to put you through to [person’s name]?\nCould you please hold? I’ll check if he’s available. (The word “hold” means to hold the line and not hang up.)\nThank you for holding.\nI’m sorry to keep you waiting.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "redirecting calls",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I’m afraid he/she’s not available at the moment. Can I take a message?\nI’m sorry, she/he’s not here/out of town today. Can I take a message?\nCould I ask who’s calling, please?\nI’ll give him/her your message as soon as he/she gets back.\nCould you please take a message? Could you tell her/him that...?\nI’d like to leave her/him a message. Please let her/him know that...\nWhen is a good time to call?\nWhen is she/he going to be back?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "taking and leaving messages",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Could I ask what company you’re with?\nCould you spell that for me, please?\nWhat is the best way to contact you, by phone or email?\nMay I have your phone number/email address?\nI’m sorry, could you please repeat that?\nCould you please clarify what you mean?\nI’m not sure I understand. Did you mean...?\nI’m sorry, I didn’t catch your first name/last name.\nWould you mind speaking up a bit? I can’t hear you very well.\nLet me see if I got that right. Your name is [person’s name] and your phone number is [number].\nTo confirm, your name is [person’s name] and your phone number is [number].",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "asking for information or clarification",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Shall we say February 20th?\nWould the week of February 18th work for you?\nWhat would you suggest?\nDo you have a time/place in mind?\nCould you send me all the information by email?\nCould you send me an email with the detailed offer?\nDo you mind sending me the report again, please?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "making arrangements and requests",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I’ll ask him to call you as soon as he gets back.\nI will follow up with the requested information soon.\nI’ll send you the report as soon as possible.\nI will keep you updated on our progress.\nI don’t have that information right now. Can I call you right back?\nCan I call you back [expected time]?\nI’ll need to find out if we can do that. Let me call you back.\nHello, this is [your name] from [company name]. I’m returning your call about [topic].\nI’m calling to follow up on [topic].",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "promising action and following up",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I’m sorry, I can’t hear you. Could you repeat that, please?\nThe line is quite bad. Could you please say that again?\nI’m sorry, there’s nobody here by that name.\nI’m sorry, you’ve got the wrong number.\nI’m afraid I can’t give you that information.\nSorry, but I’m not allowed to give details about that.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "giving negative information",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Thanks for calling.\nThank you, have a nice day!\nThank you very much for your help.\nThank you for your time.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "ending the call",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "@",
+          "displayOrder": 8,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

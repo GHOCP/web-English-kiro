@@ -1,0 +1,1408 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.881Z",
+  "categories": [
+    {
+      "name": "Structure — Normal",
+      "displayOrder": 0,
+      "viewType": "list",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "“但是”",
+          "displayOrder": 0,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "used to introduce a word or phrase that contrasts with what was said before 而；相反",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- I got it wrong. It wasn't the red one but the blue one.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "however; despite this 然而；尽管如此",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- I'd asked everybody but only two people came. 每个人我都请了，却只来了两个人。\n-- By the end of the day we were tired but happy. 一天结束时，我们很累，但很高兴",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used when you are saying sorry about sth",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "I'm sorry but I can't stay any longer. 很抱歉，我不能再待下去了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "except 除…外；只有",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "I had no choice but to sign the contract.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used before repeating a word in order to emphasize it （重复字词前用，加强语气）",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "Nothing, but nothing would make him change his mind. 没有什么，绝对没有什么会使他改变主意。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "( literary) used to emphasize that sth is always true （强调一贯真实）: never ... but ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "She never passed her old home but she thought of the happy years she had spent there (= she always thought of them) . 她每次经过自己的旧居，都会想起在那里度过的幸福岁月。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "except; apart from 除了；除…之外",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "-- We've had nothing but trouble with this car. 我们这辆车净出毛病。\n-- The problem is anything but easy. 这个问题一点也不简单。\n-- Who but Rosa could think of something like that? 除了罗莎，谁会想得到那种事？\n-- Everyone was there but him. 除他之外，大家都在。\n-- I came last but one in the race (= I wasn't last but next to last) . 我赛跑得了倒数第二名。\n-- Take the first turning but one (= not the first one but the one after it) . 在第二个拐弯处转弯。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "only 只有；仅仅",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "-- I don't think we'll manage it. Still, we can but try. 我想我们应付不了这事。但不妨试试。\n-- There were a lot of famous people there: Tom Hanks and Julia Roberts, to name but two. 那里有很多名人：只提两个名字吧，有汤姆•汉克斯和朱莉娅•罗伯茨。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "[ usually pl.] a reason that sb gives for not doing sth or not agreeing 借口；推辞",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "-- 'Let us have no buts', he said firmly. 'You are coming.' “别找借口了。”他坚定地说，“你得来。”\n-- With so many ifs and buts , it is easier to wait and see. 有这么多托词，还是静观其变吧。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv.1 used to introduce a statement that contrasts with sth that has just been said 然而；不过；仍然",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "-- He was feeling bad. He went to work, however, and tried to concentrate.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv.2 in whatever way 不管怎样；无论如何",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "-- However you look at it, it's going to cost a lot. 不管你怎么看，它都要花很多钱。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv.3 used with an adjective or adverb to mean 'to whatever degree'",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "-- He wanted to take no risks, however small. 他多小的风险也不想冒\n-- She has the window open, however cold it is outside. 不管外面多冷她都开着窗户。\n-- However carefully I explained, she still didn't understand. 无论我解释得多么仔细，她还是没弄懂。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used for introducing a statement that makes the main statement in a sentence seem surprising 虽然；尽管；即使",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "Although the sun was shining it wasn't very warm.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used to mean 'but' or 'however' when you are commenting on a statement 不过；然而",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "I felt he was wrong, although I didn't say so at the time. 我觉得他错了，不过我当时没有说出来。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "despite the fact that 虽然；尽管；即使",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "-- Anne was fond of Tim, though he often annoyed her. 安妮喜欢蒂姆，虽然他经常使她心烦。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used to add a fact or an opinion that makes the previous statement less strong or less important （用于主句后，引出补充说明，使语气变弱）不过，可是，然而",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "-- He'll probably say no, though it's worth asking. 他很可能会拒绝，不过问一下有益无损。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used especially at the end of a sentence to add a fact or an opinion that makes the previous statement less strong or less important （尤用于句末补充说明，使语气减弱）不过，可是，然而",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "-- Our team lost. It was a good game though. 我们队输了，可是这也不失为一场好球。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "despite what has just been said 但是；然而",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "-- It's a small car, yet it's surprisingly spacious. 这辆汽车不大，然而却出奇地宽敞。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "用于否定句和疑问句，谈论尚未发生但可能发生的事",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [
+                {
+                  "text": "-- I haven't received a letter from him yet. 我还没有收到他的信呢。\n-- 'Are you ready?' 'No, not yet.' “你准备好了吗？”“还没有。”",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "( used in negative sentences 用于否定句 ) now; as soon as this 现在；即刻；马上",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "-- Don't go yet. 先别走。\n-- We don't need to start yet. 我们不必马上开始。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "from now until the period of time mentioned has passed 从现在起直至某一时间；还",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "-- He'll be busy for ages yet. 他还要忙很长一段时间。\n-- They won't arrive for at least two hours yet. 他们至少要过两个小时才能到。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "could, might, may, etc. do sth ~: used to say that sth could, might, etc. happen in the future, even though it seems unlikely （表示将来可能发生，尽管现在似乎没有可能）早晚，总有一天",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "-- We may win yet. 我们迟早会赢的。\n-- She could yet surprise us all. 总有一天，她会让我们都大吃一惊。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "the best, longest, etc. sth ~ (done): the best, longest, etc. thing of its kind made, produced, written, etc. until now/then 迄今为止，到当时为止（最好或最长等的）",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "-- It was the highest building yet constructed.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "~ another/more~ again: used to emphasize an increase in number or amount or the number of times sth happens （强调次数或数量的增加）",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "-- snow, snow and yet more snow 下雪，下雪，还要下雪\n-- yet another diet book 又是一本关于节食的书\n-- Prices were cut yet again (= once more, after many other times) . 物价再一次降低。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "~ worse, more importantly, etc.: used to emphasize an increase in the degree of sth (= how bad, important, etc. it is) （强调程度的增加）更 = still / even",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "-- a recent and yet more improbable theory 一个新近提出的但更加不切实际的理论",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/ˌnevəðəˈles/ adv. despite sth that you have just mentioned 尽管如此；不过；然而",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "-- There is little chance that we will succeed in changing the law. Nevertheless, it is important that we try. 我们几乎没有可能改变法律。不过，重要的是我们努力争取。\n-- Our defeat was expected but it is disappointing nevertheless. 我们的失败是意料中的事，尽管如此，还是令人失望。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/ˌnʌnðəˈles/ adv. despite this fact 尽管如此",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "-- The book is too long but, nonetheless, informative and entertaining. 这本书篇幅太长，但是很有知识性和趣味性。\n-- The problems are not serious. Nonetheless, we shall need to tackle them soon. 问题不严重，不过我们还是需要尽快处理。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/ˌɔːlˈbiːɪt/ conj. although 尽管；虽然",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "He finally agreed, albeit reluctantly, to help us. 尽管勉强，他最后还是同意帮助我们。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "“但是”",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**But**\n\n**However**\n\n**Although**\n\n**Though**\n\n**Yet**\n\n**Nevertheless**\n\n**Nontheless**\n\n**Albeit**",
+              "displayOrder": 28,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "“如果，假设”",
+          "displayOrder": 1,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "conj. /prəˈvaɪdɪd/ = if",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- We'll buy everything you produce, provided of course the price is right.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conj.（表示可能）假如，万一，约等于 if",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- Should anyone call (= if anyone calls), please tell them I'm busy. 如果有人打电话来，请告诉他我正忙着。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conj. used to ask sb to pretend that sth is true or to imagine that sth will happen 假定，假设，设想",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- Supposing (that) you are wrong, what will you do then? 假设你错了，那你会怎么办？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "“如果，假设”",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Provided / Providing**\n\n**Should**\n\n**Sopposing**",
+              "displayOrder": 3,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "“也，而且，并且”",
+          "displayOrder": 2,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "( not used with negative verbs 不与否定动词连用) in addition; too 而且；此外；也；同样",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- I didn't like it that much. Also, it was much too expensive. 我并不怎么喜欢它。再说它太贵了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "When you want to add a second negative point in a negative sentence, use not...either .",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- She hasn't phoned and she hasn't written either. 她没来过电话，也没有写信。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "If you are adding a negative point to a positive one, you can use not...as well/too.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- You can have a burger, but you can't have fries as well. 你可以吃汉堡包，但不可以同时又吃炸薯条。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "next to or at the side of sb/sth 在旁边（或附近）",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- He sat beside her all night. 整个晚上他都坐在她的身边。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "compared with sb/sth 与…相比",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "-- My painting looks childish beside yours. 同你的相比，我的画显得很幼稚。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in addition to sb/sth; apart from sb/sth 除…之外（还）",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "-- We have lots of things in common besides music. 除了音乐，我们还有很多共通点。\n-- Besides working as a doctor, he also writes novels in his spare time.\n**WHICH WORD?: besides • apart from • except**\n1. The preposition besides means 'in addition to'. besides作介词表示除…之外（还）：-- What other sports do you like besides football? 除足球外你还喜欢哪些运动？\n2. You use except when you mention the only thing that is not included in a statement. 指仅有某事物不包括在内用except：-- I like all sports except football. 除足球外我喜欢所有的运动。\n3. You can use apart from with both these meanings. 上述两种含义均可用apart from：-- What other sports do you like apart from football? 除足球外你还喜欢哪些运动？ -- I like all sports apart from football. 除足球外我喜欢所有的运动。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used for making an extra comment that adds to what you have just said 况且；再说",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "-- I don't really want to go. Besides, it's too late now. 我并不真的想去。况且现在太晚了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "in addition; also 此外；以及；也",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "-- discounts on televisions, stereos and much more besides 对电视、立体声音响设备以及很多其他货品的折扣",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. the same; in a similar way 同样地；类似地",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "-- He voted for the change and he expected his colleagues to do likewise . 他投票赞成变革并期望他的同事投同样的票。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. also",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "-- Her second marriage was likewise unhappy. 她的第二次婚姻也不幸福。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "used to show that you feel the same towards sb or about sth （表示感觉相同）我也是，我有同感",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "-- 'Let me know if you ever need any help.' 'Likewise.' “你要是需要帮助就告诉我。”“你也一样。”",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. = in addition",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "-- A talented artist, he was, moreover, a writer of some note. 他是一位有才华的艺术家，同时也是颇有名气的作家。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conj. = and",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "-- He's got plenty of brains as well as brawn. 他四肢发达，头脑也不简单。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "prep. = besides",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "-- The coach, as well as the team, is ready.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "“也，而且，并且”",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Also**\n\n**not ... either**\n\n**not...as well/too**\n\n**Beside**\n\n**Besides**\n\n**Likewise**\n\n**Moreover / Furthermore**\n\n**As well as**",
+              "displayOrder": 14,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "“所以”",
+          "displayOrder": 3,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "adv. /ˈðeəfɔː(r)/used to introduce the logical result of sth that has just been mentioned 因此；所以；因而",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- He's only 17 and therefore not eligible to vote. 他只有17岁，因此没有投票选举的资格。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. for this reason 因此；由此",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- We suspect they are trying to hide something, hence the need for an independent inquiry. 我们怀疑他们在企图隐瞒什么事，因此有必要进行独立调查。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "结果是...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- As a result, services have been drastically reduced.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. /ˈsʌbsɪkwəntli/ afterwards; later; after sth else has happened 随后；后来；之后；接着",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- The original interview notes were subsequently lost. 采访记录原稿后来丢失了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "“所以”",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Therefore**\n\n**Hence**\n\n**As a result**\n\n**Subsequently**",
+              "displayOrder": 4,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "“特别是” “主要是”",
+          "displayOrder": 4,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "particularly",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- The car is quite small, especially if you have children. 这辆汽车很小，如果有孩子就尤其显得小。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "for a particular purpose, person, etc. 专门；特地",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- I made it especially for you. 这是我特地为你做的。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "very much; to a particular degree 十分；非常",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- I wasn't feeling especially happy that day. 那天我并不十分高兴。 -- 'Do you like his novels?' 'Not especially.' “你喜欢他的小说吗？”“不十分喜欢。”",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/ɪkˈskluːsɪvli/ adv. only, solely 排除其他地；仅仅；专门地",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- paints produced exclusively for independent retailers\n-- I can exclusively reveal that Gail shares a birthday with Rod Stewart.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. /ˈnəʊtəbli/ used for giving a good or the most important example of sth 尤其；特别 = especially",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "-- The house had many drawbacks, most notably its price. 这房子有很多缺陷，尤其是它的价格。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "adv. to a great degree 极大程度上；非常",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "-- This has not been a notably successful project. 这个项目没有取得很大的成功。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "mainly 主要地",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "-- The book is aimed principally at beginners. 这本书主要是为初学者编写的。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/ˈtʃiːfli/ adv. not completely, but as a most important part 主要地；首要地",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "-- We are chiefly concerned with improving educational standards. 我们主要关心的是提高教育水平。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/praɪˈmerəli/ mainly 主要地；根本地",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "-- a course designed primarily for specialists 主要为专业人员开设的课程",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "尤其，特别是 especially",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "-- The latest plan leaves many questions unanswered, not least how it will be implemented and monitored. 最新的计划带来许多无法解决的问题，尤其是它将如何执行及监控。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "“特别是” “主要是”",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Especially**\n\n**Exclusively**\n\n**Notably**\n\n**Principally**\n\n**Chiefly**\n\n**Primarily**\n\n**Not least**",
+              "displayOrder": 10,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "除此之外",
+          "displayOrder": 5,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "conj. 除…之外",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- I wouldn't have accepted anything except a job in New York.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "conj. 除了... + that",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- Freddie would tell me nothing about what he was writing, except that it was to be a Christmas play.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "PHRASE 除了",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- He hadn't eaten a thing except for one forkful of salad. 除了一口沙拉，他什么都没吃。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "prep. /ˈbɑːrɪŋ/ except for; unless there is/are 除了；除非",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- Barring accidents, we should arrive on time. 除非有意外情况，我们应可按时到达。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "除此之外",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Except**\n\n**Except for**\n\n**Barring**",
+              "displayOrder": 4,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "否则",
+          "displayOrder": 6,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "否则",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Otherwise**\n\n**Or otherwise / And otherwise**",
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- Make a note of the questions you want to ask; you will invariably forget some of them otherwise. 把你想问的问题记下来；否则你准会忘记其中几个。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "You use otherwise before stating the general condition or quality of something, when you are also mentioning an exception to this general condition or quality. 除此以外",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- The decorations for the games have lent a splash of colour to an otherwise drab city. 运动会的装饰为这个平时乏味的城市增添了几抹色彩。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "You use otherwise to refer in a general way to actions or situations that are very different from, or the opposite to, your main statement. 以不同方式",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- Take approximately 60 mg up to four times a day, unless advised otherwise by a doctor. 每天4次，每次约60毫克，或遵医嘱。\n-- There is no way anything would ever happen between us, and believe me I've tried to convince myself otherwise. 无论如何，我们之间不会发生什么。而且，相信我，我已经努力说服自己了。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "You use otherwise to indicate that other ways of doing something are possible in addition to the way already mentioned. 用别的方法",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- The studio could punish its players by keeping them out of work, and otherwise controlling their lives. 电影公司可以通过让演员无角色可演或其他途径控制他们的生活，以惩罚他们。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "You use or otherwise or and otherwise to mention something that is not the thing just referred to or is the opposite of that thing. 或其相反",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "-- It was for the police to assess the validity or otherwise of the evidence. 应由警方来评价证据的有效与否。\n-- They argue that the appeal, or otherwise, of tying yourself to a company depends on what other customers do. 他们认为你对公司采取的上诉或者其他的方式取决于其他消费者怎样做。\n-- Readers will be able to sense when you' re not being authentic, or otherwise trying to hide your natural voice. 读者能感受到当你不真实的、或者以其他方式故意隐瞒你的自然声音。\n-- Side Effects: No biological effects of it or otherwise have been found. 危害： -目前还未发现生物学或其他方面的副作用。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "不管，即使",
+          "displayOrder": 7,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "prep. You use despite to introduce a fact which makes the other part of the sentence surprising. 尽管",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- She has been under house arrest for most of the past decade, despite efforts by the United Nations to have her released.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "prep. You use despite to introduce an idea that appears to contradict your main statement, without suggesting that this idea is true or that you believe it. 尽管",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- She told friends she will stand by husband, despite reports that he sent another woman love notes. 她告诉朋友说，她将支持丈夫，尽管有报道说他在给别的女人递情书。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/rɪˈɡɑːdləs/ adv. paying no attention, even if the situation is bad or there are difficulties 不顾；不加理会",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- The weather was terrible but we carried on regardless . 天气非常恶劣，但我们并不理会，照常进行。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "paying no attention to sth/sb; treating sth/sb as not being important 不管；不顾；不理会",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- The club welcomes all new members regardless of age. 俱乐部对所有新成员不分年龄一律欢迎。\n-- He went ahead and did it, regardless of the consequences. 他说干就干了，没有考虑后果。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "( formal ) ( also used following the noun it refers to亦用于其所指名词之后 ) without being affected by sth; despite sth虽然；尽管",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "-- prep. Notwithstanding some major financial problems, the school has had a successful year.虽然有些重大的经费问题，这所学校一年来还是很成功。\n-- adv. Notwithstanding, the problem is a significant one.然而，这个问题仍很重要。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "不管，即使",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Despite**\n\n**Regardless**\n\n**Regardless of**\n\n**notwithstanding**",
+              "displayOrder": 5,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "因为",
+          "displayOrder": 8,
+          "viewType": "list",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "conj. ~ (that...) because of the fact that 因为",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "-- Granted that it is a simple test to perform, it should be easy to get results quickly. 因为这化验做起来简单，所以应该不难很快得出结果。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "以...为理由；根据...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "-- He retired early on grounds of ill health. 他由于身体不好而提早退休。\n-- Now we shall sentence you to life-long jail on grounds that you have killed the First-Grade State Protection animal. 我们以杀害国家一级保护动物之名判你终身监禁。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "由于；因为；为了……的缘故",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "-- The president declined to deliver the speech himself, on account of a sore throat.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "/ˌɪnəzˈmʌtʃ əz/ conj. ( formal ) used to add a comment on sth that you have just said and to say in what way it is true 因为；鉴于；在…范围内",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "-- He was a very unusual musician inasmuch as he was totally deaf. 他是完全失聪的，从这点上来说，他是个很了不起的音乐家。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "因为",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": "**Granted**\n\n**On grounds of... / On grounds that...**\n\n**on account of**\n\n**inasmuch as**",
+              "displayOrder": 4,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5377 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.851Z",
+  "categories": [
+    {
+      "name": "Daily",
+      "displayOrder": 0,
+      "viewType": "speaking",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "Greeting",
+          "displayOrder": 0,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "hello stranger",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "好久不见",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "nighty night",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "晚安",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bon soir",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "晚安，晚上好",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "yebo",
+              "pronunciation": "/ˈjebɒ/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "1. yes 2. hello",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "what have you been up to?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "你最近在忙什么?",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Interjection",
+          "displayOrder": 1,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "golly gee",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "神啊",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "mercy me",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "an old-fashioned expression meaning \"God have mercy on me!\" and would be used in a\nsituation where the speaker feels alarmed or afraid, or even mildly agitated",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "goodness me / goodness",
+              "pronunciation": "/ˈɡʊdnəs/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "天哪",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "my god",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "我的天",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Oh my!",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "我的天",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Agreement",
+          "displayOrder": 2,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "\"You bet\"",
+              "displayOrder": 0,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "You bet.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "you may be sure; certainly; yes; sure 的确；当然啦；你说的没错\n(a very informal way of enthusiastically answering in the affirmative, or agreeing with what has just been said.)",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You bet it.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "一点没错。你说的没错。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You betcha.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "那还用说。当然行。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You bet I am.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "你说对了。一定会。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Because you bet.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "因为的确。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "you bet life i would.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "我绝对会的。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You can bet your life.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "当然。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Strong agreement",
+              "displayOrder": 1,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "amen",
+                  "pronunciation": "/ˌɑːˈmen/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "Amen to that (= I certainly agree with that) . 我当然同意那个意见。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "agreed",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "同意",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "indeed",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "的确，确实",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yes",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "对",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "certainly",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "当然",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "exactly",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "确实",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "verily",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "= truly / really",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You said it.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "你说得对。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "absolutely",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "绝对是",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "for sure",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "当然",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "ditto",
+                  "pronunciation": "/ˈdɪtoʊ/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "(abbr. do.) ( symbol ”) used, especially in a list, underneath a\nparticular word or phrase, to show that it is repeated and to avoid having to write it again （尤用于表格中）同上，同前",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "without a doubt",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "no question",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问；不用质疑",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "without question",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问；不用质疑",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "precisely",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [
+                    {
+                      "text": "1. used to emphasize that you agree with a statement, especially because you think it is obvious or is similar to what you have just said （加强同意的语气）对，的确如此，一点也不错\n-- 'It's not that easy, is it?' 'No, precisely.' “事情并不那么容易吧？”“对，的确不容易。”\n2. used to emphasize that sth is very true or obvious （强调真实或明显）正是，确实\n-- It's precisely because I care about you that I don't like you staying out late. 正因为我关心你，我才不要你太晚回家。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "assuredly",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [
+                    {
+                      "text": "certainly; definitely 肯定；一定",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "unquestionably",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 16,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "doubtlessly",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 17,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "right",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 18,
+                  "definitions": [
+                    {
+                      "text": "对的",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "ya",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 19,
+                  "definitions": [
+                    {
+                      "text": "对",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "undoubtedly",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 20,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "as you say",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 21,
+                  "definitions": [
+                    {
+                      "text": "遵命；好吧；按你说的",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "definitely",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 22,
+                  "definitions": [
+                    {
+                      "text": "一定",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "you got it",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 23,
+                  "definitions": [
+                    {
+                      "text": "没问题；used to say that you will quickly do what someone has asked you to do\n-- \"Would you like to get me a coffee?\" \"Sure, you got it!\"",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "for real",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 24,
+                  "definitions": [
+                    {
+                      "text": "真的；认真的；严肃的；确实地",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "of course",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 25,
+                  "definitions": [
+                    {
+                      "text": "当然",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yebo",
+                  "pronunciation": "/ˈjebɒ/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 26,
+                  "definitions": [
+                    {
+                      "text": "1. yes 2. hello",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "sure thing",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 27,
+                  "definitions": [
+                    {
+                      "text": "当然",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "without doubt",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 28,
+                  "definitions": [
+                    {
+                      "text": "毫无疑问",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "right you are",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 29,
+                  "definitions": [
+                    {
+                      "text": "你是对的",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "fair enough",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 30,
+                  "definitions": [
+                    {
+                      "text": "something you say to show that you understand why someone has done or said something有道理；说得对；敢情好",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "anytime, anywhere",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 31,
+                  "definitions": [
+                    {
+                      "text": "随时随地效劳",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "cool",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 32,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "\"YES\" / \"OK\"",
+              "displayOrder": 2,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "yup",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yeh",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "ya",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yea",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yep",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yus",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yebo",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "Y",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "yuppers",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "It's everything about \"yup\" but cuter: 很有旋律感像唱歌一样的yuppers，用法跟yup很相像。像是美国牛仔经常会使用 \"yuppers\"。是非常可爱的一种表达。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "uh-huh",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "（表示同意、理解或给出肯定答案）嗯-哼",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "okey",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "O",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "okey-doke / okeydoke",
+                  "pronunciation": "/'əuki'dəuk/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "adv. 可以，好",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Oki Doki",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "O",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Gratitude",
+          "displayOrder": 3,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "\"Thank you\"",
+              "displayOrder": 0,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "Thanks.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "谢谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Many thanks.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thanks a lot.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thanks a bunch.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thank you very much.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thank you for everything",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thanks a million.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thanks for everything.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thanks a ton.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thank you for your kind consideration.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "感谢你的关心。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Much appreciated.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thank you for taking the time to do this.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "非常感谢你的时间。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thanks in advance.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "It's possible to thank people even before they've done you a favor. If someone offers up a future kindness or promises to go out of their way for you, thanking them in advance lets them know they're appreciated even before they've lifted a finger.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "By complimenting",
+              "displayOrder": 1,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "It's very kind of you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "你真好。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "How thoughtful of you!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "你想得真周到!",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You are too kind.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "你真好！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You are an angel.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "你是个天使。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You have my gratitude.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "我感谢您。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You made my day.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "你让我今天很开心。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You saved my day.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "你帮了我大忙。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You are a dear.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "你是一个可爱的人。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You are a life saver.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "你是我的救命恩人。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You've saved my life.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "你帮了我大忙。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Consider yourself heartily thanked.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "衷心感谢你。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "It was so awesome of you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "你太棒了。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "If anyone deserve thanks, it's you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "如果有人值得感谢，那就是你。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Your generosity overwhelms me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [
+                    {
+                      "text": "你的慷慨使我不胜感激。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "What would I do without you?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [
+                    {
+                      "text": "没有你我该怎么办?",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You shouldn't have.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [
+                    {
+                      "text": "Used to express gratitude at unnecessary generosity, especially when receiving a gift. -- What a lovely vase! You shouldn't have!",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You are the best.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 16,
+                  "definitions": [
+                    {
+                      "text": "你是最棒的。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You rock.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 17,
+                  "definitions": [
+                    {
+                      "text": "You rock is a slang phrase of praise or encouragement conveying \"You're awesome (at something)\"\" or \"You can do it!\"\n-- Admit it: You kind of rock when it comes to picking out gifts for everyone on your list.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "\"I\"",
+              "displayOrder": 2,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "I really appreciate it.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "我非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I owe you one.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "我欠你一个人情。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I really appreciate your help.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "我非常感谢你的帮助。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm so grateful.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "太感谢了。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I can't thank you enough.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "我对你感激不尽。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I cannot express my appreciation.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "我无法表达我的感激之情。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I appreciate your time.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "谢谢你抽出时间。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I owe you big time.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "我欠你一个大人情。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'll forever be grateful.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "我将永远心存感激。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Please accept my deepest thanks.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "请接受我最深切的谢意。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Accept my endless gratitude.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "请接受我无尽的感激。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "All my love and thanks to you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "给你我全部的爱和感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "How can I ever possibly thank you?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "我该怎么感谢你呢？",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "How can I ever thank you enough?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [
+                    {
+                      "text": "我该怎么感谢你才好呢？",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "How can I show you how grateful I am?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [
+                    {
+                      "text": "我该如何表达我的感激之情呢?",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I couldn't have done it without you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [
+                    {
+                      "text": "没有你我不可能做到。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I don't know what to say!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 16,
+                  "definitions": [
+                    {
+                      "text": "我不知道该说什么!",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I humbly thank you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 17,
+                  "definitions": [
+                    {
+                      "text": "由衷地谢谢你。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Please accept my best thanks.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 18,
+                  "definitions": [
+                    {
+                      "text": "请接受我最诚挚的谢意",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm grateful for your assistance.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 19,
+                  "definitions": [
+                    {
+                      "text": "我很感激你的帮助。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "It is hard to find words to express my gratitude.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 20,
+                  "definitions": [
+                    {
+                      "text": "很难用言语表达我的感激之情。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I really appreciate everything you've done.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 21,
+                  "definitions": [
+                    {
+                      "text": "非常感谢你做的一切。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I thank you from the bottom of my heart.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 22,
+                  "definitions": [
+                    {
+                      "text": "我打心底里感谢你。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I want you to know how much I value your support.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 23,
+                  "definitions": [
+                    {
+                      "text": "我想让你知道我有多器重你的帮助。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I will never forget what you have done.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 24,
+                  "definitions": [
+                    {
+                      "text": "我永远也不会忘记你所做的。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I wish to thank everyone who pitched in.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 25,
+                  "definitions": [
+                    {
+                      "text": "我要感谢每一个付出努力的人。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Words can't describe how thankful I am.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 26,
+                  "definitions": [
+                    {
+                      "text": "言语无法形容我的感激之情。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My gratitude knows no bounds.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 27,
+                  "definitions": [
+                    {
+                      "text": "我感激不尽。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I truly appreciate…",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 28,
+                  "definitions": [
+                    {
+                      "text": "我非常感谢...",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Thank you for going through the trouble to…",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 29,
+                  "definitions": [
+                    {
+                      "text": "谢谢你不辞辛...",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Words cannot describe how grateful I am for…",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 30,
+                  "definitions": [
+                    {
+                      "text": "语言无法描述我对……的感激之情。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Please accept my deepest thanks for…",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 31,
+                  "definitions": [
+                    {
+                      "text": "请接受我对...最深切的感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm beyond grateful.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 32,
+                  "definitions": [
+                    {
+                      "text": "我非常感谢。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm forever indebted.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 33,
+                  "definitions": [
+                    {
+                      "text": "我永远感激不尽。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Cheers.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 34,
+                  "definitions": [
+                    {
+                      "text": "Cheers isn't just something we say when we're giving a toast. It's also a unique and quick way of saying “thanks.” Try it next time you're at a party or other social event where a lighthearted expression of gratitude is needed.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I sincerely applaud you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 35,
+                  "definitions": [
+                    {
+                      "text": "A true \"thank you\" should be sincere. That means \"genuine; real.\" The best expressions of gratitude are usually the ones that come from the heart.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm blown away by your kindness.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 36,
+                  "definitions": [
+                    {
+                      "text": "If you're blown away by something, that usually means it was unexpectedly inspiring, moving, or touching. Use this one for gestures and acts of kindness that truly make a difference.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "It means the world to me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 37,
+                  "definitions": [
+                    {
+                      "text": "It's not always easy to explain how important or valuable someone's contributions are. Saying “it means the world” to you is a pretty good place to start.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I want to acknowledge how much you've done.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 38,
+                  "definitions": [
+                    {
+                      "text": "Sometimes the \"thanks\" people crave is just knowing that their efforts aren't going unnoticed. Whether it's a colleague, a friend, or a partner, acknowledgment is always a welcome expression of gratitude.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Response to Gratitude",
+          "displayOrder": 4,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "my pleasure / it's a pleasure",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "我很荣幸；别客气；非常高兴为您服务",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "no problem(s) = no prop(s)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "1. Used to say that one is happy to do something -- \"Thanks for your help.\" \"No problem.\"\n2. Used to say that one is not bothered by something -- \"I'm sorry for interrupting you.\" \"No problem.\"\n3. Used to say that something can be done -- \"I would like to pay with my credit card.\" \"No problem.\"",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "you are welcome",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "不客气",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "don't mention it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "Used to answer someone who has just thanked one for something:\n-- \"Thank you so much for your help.\" \"Don't mention it. It was the least I could do.\"",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "it's the least I could do",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "这是我最起码能做的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "no worries",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "1. Used to say that there is no reason to worry\n-- \"What if we miss the bus?\" \"No worries, there's another one in seven minutes.\"\n2. 没问题，指很容易干的事",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "it's nothing",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "小事一桩",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "de nada",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "西班牙语 = it's nothing",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "not at all",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "sometimes used as a polite response after an expression of appreciation or thanks 别客气\n-- \"Thank you for all your trouble.\" \"Not at all.\"",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "think nothing of it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "不用谢；别放在心上",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "it makes no odds",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "没多大差别",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "forget it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "1. said when insisting to someone that there is no need for apology or thanks.\n2. said when telling someone that their idea or aspiration is impracticable.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "that's all right / it's all right",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "Used to answer someone who has just thanked you for something or just said they are sorry for something they did.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "it's no trouble",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "-- It's no trouble at all; on the contrary, it will be a great pleasure to help you. 这根本不麻烦。相反，我很乐意帮助你。\n-- It's no trouble at all, Sir. 先生，一点都不麻烦。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "you're more than welcome",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "你不用客气",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "that's OK / it's OK",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "没关系",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "anytime",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "随时吩咐",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "Apology",
+          "displayOrder": 5,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Say sorry to someone you have hurt",
+              "displayOrder": 0,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "I beg your pardon.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "Used in polite speech to apologize when one has done something impolite or has made a mistake.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I apologize.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "This is the simplest way to apologize for something you did wrong.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My apologies.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My bad.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "This one's slang and should only be used with friends or people your age. It's very casual and generally used to apologize for a minor mistake.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm very/truly/terribly/deeply sorry.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "Use when you're aware that you've hurt someone and want to genuinely apologize.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm so sorry about that.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    },
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 1
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm so sorry, that was thoughtless of me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "Use it if you've hurt someone by doing something thoughtlessly.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm sorry, that was wrong of me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "Use it when you know did something wrong.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I was wrong about that.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "You can use this expression to admit you've made a mistake.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm sorry, that was my fault.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "Use it to admit that you've made a mistake that hurt someone.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm very sorry for the way I behaved.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "Use this if you behaved rudely and want to apologize.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I apologize. I was out of line.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You can blame me for that.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "With this expression, you admit it was your fault and take the blame.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "How should I apologize to you?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [
+                    {
+                      "text": "With this expression, you're asking someone to indicate how to best apologize to them.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I want to say I'm sorry / I want to tell you I'm sorry.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 14,
+                  "definitions": [
+                    {
+                      "text": "A polite way to say you're sorry.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My humble apologies.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 15,
+                  "definitions": [
+                    {
+                      "text": "对不起",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "When something bad has happened to someone you care about",
+              "displayOrder": 1,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "I'm so sorry to hear that.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "Use this to express sympathy for something bad that happened to someone (except the death of someone close to them).",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm sorry that happened to you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "Same as above; it can be used if someone lost a job or had an unpleasant experience.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm so sorry for your loss.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "Use this expression when someone's relative or friend has died.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My deepest sympathies.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My condolences.",
+                  "pronunciation": "/kənˈdoʊlənsɪz/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "Same as above, but more formal.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "That's terrible/dreadful!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "Use this expression to show your sympathy for the terrible thing that happened to someone.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Oh no! How awful! / How terrible!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "Use these exclamations to show that you're shocked at the awful thing that happened to someone.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "When you need to ask someone to repeat something",
+              "displayOrder": 2,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "Sorry?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "This is a common way to both apologize and ask someone to repeat.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Pardon?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "This is a formal way to apologize for asking someone to repeat.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I beg your pardon.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "A very formal way to apologize and ask someone to repeat.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry, I didn't hear you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "With this expression, you indicate that you haven't heard what someone said.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry, I didn't catch what you said.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "This informal term indicates you haven't heard or understood what someone said.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry, could you please repeat that?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "This is a direct way to politely ask someone to repeat.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "when you have made a small mistake (that did not hurt anyone)",
+              "displayOrder": 3,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "My bad! / It was my bad.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "Use it when you've committed a small mistake. Can be used both in a formal and informal setting.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I messed up.",
+                  "pronunciation": "/ˈaɪ ˈmest ʌp/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "If your actions messed something up, you can simply admit it!",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I screwed up.",
+                  "pronunciation": "/ˈaɪ ˈskrud ʌp/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "A very informal way to say that you've messed up.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry about that!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "Use it when you've committed a small mistake. Can be used both in a formal and informal setting.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Oops! / Whoops!",
+                  "pronunciation": "/ˌoʊ eɪ ˈpiz/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "ˈwups/ Usually used to express a light apology for a minor mistake.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Oopsie-daisy!",
+                  "pronunciation": "/ˌoʊ eɪ ˈpzi ˈdeɪzi/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "This expression is meant to be a little silly and apologize for a tiny mistake.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "My mistake!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "Use it when you committed a small error that didn't hurt anymore.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Mea culpa!",
+                  "pronunciation": "/ˈmi ˈkəlpə/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "This expression comes from Latin and generally means admitting to an error.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Oh my goodness! I'm so sorry.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "Use it when you've committed a small error. It can be used both in a formal and informal setting.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry, I didn't mean to do that.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "Sorry, I didn't mean to do that.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "In a professional, formal or business environment",
+              "displayOrder": 4,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "I (want to) sincerely apologize.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "A formal and polite way to say you're sorry.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'd like to apologize for how I reacted / behaved.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "Apologize in a formal manner or for something very serious.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I owe you an apology.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "Apologize for something serious.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Ever so sorry.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "Another way to apologize for something serious.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry for the inconvenience caused.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "This can be used if whatever you did caused an unpleasant situation or badly impacted someone.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry for the late reply.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "If you're replying late to an email, you can apologize for it using this phrase.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Please forgive the lengthy delay.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "Please forgive the lengthy delay.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I apologize for the confusion.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "If your actions somehow made someone feel confused, use this expression to apologize for it.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm sorry to bother you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "Use this if you need to interrupt someone or ask for a favor.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry I couldn't attend the meeting.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "If you missed an appointment, you can apologize for it with this simple phrase.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I must crave your pardon.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "我必须恳求您原谅。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Ask for forgiveness",
+              "displayOrder": 5,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "Can you forgive me?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "Use this if you want to directly ask someone for forgiveness.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Please forgive me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Please forgive me for my behavior.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "If your behavior hurts someone, use this expression to ask for their forgiveness.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Sorry, I won't do it again. Please forgive me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "With this expression, you're promising to never repeat whatever you did to hurt someone.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I hope you can forgive me.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "This phrase expresses your desire to be forgiven.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "How can I make it up to you?",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "With this expression, you're asking someone how you can compensate for your mistake and earn their forgiveness.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Express regret",
+              "displayOrder": 6,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "I truly / really / sincerely regret it.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "If you want to express regret for something you did, simply say it!",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm ashamed of my behavior.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "If your behavior hurt someone, you can express regret with this phrase.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I wish I could take it back.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "Use it when you feel bad for something you did.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I wish I hadn't done that.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "Same as above.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I didn't mean to hurt you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "If you hurt someone unwittingly, use this expression to apologize.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I didn't mean to offend you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "If you offended someone unwittingly, use this expression to apologize.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I feel so wrong about this.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "With this expression, you reaffirm your regret because of something you did.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Response to Apology",
+          "displayOrder": 6,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "\"Foget it\"",
+              "displayOrder": 0,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "forget it",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "1. Said when insisting to someone that there is no need for apology or thanks.\n2. Said when telling someone that their idea or aspiration is impracticable.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "drop it",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "1. = forget it / never mind\n2. To stop talking about something, especially because it is upsetting or annoying.\n-- I don't want to talk about it any more .Just drop it.\n-- Drop it! I should never have brought it up.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "ignore it",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "别管它",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "let it go",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "让它去吧。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "don't concern yourself (about/with ...)",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "别为...担心",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "don't take ... into consideration",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "别为...担心",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "dont't think twice about / don't give a second thought to",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "别多想...",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "it's unimportant",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "...并不重要",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Other respondings",
+              "displayOrder": 1,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "That's OK.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "没关系。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "It happens.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "常有的事。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Don’t worry about it.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "别放在心上。",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I forgive you.",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "(for serious problems)",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "it doesn't matter",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "没关系",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Other respondings",
+              "displayOrder": 2,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "# Answering",
+          "displayOrder": 7,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "I don't know what you mean.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "我不知道你的意思是什么。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I'll get back to you on that.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "我等下再和你说。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "That's what they all say.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "他们都这么说。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I plead the fifth.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "It means that your aren't going to incriminate yourself by not saying “yes” or “no”! When you do say this phrase you are basically saying “yes you did it”, but legally they cannot say you said “yes” or “no”.\n-- Judge: Mr.Parker did you purposely key your ex's car?\n-- Me: “I plead the fifth”",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "\"Explain.\"",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "What to say if someone asks you if you are a boy or a girl:\n\"Explain.\"",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(don't)you wish.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "1. A nonchalant (冷淡的，漠不关心的) way to insult someone to the point of leaving them speechless.\n2. used to tell people in a rude way that it is unlikely that they will get what they want(implies that something will most likely not happen) 想得美；别做梦了\n-- Give you a kiss? You wish.\n-- You think she's going to ask you out? Don't you wish!",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "as you wish",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "如你所愿。服从命令。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "good for you",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "1. An exclamation of encouragement or congratulation.\n-- You got married? Good for you!\n-- The president doesn't dodge “what if” questions. Good for him!\n2. A sarcastic statement that the fact at hand is uninteresting, unimpressive, or irrelevant.\n-- He has a diploma from Harvard? Good for him, he's still not qualified for this job.\n3. 表示对一个事情的敷衍或者讽刺（”呵呵，你开心就好“）: you want to teach me a lesson, really? Good for you.\n-- You want to teach me a lesson, really? Good for you.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "good for it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "To be reliable for something, typically money(able to pay back a loan)\n-- Why won't you lend me the money? You know I'm good for it.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "you don't say(so)",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "1. Used to express surprise\n-- \"She ran off with another man.\" \"You don't say!\"\n2. Often used ironically to show little surprise at something(不见得吧)\n-- \"They lost again.\" \"You don't say. What's that, eight in a row?\"",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "if I'm being honest",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "要是说实话：-- Well, if I'm being honest, it's actually a pretty good idea. 哦，要是说实话，它确实是个好主意。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "no biggie",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "没什么大不了的；不要紧",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "# From net",
+          "displayOrder": 8,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "Ain't no fucking way you wore that!",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "真不敢相信你穿了那个！",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "So are you a top, or a bottom kind of gal?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "所以你想睡在上面还是下面？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "He is about to lower the gas price single handed.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "他将用一人之力把油价降下来",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "True or bluff?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "真或虚张声势?",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "badshit",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "(北美，粗俚语) 完全发疯的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "geo-blocking",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "地域限制",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "# Short",
+          "displayOrder": 9,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "whatever was done is done",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "过去的事就过去了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "过去的事就过去了",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I really hope you can cope",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "我真的希望你能应付得来",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "我真的希望你能应付得来",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Are you single or taken?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "你是单身还是有伴?",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(This is much tougher) than I thought it would be",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 3,
+              "definitions": [
+                {
+                  "text": "比我想象中要难",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "比我想象中要难",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(The new policy is not the worst thing) that could have happened",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 4,
+              "definitions": [
+                {
+                  "text": "新政策并不是可能发生的最糟糕的事情",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                },
+                {
+                  "text": "新政策并不是可能发生的最糟糕的事情",
+                  "partOfSpeech": null,
+                  "displayOrder": 1
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Words of wisdom.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 5,
+              "definitions": [
+                {
+                  "text": "至理名言。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "no need to be sarcastic",
+              "pronunciation": "/sɑːˈkæstɪk/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 6,
+              "definitions": [
+                {
+                  "text": "没必要讽刺我'There's no need to be sarcastic,' she said.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "come what may\ncame what came\nrain or shine",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 7,
+              "definitions": [
+                {
+                  "text": "无论如何，不管发生",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I had no clue ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 8,
+              "definitions": [
+                {
+                  "text": "I had no clue how I would have handled it. 我完全不知道该怎么处理。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "so to say",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 9,
+              "definitions": [
+                {
+                  "text": "可以说是：表示某种说法或形容是一种比喻或不太准确的说法。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "you have my words",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 10,
+              "definitions": [
+                {
+                  "text": "我向你保证",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I seek no quarrel",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 11,
+              "definitions": [
+                {
+                  "text": "我不寻求争吵",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "we are square",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 12,
+              "definitions": [
+                {
+                  "text": "我们扯平了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "what a blunder",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 13,
+              "definitions": [
+                {
+                  "text": "犯了一个大错",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Cigarettes are not for me.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 14,
+              "definitions": [
+                {
+                  "text": "我不喜欢烟",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "this is all together too much to me",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 15,
+              "definitions": [
+                {
+                  "text": "这一切对我来说太沉重了",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "One side complete, ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 16,
+              "definitions": [
+                {
+                  "text": "一边完成后，...",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "I share my deep sympathies with everyone...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 17,
+              "definitions": [
+                {
+                  "text": "I share my deep sympathies with everyone at Rockstar Games.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "... that cannot be questioned",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 18,
+              "definitions": [],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "It's not anything to lose ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 19,
+              "definitions": [
+                {
+                  "text": "It's not anything to lose a lot of sleep over. 整夜失眠没什么大不了的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "Where did i offend you?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 20,
+              "definitions": [
+                {
+                  "text": "我哪里得罪你了？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "That clinches it.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 21,
+              "definitions": [
+                {
+                  "text": "1. 板上钉钉；\n2. to provide the answer to sth; to settle sth that was not certain 提供解决办法；解决；确定：-- 'I'll pay your airfare.' 'Okay, that clinches it —I'll come with you.'“我会帮你付飞机票。”“好，就这么说定—我跟你一起去。”",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "bummer",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 22,
+              "definitions": [
+                {
+                  "text": "[ sing. ] ( informal ) a disappointing or unpleasant situation 失望（或不愉快）的局面",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "my words were chosen carefully",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 23,
+              "definitions": [
+                {
+                  "text": "我的措辞是经过斟酌的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "What are you up to right now?",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 24,
+              "definitions": [
+                {
+                  "text": "你现在在做什么？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "(be) never quite as I would like it to be",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 25,
+              "definitions": [
+                {
+                  "text": "从来都不是我想要的样子：I had already tried on a number of pants in stores, but this one was never quite as I would like it to be.",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "no offense / I have no intention of offend you / do not mean to give offence",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 26,
+              "definitions": [
+                {
+                  "text": "无意冒犯",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "with all due respect",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 27,
+              "definitions": [
+                {
+                  "text": "恕我直言；冒昧地说",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "get lost!",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 28,
+              "definitions": [
+                {
+                  "text": "滚开！",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "it's a steal",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 29,
+              "definitions": [
+                {
+                  "text": "很便宜",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "spare me",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 30,
+              "definitions": [
+                {
+                  "text": "放开我；饶恕我： spare me some time - 饶恕我某个时候饶了我一段时间",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "it doesn't pay to be too nice",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 31,
+              "definitions": [
+                {
+                  "text": "对人太好不值得",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "be my guest",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 32,
+              "definitions": [
+                {
+                  "text": "别客气，请用；请便\n-- If anybody wants to work on this, be my guest. 如果有人想做这件事的话，请便吧。\n-- I am boiling warm beer with butter. Will you be my guest for supper? 我正在用黄油煮热啤酒，你愿意来我这吃晚饭吗？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "i mean it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 33,
+              "definitions": [
+                {
+                  "text": "我是认真的；我是说真的",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "knock it off",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 34,
+              "definitions": [
+                {
+                  "text": "停止做；住口，别再讲下去了；少来这一套",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "money is never an issue",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 35,
+              "definitions": [
+                {
+                  "text": "钱永远不是问题",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "keep me posted",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 36,
+              "definitions": [
+                {
+                  "text": "保持联系：通知我最新的信息或进展，让我了解情况的变化。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "what we do with it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 37,
+              "definitions": [
+                {
+                  "text": "我们用它做什么",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "what the hey",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 38,
+              "definitions": [
+                {
+                  "text": "算了吧：表示对某事的不在乎或放弃，类似于“不管怎样”或“无所谓”。\n-- I don't really want to go to the party, but what the hey, I'll go anyway.\n-- This is probably a bad idea, but what the hey! 这大概是个馊主意，但管它呢！",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "..., no one.",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 39,
+              "definitions": [
+                {
+                  "text": "没有之一：Tea is one of the world's most healthy drink, not one. 茶是世界上最健康的饮料，没有之一！",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "gotcha",
+              "pronunciation": "/ˈɡɒtʃə/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 40,
+              "definitions": [
+                {
+                  "text": "the written form of the way some people pronounce ‘I've got you’, which is not considered to be correct （有人对I've got you发音的书写形式，此读法被视为不正确）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "what say you",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 41,
+              "definitions": [
+                {
+                  "text": "你怎么说：用于询问某人的意见或看法。",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "...short",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 42,
+              "definitions": [
+                {
+                  "text": "还差...多少：-- I'm 19 euros short. 我还差19欧元",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "how much of ...",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 43,
+              "definitions": [
+                {
+                  "text": "Do you know how much of an eyeball magnet it is?",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "don't sweat it",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 44,
+              "definitions": [
+                {
+                  "text": "别担心",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "# Exclamation",
+          "displayOrder": 10,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        },
+        {
+          "name": "# Bads",
+          "displayOrder": 11,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "Nouns",
+              "displayOrder": 0,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "dimwit",
+                  "pronunciation": "/ˈdɪmwɪt/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "傻瓜",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "jerk",
+                  "pronunciation": "/dʒɜːrk/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "粗蠢之人",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "jackass",
+                  "pronunciation": "/ˈdʒækæs/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "n. 公驴；愚蠢的人",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "wanker",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "n. 手淫者；卑鄙的人；傻瓜",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "scumbag",
+                  "pronunciation": "/ˈskʌmˌbæɡ/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "If you refer to someone as a scumbag, you are expressing your feelings of dislike and disgust for them. 人渣",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "dumb ass",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "笨蛋；傻子",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "scum",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "人渣",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "wacky",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "[informal] funny or amusing in a slightly crazy way 古怪的；滑稽可笑的；疯疯癫癫的: -- This guy is wacky he did not hookup(连接) right.",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "blighter",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "讨厌的（或可怜的）家伙（通常指男性）",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "shithead",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "白痴；笨蛋",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "bozo",
+                  "pronunciation": "/ˈbəʊzəʊ/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "( informal ) ( especially NAmE ) a stupid person 傻瓜；笨蛋",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "goofy",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "( informal ) ( especially NAmE ) silly; stupid 愚蠢的；傻的",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "hag",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 12,
+                  "definitions": [
+                    {
+                      "text": "( offensive ) an ugly and/or unpleasant old woman丑陋（或讨厌）的老女人",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "shrew",
+                  "pronunciation": "/ʃruː/",
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 13,
+                  "definitions": [
+                    {
+                      "text": "( offensive ) a woman who is unpleasant, aggressive and often angry 喜怒无常、脾气暴躁的女人",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "Sentences",
+              "displayOrder": 1,
+              "viewType": "speaking",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "suck on ...",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "去你的 XXX",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "off you pop",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "去你的",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "... dang / damn ...",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [
+                    {
+                      "text": "a mild swear word, used instead of damn 倒霉，该死（婉辞，与damn同义）: It's just dang stupid! 简直太愚蠢了！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Leave me alone!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [
+                    {
+                      "text": "走开！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Cut the crap!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 4,
+                  "definitions": [
+                    {
+                      "text": "少废话！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You make me sick!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 5,
+                  "definitions": [
+                    {
+                      "text": "你让我恶心！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Stay out of it!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 6,
+                  "definitions": [
+                    {
+                      "text": "这事你别管！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Don't mess with me!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 7,
+                  "definitions": [
+                    {
+                      "text": "别招惹我！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "I'm sick of you!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 8,
+                  "definitions": [
+                    {
+                      "text": "我受够你了！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Enough is enough!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 9,
+                  "definitions": [
+                    {
+                      "text": "够了！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "You've gone too far!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 10,
+                  "definitions": [
+                    {
+                      "text": "你太过分了！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "Get lost!",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 11,
+                  "definitions": [
+                    {
+                      "text": "滚开！",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "# INT.",
+          "displayOrder": 12,
+          "viewType": "speaking",
+          "partOfSpeech": null,
+          "entries": [
+            {
+              "word": "innit",
+              "pronunciation": "/ˈɪnɪt/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 0,
+              "definitions": [
+                {
+                  "text": "a way of saying ‘isn't it’ （即isn't it）是否，是不是: -- Cold, innit? 很冷，是不是？",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "dunno",
+              "pronunciation": null,
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 1,
+              "definitions": [
+                {
+                  "text": "（non-standard） a way of writing the informal spoken form of ‘I don't know’ 我不知道（I don't know的非正式写法）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            },
+            {
+              "word": "gotcha",
+              "pronunciation": "/ˈɡɒtʃə/",
+              "entryType": "word",
+              "notes": null,
+              "displayOrder": 2,
+              "definitions": [
+                {
+                  "text": "( non-standard ) the written form of the way some people pronounce ‘I've got you’, which is not considered to be correct （有人对I've got you发音的书写形式，此读法被视为不正确）",
+                  "partOfSpeech": null,
+                  "displayOrder": 0
+                }
+              ],
+              "examples": [],
+              "images": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

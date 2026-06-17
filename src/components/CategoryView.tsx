@@ -26,11 +26,14 @@ import useSWR, { useSWRConfig } from 'swr';
 import { ThesaurusView } from '@/components/ThesaurusView';
 import { CategorySubtreeView } from '@/components/CategorySubtreeView';
 import { SectionNavigator } from '@/components/SectionNavigator';
-import { EntryEditor } from '@/components/EntryEditor';
-import { Markdown } from '@/components/Markdown';
+import { EntryEditor, type CategoryOption } from '@/components/EntryEditor';
+import {
+  CategoryEditor,
+  type EditableCategory,
+} from '@/components/CategoryEditor';
 import { recordRecentCategory } from '@/lib/recentCategories';
 import type { CategoryPageData } from '@/lib/pageData';
-import type { EntryWithRelations } from '@/types';
+import type { CategoryViewType, CategoryTreeNode } from '@/types';
 
 export interface CategoryViewProps {
   /** Category id (the route param). */
@@ -49,6 +52,50 @@ const fetcher = (url: string): Promise<CategoryPageData> =>
     if (!res.ok) throw new Error(`Failed to load category (${res.status})`);
     return res.json() as Promise<CategoryPageData>;
   });
+
+/** Stable ascending sort by `displayOrder` without mutating the input. */
+function byDisplayOrder<T extends { displayOrder: number }>(items: T[]): T[] {
+  return [...items].sort((a, b) => a.displayOrder - b.displayOrder);
+}
+
+/**
+ * Flatten a category subtree into the list of assignable options for the entry
+ * editor's category picker. The root is included at depth 0 (so an entry can
+ * still be filed directly under the open category) followed by every
+ * descendant sub-category, depth-first in display order and indented by depth.
+ */
+function buildCategoryOptions(
+  category: CategoryPageData['category'],
+  depth = 0,
+): CategoryOption[] {
+  const options: CategoryOption[] = [
+    { id: category.id, name: category.name, depth },
+  ];
+  for (const child of byDisplayOrder(category.children)) {
+    options.push(...buildCategoryOptions(child, depth + 1));
+  }
+  return options;
+}
+
+/** Depth-first search for a node by id within a category subtree. */
+function findNode(
+  node: CategoryTreeNode,
+  id: number,
+): CategoryTreeNode | null {
+  if (node.id === id) return node;
+  for (const child of node.children) {
+    const found = findNode(child, id);
+    if (found) return found;
+  }
+  return null;
+}
+
+/** Collect the ids of `node` and every descendant beneath it. */
+function collectSubtreeIds(node: CategoryTreeNode): number[] {
+  const ids: number[] = [node.id];
+  for (const child of node.children) ids.push(...collectSubtreeIds(child));
+  return ids;
+}
 
 /** Pick and render the view component matching the category's `viewType`. */
 function renderView(data: CategoryPageData) {
@@ -86,6 +133,9 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
   });
   const { mutate: globalMutate } = useSWRConfig();
   const [creating, setCreating] = useState(false);
+  // Section (sub-category) management modals.
+  const [addingSection, setAddingSection] = useState(false);
+  const [editingSectionId, setEditingSectionId] = useState<number | null>(null);
 
   // Record the visit for the recently-viewed-categories cache (R11.4).
   useEffect(() => {
@@ -95,14 +145,55 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
   const pageData = data ?? initialData;
   const anchorPrefix =
     pageData.viewType === 'thesaurus' ? 'thesaurus-cat' : 'subtree-cat';
+  const categoryOptions = buildCategoryOptions(pageData.category);
+
+  // Revalidate the sidebar tree, this page's data, and entry lists after any
+  // category create/edit/delete so every surface reflects the change.
+  const refreshAfterCategoryChange = () => {
+    void globalMutate(
+      (key) => typeof key === 'string' && key.startsWith('/api/categories'),
+      undefined,
+      { revalidate: true },
+    );
+    void globalMutate(
+      (key) => typeof key === 'string' && key.startsWith('/api/entries'),
+      undefined,
+      { revalidate: true },
+    );
+    void mutate();
+  };
+
+  // Resolve the category currently being edited (if any) to the editor shape.
+  const editingNode =
+    editingSectionId !== null
+      ? findNode(pageData.category, editingSectionId)
+      : null;
+  const editingCategory: EditableCategory | null = editingNode
+    ? {
+        id: editingNode.id,
+        name: editingNode.name,
+        viewType: editingNode.viewType as CategoryViewType,
+        partOfSpeech:
+          (editingNode.partOfSpeech as EditableCategory['partOfSpeech']) ?? null,
+      }
+    : null;
+
+  // Reassignment targets exclude the category being deleted and its subtree.
+  const reassignOptions = editingNode
+    ? categoryOptions.filter(
+        (opt) => !collectSubtreeIds(editingNode).includes(opt.id),
+      )
+    : [];
 
   return (
     <div>
-      {/* Sections navigator with New entry button */}
+      {/* Sections navigator with New entry + section management controls */}
       <SectionNavigator
         category={pageData.category}
         anchorPrefix={anchorPrefix}
         onNewEntry={() => setCreating(true)}
+        onAddSection={() => setAddingSection(true)}
+        onEditSection={(sectionId) => setEditingSectionId(sectionId)}
       />
 
       <div className="mb-4 flex items-center justify-between gap-4">
@@ -113,20 +204,30 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
         ) : (
           <span />
         )}
-        {/* Mobile "New entry" button - shown on small screens since fixed Sections navigator is hidden */}
-        <button
-          type="button"
-          onClick={() => setCreating(true)}
-          className="shrink-0 rounded-md border border-border bg-surface-elevated px-3 py-1.5 text-sm font-medium text-foreground hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-writing md:hidden"
-        >
-          New entry
-        </button>
+        {/* Mobile actions - shown on small screens since fixed Sections navigator is hidden */}
+        <div className="flex items-center gap-2 md:hidden">
+          <button
+            type="button"
+            onClick={() => setAddingSection(true)}
+            className="shrink-0 rounded-md border border-border bg-surface-elevated px-3 py-1.5 text-sm font-medium text-foreground hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+          >
+            New section
+          </button>
+          <button
+            type="button"
+            onClick={() => setCreating(true)}
+            className="shrink-0 rounded-md border border-border bg-surface-elevated px-3 py-1.5 text-sm font-medium text-foreground hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-writing"
+          >
+            New entry
+          </button>
+        </div>
       </div>
       {renderView(pageData)}
 
       {creating ? (
         <EntryEditor
           categoryId={id}
+          categoryOptions={categoryOptions}
           onClose={() => setCreating(false)}
           onSaved={() => {
             // Refresh this category's page data and any /api/entries caches so
@@ -138,6 +239,27 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
               { revalidate: true },
             );
           }}
+        />
+      ) : null}
+
+      {addingSection ? (
+        <CategoryEditor
+          mode="create"
+          defaultParentId={id}
+          parentOptions={categoryOptions}
+          onClose={() => setAddingSection(false)}
+          onSaved={refreshAfterCategoryChange}
+        />
+      ) : null}
+
+      {editingSectionId !== null && editingCategory ? (
+        <CategoryEditor
+          mode="edit"
+          category={editingCategory}
+          reassignOptions={reassignOptions}
+          onClose={() => setEditingSectionId(null)}
+          onSaved={refreshAfterCategoryChange}
+          onDeleted={refreshAfterCategoryChange}
         />
       ) : null}
     </div>

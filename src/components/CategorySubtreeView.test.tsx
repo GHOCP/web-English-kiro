@@ -86,15 +86,11 @@ describe('CategorySubtreeView', () => {
       '/category/2',
     );
 
-    // Entries render as a 3-column table (Word | Pronunciation | Meaning).
-    const table = screen.getByRole('table');
-    const headers = within(table).getAllByRole('columnheader');
-    expect(headers.map((h) => h.textContent)).toEqual([
-      'Word',
-      'Pronunciation',
-      'Meaning',
-    ]);
-    expect(within(table).getByText('/ədˈhɪə/')).toBeInTheDocument();
+    // Entries render as cards in a grid (Word + Pronunciation + Meaning),
+    // two per row for the A~Z buckets.
+    const cards = screen.getAllByRole('article');
+    expect(cards).toHaveLength(2);
+    expect(screen.getByText('/ədˈhɪə/')).toBeInTheDocument();
 
     // Both entries render and link to their detail pages.
     expect(screen.getByRole('link', { name: 'adhere' })).toHaveAttribute(

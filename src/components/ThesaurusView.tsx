@@ -106,6 +106,7 @@ function GroupTable({ entries, labelId }: GroupTableProps) {
           return (
             <article
               key={entry.id}
+              aria-label={entry.word}
               className="rounded-md border border-border bg-surface p-3"
             >
               <div className="flex items-baseline justify-between gap-2">

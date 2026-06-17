@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-31T06:45:49.899Z",
+  "categories": [
+    {
+      "name": "Expressions — Normal",
+      "displayOrder": 0,
+      "viewType": "writing",
+      "partOfSpeech": null,
+      "entries": [],
+      "children": [
+        {
+          "name": "比较",
+          "displayOrder": 0,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": []
+        },
+        {
+          "name": "表示频率",
+          "displayOrder": 1,
+          "viewType": "writing",
+          "partOfSpeech": null,
+          "entries": [],
+          "children": [
+            {
+              "name": "low",
+              "displayOrder": 0,
+              "viewType": "writing",
+              "partOfSpeech": null,
+              "entries": [
+                {
+                  "word": "rarely",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 0,
+                  "definitions": [
+                    {
+                      "text": "not very often",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "exceptionally",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 1,
+                  "definitions": [
+                    {
+                      "text": "1. used before an adjective or adverb to emphasize how strong or unusual the quality is （用于形容词和副词之前表示强调）罕见，特别，非常: -- The weather was exceptionally cold.\n2. only in unusual circumstances 只有在特殊轻情况下；例外地)",
+                      "partOfSpeech": null,
+                      "displayOrder": 0
+                    }
+                  ],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "infrequently",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 2,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                },
+                {
+                  "word": "uncommonly",
+                  "pronunciation": null,
+                  "entryType": "word",
+                  "notes": null,
+                  "displayOrder": 3,
+                  "definitions": [],
+                  "examples": [],
+                  "images": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
