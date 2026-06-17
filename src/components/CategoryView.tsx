@@ -33,7 +33,7 @@ import {
 } from '@/components/CategoryEditor';
 import { recordRecentCategory } from '@/lib/recentCategories';
 import type { CategoryPageData } from '@/lib/pageData';
-import type { CategoryViewType, CategoryTreeNode } from '@/types';
+import type { CategoryTree, CategoryViewType, CategoryTreeNode } from '@/types';
 
 export interface CategoryViewProps {
   /** Category id (the route param). */
@@ -52,6 +52,27 @@ const fetcher = (url: string): Promise<CategoryPageData> =>
     if (!res.ok) throw new Error(`Failed to load category (${res.status})`);
     return res.json() as Promise<CategoryPageData>;
   });
+
+/** Fetch the full category tree (shares the Sidebar's SWR cache key). */
+const treeFetcher = (url: string): Promise<CategoryTree> =>
+  fetch(url).then((res) => {
+    if (!res.ok) throw new Error(`Failed to load categories (${res.status})`);
+    return res.json() as Promise<CategoryTree>;
+  });
+
+/** Locate a node and its parent within a category forest, depth-first. */
+function findNodeWithParent(
+  forest: readonly CategoryTreeNode[],
+  id: number,
+  parent: CategoryTreeNode | null = null,
+): { node: CategoryTreeNode; parent: CategoryTreeNode | null } | null {
+  for (const node of forest) {
+    if (node.id === id) return { node, parent };
+    const found = findNodeWithParent(node.children, id, node);
+    if (found) return found;
+  }
+  return null;
+}
 
 /** Stable ascending sort by `displayOrder` without mutating the input. */
 function byDisplayOrder<T extends { displayOrder: number }>(items: T[]): T[] {
@@ -132,6 +153,12 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
     revalidateOnFocus: false,
   });
   const { mutate: globalMutate } = useSWRConfig();
+  // The full tree shares the Sidebar's '/api/categories' SWR cache, so this is
+  // effectively free. It lets the section picker offer sibling sections even on
+  // a leaf sub-page (where the page category has no children of its own).
+  const { data: tree } = useSWR<CategoryTree>('/api/categories', treeFetcher, {
+    revalidateOnFocus: false,
+  });
   const [creating, setCreating] = useState(false);
   // Section (sub-category) management modals.
   const [addingSection, setAddingSection] = useState(false);
@@ -145,7 +172,18 @@ export function CategoryView({ id, initialData }: CategoryViewProps) {
   const pageData = data ?? initialData;
   const anchorPrefix =
     pageData.viewType === 'thesaurus' ? 'thesaurus-cat' : 'subtree-cat';
-  const categoryOptions = buildCategoryOptions(pageData.category);
+
+  // Build the entry editor's section picker options. Prefer the open category's
+  // own subtree; but when it is a LEAF (no sub-sections of its own) fall back to
+  // its parent's subtree so the owner can still choose among sibling sections
+  // (e.g. creating from inside "C" still lets you pick A / B / C … under
+  // "N (normal)"). Falls back to the page subtree until the tree loads.
+  const located = Array.isArray(tree) ? findNodeWithParent(tree, id) : null;
+  const sectionRoot: CategoryTreeNode =
+    located && located.node.children.length === 0 && located.parent
+      ? located.parent
+      : located?.node ?? pageData.category;
+  const categoryOptions = buildCategoryOptions(sectionRoot);
 
   // Revalidate the sidebar tree, this page's data, and entry lists after any
   // category create/edit/delete so every surface reflects the change.

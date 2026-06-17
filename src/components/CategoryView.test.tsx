@@ -1,5 +1,6 @@
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
 import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
 import type { CategoryPageData } from '@/lib/pageData';
 import type { CategoryTreeNode, EntryWithRelations } from '@/types';
 
@@ -185,5 +186,50 @@ describe('CategoryView caching', () => {
 
   it('exposes a stable SWR cache key per category id', () => {
     expect(categoryDataKey(42)).toBe('/api/categories/42');
+  });
+});
+
+describe('CategoryView entry creation', () => {
+  it('offers a section picker when creating an entry in a writing category with sub-sections', async () => {
+    const user = userEvent.setup();
+    // A writing category (e.g. "N (normal)") with letter sub-sections.
+    const root = node({
+      id: 484,
+      name: 'N (normal)',
+      viewType: 'writing',
+      children: [
+        node({ id: 485, name: 'A', parentId: 484, viewType: 'writing', displayOrder: 0 }),
+        node({ id: 486, name: 'B', parentId: 484, viewType: 'writing', displayOrder: 1 }),
+      ],
+    });
+    const writingPage = pageData({
+      category: root,
+      viewType: 'writing',
+      entries: [],
+      entriesByCategory: {},
+    });
+    // SWR background-revalidates against fetch; return THIS category's data so
+    // the revalidated tree keeps its sub-sections (otherwise the shared stub's
+    // default page data would collapse the picker options).
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(() =>
+        Promise.resolve({
+          ok: true,
+          status: 200,
+          json: () => Promise.resolve(writingPage),
+        } as Response),
+      ),
+    );
+
+    render(<CategoryView id={484} initialData={writingPage} />);
+
+    // Open the entry editor (the SectionNavigator + mobile button both expose it).
+    await user.click(screen.getAllByRole('button', { name: /new entry/i })[0]);
+
+    // The category/section picker is present and lists the sub-sections.
+    const picker = screen.getByLabelText(/^category/i);
+    expect(picker).toBeInTheDocument();
+    expect(screen.getByRole('option', { name: /A/ })).toBeInTheDocument();
   });
 });
